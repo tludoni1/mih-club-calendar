@@ -51,6 +51,15 @@
       .replace(/'/g, "&#039;");
   }
 
+function getTodayIsoDate() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, "0");
+  const day = String(now.getDate()).padStart(2, "0");
+
+  return year + "-" + month + "-" + day;
+}
+  
   function formatDate(value) {
     if (!value) return "";
 
@@ -129,17 +138,21 @@
     });
   }
 
-  function matchesDateRange(event, filters) {
-    if (filters.from && event.date < filters.from) {
-      return false;
-    }
-
-    if (filters.to && event.date > filters.to) {
-      return false;
-    }
-
-    return true;
+function matchesDateRange(event, filters) {
+  if (filters.hidePast && event.date < getTodayIsoDate()) {
+    return false;
   }
+
+  if (filters.from && event.date < filters.from) {
+    return false;
+  }
+
+  if (filters.to && event.date > filters.to) {
+    return false;
+  }
+
+  return true;
+}
 
   function filterEvents(events, filters) {
     return events
@@ -181,6 +194,7 @@
 
       from: widget.dataset.from || "",
       to: widget.dataset.to || "",
+      hidePast: widget.dataset.hidePast === "true",
       limit: Number(widget.dataset.limit || DEFAULT_CONFIG.defaultLimit)
     };
   }
