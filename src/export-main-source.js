@@ -251,22 +251,38 @@ function findAgegroupIdByName(agegroupName) {
 
 function resolveGroupMapping(raw, typeEvent) {
   const sourceGroupId = String(pick(raw, ["id_group", "group_id", "id_category", "category_id"]) || "");
+  const rawAgegroup = pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]);
+  const parsedAgegroup = parseAgegroupWithCategory(rawAgegroup);
 
   if (!sourceGroupId) {
     return {
-      agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
-      agegroup_id: "",
+      agegroup: parsedAgegroup.agegroup,
+      agegroup_id: findAgegroupIdByName(parsedAgegroup.agegroup),
       team: "",
       team_id: "",
       practice_group: "",
       practice_group_id: "",
-      category: "",
+      category: parsedAgegroup.category,
       category_id: "",
       mapping_status: "no_group_id"
     };
   }
 
   if (typeEvent === "P") {
+    if (parsedAgegroup.category !== "") {
+      return {
+        agegroup: parsedAgegroup.agegroup,
+        agegroup_id: findAgegroupIdByName(parsedAgegroup.agegroup),
+        team: "",
+        team_id: "",
+        practice_group: parsedAgegroup.category,
+        practice_group_id: sourceGroupId,
+        category: parsedAgegroup.category,
+        category_id: sourceGroupId,
+        mapping_status: PRACTICE_GROUPS[sourceGroupId] ? "mapped" : "inferred_practice_group"
+      };
+    }
+
     const mappedPracticeGroup = PRACTICE_GROUPS[sourceGroupId];
 
     if (mappedPracticeGroup) {
@@ -284,19 +300,33 @@ function resolveGroupMapping(raw, typeEvent) {
     }
 
     return {
-      agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
-      agegroup_id: "",
+      agegroup: parsedAgegroup.agegroup,
+      agegroup_id: findAgegroupIdByName(parsedAgegroup.agegroup),
       team: "",
       team_id: "",
       practice_group: "",
       practice_group_id: sourceGroupId,
       category: "",
       category_id: sourceGroupId,
-      mapping_status: "unknown_group_id"
+      mapping_status: "unknown_practice_group_id"
     };
   }
 
   if (typeEvent === "GH" || typeEvent === "GA") {
+    if (parsedAgegroup.category !== "") {
+      return {
+        agegroup: parsedAgegroup.agegroup,
+        agegroup_id: findAgegroupIdByName(parsedAgegroup.agegroup),
+        team: parsedAgegroup.category,
+        team_id: sourceGroupId,
+        practice_group: "",
+        practice_group_id: "",
+        category: parsedAgegroup.category,
+        category_id: sourceGroupId,
+        mapping_status: TEAMS[sourceGroupId] ? "mapped" : "inferred_team"
+      };
+    }
+
     const mappedTeam = TEAMS[sourceGroupId];
 
     if (mappedTeam) {
@@ -314,26 +344,26 @@ function resolveGroupMapping(raw, typeEvent) {
     }
 
     return {
-      agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
-      agegroup_id: "",
+      agegroup: parsedAgegroup.agegroup,
+      agegroup_id: findAgegroupIdByName(parsedAgegroup.agegroup),
       team: "",
       team_id: sourceGroupId,
       practice_group: "",
       practice_group_id: "",
       category: "",
       category_id: sourceGroupId,
-      mapping_status: "unknown_group_id"
+      mapping_status: "unknown_team_id"
     };
   }
 
   return {
-    agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
-    agegroup_id: "",
+    agegroup: parsedAgegroup.agegroup,
+    agegroup_id: findAgegroupIdByName(parsedAgegroup.agegroup),
     team: "",
     team_id: "",
     practice_group: "",
     practice_group_id: "",
-    category: "",
+    category: parsedAgegroup.category,
     category_id: sourceGroupId,
     mapping_status: "not_applicable"
   };
