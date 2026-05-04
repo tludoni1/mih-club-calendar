@@ -1,0 +1,64 @@
+.ehcs-calendar-widget {
+  width: 100%;
+  overflow-x: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.ehcs-calendar-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  background: #ffffff;
+}
+
+.ehcs-calendar-table th,
+.ehcs-calendar-table td {
+  padding: 9px 12px;
+  border-bottom: 1px solid #e2e2e2;
+  text-align: left;
+  vertical-align: top;
+}
+
+.ehcs-calendar-table th {
+  font-weight: 700;
+  background: #f3f3f3;
+  color: #222222;
+}
+
+.ehcs-calendar-table td {
+  color: #222222;
+}
+
+.ehcs-calendar-table tbody tr:hover {
+  background: #fafafa;
+}
+
+.ehcs-calendar-table-short th:nth-child(1),
+.ehcs-calendar-table-short td:nth-child(1),
+.ehcs-calendar-table-long th:nth-child(1),
+.ehcs-calendar-table-long td:nth-child(1) {
+  white-space: nowrap;
+  width: 110px;
+}
+
+.ehcs-calendar-table-short th:nth-child(2),
+.ehcs-calendar-table-short td:nth-child(2),
+.ehcs-calendar-table-long th:nth-child(2),
+.ehcs-calendar-table-long td:nth-child(2) {
+  white-space: nowrap;
+  width: 90px;
+}
+
+.ehcs-calendar-empty,
+.ehcs-calendar-error {
+  padding: 12px;
+  border: 1px solid #dddddd;
+  background: #f9f9f9;
+  color: #222222;
+}
+
+.ehcs-calendar-error {
+  border-color: #cc0000;
+}
