@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-04T12:48:47.139Z" start_date="2025-05-04" end_date="2027-05-04" event_count="223">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-04T12:56:43.827Z" start_date="2025-05-04" end_date="2027-05-04" event_count="222">
   <events>
     <event>
       <id>747253</id>
@@ -13397,72 +13397,6 @@
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;158155&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;Längsfeldspiel &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Bäretswil&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 14:15:00&quot;,&quot;end&quot;:&quot;2026-09-05 16:45:00&quot;,&quot;time_start&quot;:&quot;14:15:00&quot;,&quot;time_end&quot;:&quot;16:45:00&quot;,&quot;opponent&quot;:&quot;EHC Wetzikon&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>159112</id>
-      <uid>mih-88-e76ab0d3140d6c17d97d4a7b@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team>U14-Top</team>
-      <team_id>10324</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U14-Top</category>
-      <category_id>10324</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Freundschaft</type>
-      <type_id>G1</type_id>
-
-      <opponent>Argovia Stars</opponent>
-
-      <date>2026-09-05</date>
-      <weekday>Sa</weekday>
-      <time_start>16:45</time_start>
-      <time_end>19:15</time_end>
-      <datetime_start>2026-09-05T16:45:00+02:00</datetime_start>
-      <datetime_end>2026-09-05T19:15:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">159112</field>
-      <field name="id_group">10324</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16</field>
-      <field name="type">Freundschaft</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
-      <field name="date">2026-09-05</field>
-      <field name="weekday">Sa</field>
-      <field name="start">2026-09-05 16:45:00</field>
-      <field name="end">2026-09-05 19:15:00</field>
-      <field name="time_start">16:45:00</field>
-      <field name="time_end">19:15:00</field>
-      <field name="opponent">Argovia Stars</field>
-      <field name="type_type">G1</field>
-      <field name="color">#81c881</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159112&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 16:45:00&quot;,&quot;end&quot;:&quot;2026-09-05 19:15:00&quot;,&quot;time_start&quot;:&quot;16:45:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
