@@ -655,6 +655,157 @@ Debug preview for a calendar link:
 https://mih.raze.ch/kalender.php?practice_group_id=14239&team_id=10328&hide_past=true&name=U18&debug=true
 ```
 
+## HTML widget
+
+The XML is also used by the browser-based HTML widget.
+
+The widget can be embedded into CMS pages to display filtered event lists, for example on team pages.
+
+Required CSS:
+
+```html
+<link rel="stylesheet" href="https://tludoni1.github.io/mih-club-calendar/public/widget/events-widget.css?v=2">
+```
+
+Required widget container:
+
+```html
+<div
+  class="ehcs-calendar-widget"
+  data-practice-group-id="15271"
+  data-team-id="10783"
+  data-template="list-long"
+  data-limit="100"
+  data-hide-past="true">
+</div>
+```
+
+Required JavaScript:
+
+```html
+<script src="https://tludoni1.github.io/mih-club-calendar/public/widget/events-widget.js"></script>
+```
+
+Complete example:
+
+```html
+<link rel="stylesheet" href="https://tludoni1.github.io/mih-club-calendar/public/widget/events-widget.css?v=2">
+
+<div
+  class="ehcs-calendar-widget"
+  data-practice-group-id="15271"
+  data-team-id="10783"
+  data-template="list-long"
+  data-limit="100"
+  data-hide-past="true">
+</div>
+
+<script src="https://tludoni1.github.io/mih-club-calendar/public/widget/events-widget.js"></script>
+```
+
+### Widget source files
+
+| File | Purpose |
+|---|---|
+| `public/widget/events-widget.js` | Loads the XML, filters events and renders the widget. |
+| `public/widget/events-widget.css` | Styling for the rendered widget. |
+| `public/widget/templates.json` | Template definitions, for example `list-short` and `list-long`. |
+
+### Widget data source
+
+The widget reads the XML from:
+
+```text
+https://tludoni1.github.io/mih-club-calendar/data/main-source.xml
+```
+
+### Widget parameters
+
+The widget is configured with `data-*` attributes on the widget container.
+
+| Attribute | Meaning |
+|---|---|
+| `data-practice-group-id` | One or more practice group IDs. |
+| `data-team-id` | One or more team IDs. |
+| `data-template` | Template name from `templates.json`, for example `list-short` or `list-long`. |
+| `data-limit` | Maximum number of displayed events. |
+| `data-hide-past` | If `true`, past events are hidden. |
+
+Multiple IDs can be provided comma-separated:
+
+```html
+<div
+  class="ehcs-calendar-widget"
+  data-practice-group-id="14192"
+  data-team-id="10326,10327"
+  data-template="list-long"
+  data-limit="100"
+  data-hide-past="true">
+</div>
+```
+
+This example displays:
+
+```text
+U16 trainings + U16-A I games + U16-A II games
+```
+
+### Widget templates
+
+The widget templates are stored in:
+
+```text
+public/widget/templates.json
+```
+
+The current templates include:
+
+| Template | Purpose |
+|---|---|
+| `list-short` | Compact event list. |
+| `list-long` | Detailed event list. |
+
+The template can use normalized XML fields such as:
+
+| Placeholder | XML field |
+|---|---|
+| `{{title}}` | `title` |
+| `{{event}}` | `event` |
+| `{{type}}` | `type` |
+| `{{type_id}}` | `type_id` |
+| `{{type_event}}` | `type_event` |
+| `{{agegroup}}` | `agegroup` |
+| `{{agegroup_id}}` | `agegroup_id` |
+| `{{team}}` | `team` |
+| `{{team_id}}` | `team_id` |
+| `{{practice_group}}` | `practice_group` |
+| `{{practice_group_id}}` | `practice_group_id` |
+| `{{category}}` | `category` |
+| `{{category_id}}` | `category_id` |
+| `{{opponent}}` | `opponent` |
+| `{{date}}` | `date` |
+| `{{weekday}}` | `weekday` |
+| `{{time_start}}` | `time_start` |
+| `{{time_end}}` | `time_end` |
+| `{{datetime_start}}` | `datetime_start` |
+| `{{datetime_end}}` | `datetime_end` |
+| `{{place}}` | `place` |
+| `{{location_id}}` | `location_id` |
+| `{{notes}}` | `notes` |
+| `{{description}}` | `description` |
+| `{{url}}` | `url` |
+| `{{mapping_status}}` | `mapping_status` |
+
+### Widget design rules
+
+- The widget must use the XML as its source.
+- The widget must not hard-code team or practice group names.
+- New groups and teams should appear automatically if they are present in the XML.
+- Past events can be hidden with `data-hide-past="true"`.
+- The widget should support multiple widgets on the same CMS page.
+- The widget should remain independent from the PHP calendar feed.
+
+
 ## Recommended workflow
 
 The complete flow is:
