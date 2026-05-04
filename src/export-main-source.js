@@ -213,6 +213,42 @@ function collectEventsFromJson(json) {
   return [];
 }
 
+function parseAgegroupWithCategory(value) {
+  const text = String(value ?? "").trim();
+
+  const match = text.match(/^(.+?)\s*\((.+?)\)\s*$/);
+
+  if (!match) {
+    return {
+      agegroup: text,
+      category: ""
+    };
+  }
+
+  return {
+    agegroup: match[1].trim(),
+    category: match[2].trim()
+  };
+}
+
+function findAgegroupIdByName(agegroupName) {
+  const normalized = String(agegroupName ?? "").trim();
+
+  for (const item of Object.values(PRACTICE_GROUPS)) {
+    if (item.agegroup === normalized) {
+      return item.agegroup_id;
+    }
+  }
+
+  for (const item of Object.values(TEAMS)) {
+    if (item.agegroup === normalized) {
+      return item.agegroup_id;
+    }
+  }
+
+  return "";
+}
+
 function resolveGroupMapping(raw, typeEvent) {
   const sourceGroupId = String(pick(raw, ["id_group", "group_id", "id_category", "category_id"]) || "");
 
