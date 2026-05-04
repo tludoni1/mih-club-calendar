@@ -1,15 +1,25 @@
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
-import { chromium } from "playwright";
 
 const CONFIG = {
   sourceUrl: "https://app.myice.hockey/clubschedulepublic.php?cid=88&lid=1",
-  sourceType: "public_club_schedule",
+  apiUrl: "https://app.myice.hockey/inc/processclubplanningpublic.php",
+  sourceType: "public_club_schedule_api",
   clubId: "88",
   languageId: "1",
   timezone: "Europe/Zurich",
-  outputFile: "data/main-source.xml"
+  outputFile: "data/main-source.xml",
+
+  // Aus dem öffentlichen Source Code:
+  // minDate='2025-05-04'
+  // maxDate='2027-05-04'
+  startDate: "2025-05-04",
+  endDate: "2027-05-04",
+
+  // Null bedeutet: nicht auf eine Altersgruppe einschränken.
+  // Für U18-U21 wäre es "144".
+  ageGroupId: null
 };
 
 function ensureDirectoryExists(filePath) {
@@ -26,29 +36,44 @@ function escapeXml(value) {
     .replaceAll("'", "&apos;");
 }
 
-function stableJson(value) {
-  return JSON.stringify(value ?? {}, Object.keys(value ?? {}).sort());
+function formatDateSwiss(dateString) {
+  const [year, month, day] = dateString.split("-");
+  return `${day}.${month}.${year}`;
 }
 
-function generateUid(event) {
-  const sourceId =
-    event.id ||
-    event.id_event ||
-    event.event_id ||
-    event.uid ||
-    "";
+function addMonths(dateString, months) {
+  const date = new Date(`${dateString}T00:00:00Z`);
+  date.setUTCMonth(date.getUTCMonth() + months);
+  return date.toISOString().slice(0, 10);
+}
 
-  const basis = sourceId
-    ? `mih-${CONFIG.clubId}-${sourceId}`
-    : stableJson(event);
+function getMonthlyRanges(startDate, endDate) {
+  const ranges = [];
+  let currentStart = startDate;
 
-  const hash = crypto
-    .createHash("sha256")
-    .update(basis)
-    .digest("hex")
-    .slice(0, 24);
+  while (currentStart <= endDate) {
+    let currentEnd = addMonths(currentStart, 1);
+    currentEnd = addDays(currentEnd, -1);
 
-  return `mih-${CONFIG.clubId}-${hash}@ehc-sursee.local`;
+    if (currentEnd > endDate) {
+      currentEnd = endDate;
+    }
+
+    ranges.push({
+      start: currentStart,
+      end: currentEnd
+    });
+
+    currentStart = addDays(currentEnd, 1);
+  }
+
+  return ranges;
+}
+
+function addDays(dateString, days) {
+  const date = new Date(`${dateString}T00:00:00Z`);
+  date.setUTCDate(date.getUTCDate() + days);
+  return date.toISOString().slice(0, 10);
 }
 
 function normalizeDate(value) {
@@ -101,6 +126,36 @@ function pick(raw, keys) {
   return "";
 }
 
+function stableJson(value) {
+  return JSON.stringify(value ?? {}, Object.keys(value ?? {}).sort());
+}
+
+function generateUid(event) {
+  const sourceId = pick(event, ["id", "id_event", "event_id"]);
+
+  const basis = sourceId
+    ? `mih-${CONFIG.clubId}-${sourceId}`
+    : stableJson(event);
+
+  const hash = crypto
+    .createHash("sha256")
+    .update(basis)
+    .digest("hex")
+    .slice(0, 24);
+
+  return `mih-${CONFIG.clubId}-${hash}@ehc-sursee.local`;
+}
+
+function collectEventsFromJson(json) {
+  if (Array.isArray(json)) return json;
+
+  if (Array.isArray(json?.data)) return json.data;
+  if (Array.isArray(json?.events)) return json.events;
+  if (Array.isArray(json?.items)) return json.items;
+
+  return [];
+}
+
 function normalizeEvent(raw) {
   const typeEvent = pick(raw, [
     "type_event",
@@ -117,8 +172,7 @@ function normalizeEvent(raw) {
   const agegroupId = pick(raw, [
     "type_agegroup",
     "agegroup_id",
-    "id_agegroup",
-    "agegroup"
+    "id_agegroup"
   ]);
 
   const teamId = pick(raw, [
@@ -137,29 +191,6 @@ function normalizeEvent(raw) {
     "id_category",
     "category_id"
   ]) || teamId || practiceGroupId;
-
-  const eventName = pick(raw, [
-    "event",
-    "event_name",
-    "name"
-  ]);
-
-  const title = pick(raw, [
-    "title",
-    "name",
-    "event"
-  ]);
-
-  const type = pick(raw, [
-    "type",
-    "type_name"
-  ]);
-
-  const typeId = pick(raw, [
-    "type_type",
-    "type_id",
-    "id_type"
-  ]);
 
   const date = normalizeDate(pick(raw, [
     "date",
@@ -181,19 +212,13 @@ function normalizeEvent(raw) {
     uid: generateUid(raw),
 
     type_event: typeEvent,
-    event: eventName,
-    title,
+    event: pick(raw, ["event", "event_name", "name"]),
+    title: pick(raw, ["title", "name", "event"]),
 
-    agegroup: pick(raw, [
-      "agegroup_name",
-      "agegroup_label"
-    ]),
+    agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
     agegroup_id: agegroupId,
 
-    team: pick(raw, [
-      "team_name",
-      "team_label"
-    ]),
+    team: pick(raw, ["team_name", "team_label"]),
     team_id: teamId,
 
     practice_group: pick(raw, [
@@ -203,18 +228,13 @@ function normalizeEvent(raw) {
     ]),
     practice_group_id: practiceGroupId,
 
-    category: pick(raw, [
-      "category",
-      "category_name"
-    ]),
+    category: pick(raw, ["category", "category_name"]),
     category_id: categoryId,
 
-    type,
-    type_id: typeId,
+    type: pick(raw, ["type", "type_name"]),
+    type_id: pick(raw, ["type_type", "type_id", "id_type"]),
 
-    opponent: pick(raw, [
-      "opponent"
-    ]),
+    opponent: pick(raw, ["opponent"]),
 
     date,
     time_start: timeStart,
@@ -222,26 +242,13 @@ function normalizeEvent(raw) {
     datetime_start: buildDateTime(date, timeStart),
     datetime_end: buildDateTime(date, timeEnd),
 
-    place: pick(raw, [
-      "place",
-      "location"
-    ]),
-    location_id: pick(raw, [
-      "id_location",
-      "location_id"
-    ]),
+    place: pick(raw, ["place", "location"]),
+    location_id: pick(raw, ["id_location", "location_id"]),
 
-    notes: pick(raw, [
-      "notes"
-    ]),
-    description: pick(raw, [
-      "description"
-    ]),
+    notes: pick(raw, ["notes"]),
+    description: pick(raw, ["description"]),
 
-    url: pick(raw, [
-      "url",
-      "link"
-    ]),
+    url: pick(raw, ["url", "link"]),
 
     raw
   };
@@ -316,7 +323,7 @@ function buildXml(events) {
   const exportedAt = new Date().toISOString();
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="${escapeXml(CONFIG.sourceUrl)}" source_type="${escapeXml(CONFIG.sourceType)}" club_id="${escapeXml(CONFIG.clubId)}" language_id="${escapeXml(CONFIG.languageId)}" exported_at="${escapeXml(exportedAt)}" event_count="${events.length}">
+<calendar source_url="${escapeXml(CONFIG.sourceUrl)}" api_url="${escapeXml(CONFIG.apiUrl)}" source_type="${escapeXml(CONFIG.sourceType)}" club_id="${escapeXml(CONFIG.clubId)}" language_id="${escapeXml(CONFIG.languageId)}" exported_at="${escapeXml(exportedAt)}" start_date="${escapeXml(CONFIG.startDate)}" end_date="${escapeXml(CONFIG.endDate)}" event_count="${events.length}">
   <events>
 ${events.map(eventToXml).join("\n")}
   </events>
@@ -324,90 +331,95 @@ ${events.map(eventToXml).join("\n")}
 `;
 }
 
-function collectEventsFromJson(json) {
-  if (Array.isArray(json)) return json;
+async function fetchEventsForRange(range) {
+  const body = new URLSearchParams();
 
-  if (Array.isArray(json?.data)) return json.data;
-  if (Array.isArray(json?.events)) return json.events;
-  if (Array.isArray(json?.items)) return json.items;
+  body.set("type", "filtermypublic");
+  body.set("typeagegroup[]", "*");
+  body.set("typeevent[]", "*");
+  body.set("typetype[]", "*");
+  body.set("start", formatDateSwiss(range.start));
+  body.set("end", formatDateSwiss(range.end));
+  body.set("club", CONFIG.clubId);
+  body.set("lang", CONFIG.languageId);
+  body.set("location[]", "*");
 
-  return [];
+  if (CONFIG.ageGroupId) {
+    body.set("ag", CONFIG.ageGroupId);
+  }
+
+  const response = await fetch(CONFIG.apiUrl, {
+    method: "POST",
+    headers: {
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "x-requested-with": "XMLHttpRequest",
+      "referer": CONFIG.sourceUrl
+    },
+    body
+  });
+
+  if (!response.ok) {
+    throw new Error(`API request failed: ${response.status} ${response.statusText}`);
+  }
+
+  const text = await response.text();
+
+  try {
+    const json = JSON.parse(text);
+    return collectEventsFromJson(json);
+  } catch {
+    throw new Error(`API response was not JSON. First 300 characters: ${text.slice(0, 300)}`);
+  }
 }
 
-async function scrapeCalendar() {
-  const browser = await chromium.launch({
-    headless: true
-  });
+function deduplicateEvents(events) {
+  const seen = new Set();
+  const result = [];
 
-  const page = await browser.newPage();
+  for (const event of events) {
+    const key =
+      event.id ||
+      `${event.date}|${event.time_start}|${event.time_end}|${event.title}|${event.place}`;
 
-  const rawEvents = [];
+    if (seen.has(key)) continue;
 
-  page.on("response", async (response) => {
-    const responseUrl = response.url();
-    const contentType = response.headers()["content-type"] || "";
+    seen.add(key);
+    result.push(event);
+  }
 
-    const looksRelevant =
-      responseUrl.includes("clubschedule") ||
-      responseUrl.includes("calendar") ||
-      responseUrl.includes("planning") ||
-      responseUrl.includes("processclubplanning");
-
-    if (!looksRelevant) return;
-
-    try {
-      if (
-        contentType.includes("application/json") ||
-        contentType.includes("text/json") ||
-        contentType.includes("text/html") ||
-        contentType === ""
-      ) {
-        const text = await response.text();
-
-        if (!text.trim().startsWith("{") && !text.trim().startsWith("[")) {
-          return;
-        }
-
-        const json = JSON.parse(text);
-        rawEvents.push(...collectEventsFromJson(json));
-      }
-    } catch {
-      // Some relevant requests may not be JSON. Ignore them.
-    }
-  });
-
-  await page.goto(CONFIG.sourceUrl, {
-    waitUntil: "networkidle",
-    timeout: 60000
-  });
-
-  await page.waitForTimeout(3000);
-
-  await browser.close();
-
-  return rawEvents;
+  return result;
 }
 
 async function main() {
   console.log("Starting My Ice Hockey calendar export...");
-  console.log(`Source: ${CONFIG.sourceUrl}`);
+  console.log(`API: ${CONFIG.apiUrl}`);
+  console.log(`Range: ${CONFIG.startDate} to ${CONFIG.endDate}`);
 
-  const rawEvents = await scrapeCalendar();
+  const ranges = getMonthlyRanges(CONFIG.startDate, CONFIG.endDate);
 
-  const normalizedEvents = rawEvents
-    .map(normalizeEvent)
-    .sort((a, b) => {
-      const aKey = `${a.date} ${a.time_start} ${a.title}`;
-      const bKey = `${b.date} ${b.time_start} ${b.title}`;
-      return aKey.localeCompare(bKey);
-    });
+  const rawEvents = [];
+
+  for (const range of ranges) {
+    console.log(`Fetching ${range.start} to ${range.end}...`);
+    const rangeEvents = await fetchEventsForRange(range);
+    console.log(`  Found ${rangeEvents.length} events`);
+    rawEvents.push(...rangeEvents);
+  }
+
+  const normalizedEvents = deduplicateEvents(
+    rawEvents.map(normalizeEvent)
+  ).sort((a, b) => {
+    const aKey = `${a.date} ${a.time_start} ${a.title}`;
+    const bKey = `${b.date} ${b.time_start} ${b.title}`;
+    return aKey.localeCompare(bKey);
+  });
 
   const xml = buildXml(normalizedEvents);
 
   ensureDirectoryExists(CONFIG.outputFile);
   fs.writeFileSync(CONFIG.outputFile, xml, "utf8");
 
-  console.log(`Exported events: ${normalizedEvents.length}`);
+  console.log(`Exported unique events: ${normalizedEvents.length}`);
   console.log(`Written file: ${CONFIG.outputFile}`);
 }
 
