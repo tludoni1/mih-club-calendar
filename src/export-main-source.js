@@ -2,6 +2,66 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 
+const AGE_GROUPS = {
+  "63": "Aktiv",
+  "74": "Erfassungsstufe",
+  "143": "U14-U16",
+  "144": "U18-U21"
+};
+
+const PRACTICE_GROUPS = {
+  "15268": { agegroup_id: "63", agegroup: "Aktiv", name: "1. Mannschaft" },
+  "15269": { agegroup_id: "63", agegroup: "Aktiv", name: "2. Mannschaft" },
+  "15270": { agegroup_id: "63", agegroup: "Aktiv", name: "Damen" },
+  "15271": { agegroup_id: "63", agegroup: "Aktiv", name: "Senioren" },
+
+  "14189": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U12" },
+  "14190": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U09" },
+  "14235": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U07 Sommertraining" },
+  "14236": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U09 Sommertraining" },
+  "14237": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U11 Sommertraining" },
+
+  "14191": { agegroup_id: "143", agegroup: "U14-U16", name: "U14" },
+  "14192": { agegroup_id: "143", agegroup: "U14-U16", name: "U16" },
+  "14193": { agegroup_id: "143", agegroup: "U14-U16", name: "U14+U16" },
+  "14194": { agegroup_id: "143", agegroup: "U14-U16", name: "Morgentraining" },
+  "14238": { agegroup_id: "143", agegroup: "U14-U16", name: "U14 Sommertraining" },
+  "14330": { agegroup_id: "143", agegroup: "U14-U16", name: "Torhüter (jüngere)" },
+  "14331": { agegroup_id: "143", agegroup: "U14-U16", name: "Torhüter (ältere)" },
+
+  "14239": { agegroup_id: "144", agegroup: "U18-U21", name: "U18" },
+  "14240": { agegroup_id: "144", agegroup: "U18-U21", name: "U21" }
+};
+
+const TEAMS = {
+  "10780": { agegroup_id: "63", agegroup: "Aktiv", name: "1. Mannschaft" },
+  "10781": { agegroup_id: "63", agegroup: "Aktiv", name: "2. Mannschaft" },
+  "10782": { agegroup_id: "63", agegroup: "Aktiv", name: "Damen" },
+  "10783": { agegroup_id: "63", agegroup: "Aktiv", name: "Senioren" },
+
+  "10318": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U09-1" },
+  "10319": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U09-2" },
+  "10321": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U12-1" },
+  "10322": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U12-2" },
+  "10323": { agegroup_id: "74", agegroup: "Erfassungsstufe", name: "U12-3" },
+
+  "10325": { agegroup_id: "143", agegroup: "U14-U16", name: "U14-A" },
+  "10324": { agegroup_id: "143", agegroup: "U14-U16", name: "U14-Top" },
+  "10326": { agegroup_id: "143", agegroup: "U14-U16", name: "U16-A I" },
+  "10327": { agegroup_id: "143", agegroup: "U14-U16", name: "U16-A II" },
+
+  "10328": { agegroup_id: "144", agegroup: "U18-U21", name: "U18-A" },
+  "10329": { agegroup_id: "144", agegroup: "U18-U21", name: "U21-A" }
+};
+
+const LOCATIONS = {
+  "Eishalle Sursee - Kraftraum": "2293",
+  "Eishalle Sursee - Tribüne": "2294",
+  "Eishalle Sursee - Eisfeld": "2297",
+  "Turnhalle Neufeld - Turnhalle": "2298",
+  "Turnhalle St. Georg - Turnhalle": "2299"
+};
+
 const CONFIG = {
   sourceUrl: "https://app.myice.hockey/clubschedulepublic.php?cid=88&lid=1",
   apiUrl: "https://app.myice.hockey/inc/processclubplanningpublic.php",
