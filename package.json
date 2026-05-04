@@ -1,0 +1,13 @@
+{
+  "name": "mih-club-calendar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Exports the EHC Sursee My Ice Hockey club calendar into a normalized XML main source for later HTML and iCalendar outputs.",
+  "type": "module",
+  "scripts": {
+    "export:xml": "node src/export-main-source.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
