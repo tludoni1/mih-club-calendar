@@ -27,6 +27,10 @@ function ensureDirectoryExists(filePath) {
   fs.mkdirSync(directory, { recursive: true });
 }
 
+function sleep(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
+
 function escapeXml(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -399,12 +403,14 @@ async function main() {
 
   const rawEvents = [];
 
-  for (const range of ranges) {
-    console.log(`Fetching ${range.start} to ${range.end}...`);
-    const rangeEvents = await fetchEventsForRange(range);
-    console.log(`  Found ${rangeEvents.length} events`);
-    rawEvents.push(...rangeEvents);
-  }
+for (const range of ranges) {
+  console.log(`Fetching ${range.start} to ${range.end}...`);
+  const rangeEvents = await fetchEventsForRange(range);
+  console.log(`  Found ${rangeEvents.length} events`);
+  rawEvents.push(...rangeEvents);
+
+  await sleep(1000);
+}
 
   const normalizedEvents = deduplicateEvents(
     rawEvents.map(normalizeEvent)
