@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-04T13:56:25.946Z" start_date="2025-05-04" end_date="2027-05-04" event_count="224">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-04T15:01:42.401Z" start_date="2025-05-04" end_date="2027-05-04" event_count="223">
   <events>
     <event>
       <id>747253</id>
@@ -11813,72 +11813,6 @@
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;775796&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-07-02&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-07-02 19:30:00&quot;,&quot;end&quot;:&quot;2026-07-02 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>159950</id>
-      <uid>mih-88-e0d0d079834f87e1efa862cc@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team>U16-A II</team>
-      <team_id>10327</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U16-A II</category>
-      <category_id>10327</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>Test Gegner</opponent>
-
-      <date>2026-07-03</date>
-      <weekday>Fr</weekday>
-      <time_start>13:00</time_start>
-      <time_end>15:00</time_end>
-      <datetime_start>2026-07-03T13:00:00+02:00</datetime_start>
-      <datetime_end>2026-07-03T15:00:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">159950</field>
-      <field name="id_group">10327</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
-      <field name="date">2026-07-03</field>
-      <field name="weekday">Fr</field>
-      <field name="start">2026-07-03 13:00:00</field>
-      <field name="end">2026-07-03 15:00:00</field>
-      <field name="time_start">13:00:00</field>
-      <field name="time_end">15:00:00</field>
-      <field name="opponent">Test Gegner</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159950&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-07-03&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-07-03 13:00:00&quot;,&quot;end&quot;:&quot;2026-07-03 15:00:00&quot;,&quot;time_start&quot;:&quot;13:00:00&quot;,&quot;time_end&quot;:&quot;15:00:00&quot;,&quot;opponent&quot;:&quot;Test Gegner&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
