@@ -2,13 +2,6 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 
-const AGE_GROUPS = {
-  "63": "Aktiv",
-  "74": "Erfassungsstufe",
-  "143": "U14-U16",
-  "144": "U18-U21"
-};
-
 const PRACTICE_GROUPS = {
   "15268": { agegroup_id: "63", agegroup: "Aktiv", name: "1. Mannschaft" },
   "15269": { agegroup_id: "63", agegroup: "Aktiv", name: "2. Mannschaft" },
@@ -220,6 +213,96 @@ function collectEventsFromJson(json) {
   return [];
 }
 
+function resolveGroupMapping(raw, typeEvent) {
+  const sourceGroupId = String(pick(raw, ["id_group", "group_id", "id_category", "category_id"]) || "");
+
+  if (!sourceGroupId) {
+    return {
+      agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
+      agegroup_id: "",
+      team: "",
+      team_id: "",
+      practice_group: "",
+      practice_group_id: "",
+      category: "",
+      category_id: "",
+      mapping_status: "no_group_id"
+    };
+  }
+
+  if (typeEvent === "P") {
+    const mappedPracticeGroup = PRACTICE_GROUPS[sourceGroupId];
+
+    if (mappedPracticeGroup) {
+      return {
+        agegroup: mappedPracticeGroup.agegroup,
+        agegroup_id: mappedPracticeGroup.agegroup_id,
+        team: "",
+        team_id: "",
+        practice_group: mappedPracticeGroup.name,
+        practice_group_id: sourceGroupId,
+        category: mappedPracticeGroup.name,
+        category_id: sourceGroupId,
+        mapping_status: "mapped"
+      };
+    }
+
+    return {
+      agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
+      agegroup_id: "",
+      team: "",
+      team_id: "",
+      practice_group: "",
+      practice_group_id: sourceGroupId,
+      category: "",
+      category_id: sourceGroupId,
+      mapping_status: "unknown_group_id"
+    };
+  }
+
+  if (typeEvent === "GH" || typeEvent === "GA") {
+    const mappedTeam = TEAMS[sourceGroupId];
+
+    if (mappedTeam) {
+      return {
+        agegroup: mappedTeam.agegroup,
+        agegroup_id: mappedTeam.agegroup_id,
+        team: mappedTeam.name,
+        team_id: sourceGroupId,
+        practice_group: "",
+        practice_group_id: "",
+        category: mappedTeam.name,
+        category_id: sourceGroupId,
+        mapping_status: "mapped"
+      };
+    }
+
+    return {
+      agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
+      agegroup_id: "",
+      team: "",
+      team_id: sourceGroupId,
+      practice_group: "",
+      practice_group_id: "",
+      category: "",
+      category_id: sourceGroupId,
+      mapping_status: "unknown_group_id"
+    };
+  }
+
+  return {
+    agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
+    agegroup_id: "",
+    team: "",
+    team_id: "",
+    practice_group: "",
+    practice_group_id: "",
+    category: "",
+    category_id: sourceGroupId,
+    mapping_status: "not_applicable"
+  };
+}
+
 function normalizeEvent(raw) {
   const typeEvent = pick(raw, [
     "type_event",
@@ -233,28 +316,7 @@ function normalizeEvent(raw) {
     "event_id"
   ]);
 
-  const agegroupId = pick(raw, [
-    "type_agegroup",
-    "agegroup_id",
-    "id_agegroup"
-  ]);
-
-  const teamId = pick(raw, [
-    "team",
-    "team_id",
-    "id_team"
-  ]);
-
-  const practiceGroupId = pick(raw, [
-    "pgroup",
-    "practice_group_id",
-    "id_pgroup"
-  ]);
-
-  const categoryId = pick(raw, [
-    "id_category",
-    "category_id"
-  ]) || teamId || practiceGroupId;
+  const groupMapping = resolveGroupMapping(raw, typeEvent);
 
   const date = normalizeDate(pick(raw, [
     "date",
@@ -271,6 +333,8 @@ function normalizeEvent(raw) {
     "end_time"
   ]));
 
+  const place = pick(raw, ["place", "location"]);
+
   return {
     id: sourceId,
     uid: generateUid(raw),
@@ -279,21 +343,18 @@ function normalizeEvent(raw) {
     event: pick(raw, ["event", "event_name", "name"]),
     title: pick(raw, ["title", "name", "event"]),
 
-    agegroup: pick(raw, ["agegroup", "agegroup_name", "agegroup_label"]),
-    agegroup_id: agegroupId,
+    agegroup: groupMapping.agegroup,
+    agegroup_id: groupMapping.agegroup_id,
 
-    team: pick(raw, ["team_name", "team_label"]),
-    team_id: teamId,
+    team: groupMapping.team,
+    team_id: groupMapping.team_id,
 
-    practice_group: pick(raw, [
-      "practice_group",
-      "practice_group_name",
-      "pgroup_name"
-    ]),
-    practice_group_id: practiceGroupId,
+    practice_group: groupMapping.practice_group,
+    practice_group_id: groupMapping.practice_group_id,
 
-    category: pick(raw, ["category", "category_name"]),
-    category_id: categoryId,
+    category: groupMapping.category,
+    category_id: groupMapping.category_id,
+    mapping_status: groupMapping.mapping_status,
 
     type: pick(raw, ["type", "type_name"]),
     type_id: pick(raw, ["type_type", "type_id", "id_type"]),
@@ -301,15 +362,17 @@ function normalizeEvent(raw) {
     opponent: pick(raw, ["opponent"]),
 
     date,
+    weekday: pick(raw, ["weekday"]),
+
     time_start: timeStart,
     time_end: timeEnd,
     datetime_start: buildDateTime(date, timeStart),
     datetime_end: buildDateTime(date, timeEnd),
 
-    place: pick(raw, ["place", "location"]),
-    location_id: pick(raw, ["id_location", "location_id"]),
+    place,
+    location_id: pick(raw, ["id_location", "location_id"]) || LOCATIONS[place] || "",
 
-    notes: pick(raw, ["notes"]),
+    notes: String(pick(raw, ["notes"])).trim(),
     description: pick(raw, ["description"]),
 
     url: pick(raw, ["url", "link"]),
@@ -354,12 +417,15 @@ function eventToXml(event) {
       <category>${escapeXml(event.category)}</category>
       <category_id>${escapeXml(event.category_id)}</category_id>
 
+      <mapping_status>${escapeXml(event.mapping_status)}</mapping_status>
+
       <type>${escapeXml(event.type)}</type>
       <type_id>${escapeXml(event.type_id)}</type_id>
 
       <opponent>${escapeXml(event.opponent)}</opponent>
 
       <date>${escapeXml(event.date)}</date>
+      <weekday>${escapeXml(event.weekday)}</weekday>
       <time_start>${escapeXml(event.time_start)}</time_start>
       <time_end>${escapeXml(event.time_end)}</time_end>
       <datetime_start>${escapeXml(event.datetime_start)}</datetime_start>
