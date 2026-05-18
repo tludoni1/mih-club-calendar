@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-18T10:47:23.864Z" start_date="2025-05-04" end_date="2027-05-04" event_count="235">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-18T16:16:35.528Z" start_date="2025-05-04" end_date="2027-05-04" event_count="235">
   <events>
     <event>
       <id>747253</id>
@@ -14730,14 +14730,14 @@
       <agegroup>U14-U16</agegroup>
       <agegroup_id>143</agegroup_id>
 
-      <team>U16-A I</team>
-      <team_id>10326</team_id>
+      <team>U16-A II</team>
+      <team_id>10327</team_id>
 
       <practice_group></practice_group>
       <practice_group_id></practice_group_id>
 
-      <category>U16-A I</category>
-      <category_id>10326</category_id>
+      <category>U16-A II</category>
+      <category_id>10327</category_id>
 
       <mapping_status>mapped</mapping_status>
 
@@ -14763,7 +14763,7 @@
 
       <source_fields>
       <field name="id_event">158149</field>
-      <field name="id_group">10326</field>
+      <field name="id_group">10327</field>
       <field name="notes"> </field>
       <field name="agegroup">U14-U16</field>
       <field name="type">Freundschaft</field>
@@ -14782,7 +14782,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;158149&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 16:30:00&quot;,&quot;end&quot;:&quot;2026-09-06 19:00:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;opponent&quot;:&quot;Dragon Thun&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;158149&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 16:30:00&quot;,&quot;end&quot;:&quot;2026-09-06 19:00:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;opponent&quot;:&quot;Dragon Thun&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
