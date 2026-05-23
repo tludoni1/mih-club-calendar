@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-22T09:57:12.992Z" start_date="2025-05-04" end_date="2027-05-04" event_count="236">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-05-23T08:35:59.947Z" start_date="2025-05-04" end_date="2027-05-04" event_count="238">
   <events>
     <event>
       <id>747253</id>
@@ -4160,72 +4160,6 @@
       </raw>
     </event>
     <event>
-      <id>752689</id>
-      <uid>mih-88-db3ae413373d15a027f49dae@ehc-sursee.local</uid>
-
-      <type_event>P</type_event>
-      <event>Training</event>
-      <title>Training</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team></team>
-      <team_id></team_id>
-
-      <practice_group>Torhüter (jüngere)</practice_group>
-      <practice_group_id>14330</practice_group_id>
-
-      <category>Torhüter (jüngere)</category>
-      <category_id>14330</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
-
-      <opponent></opponent>
-
-      <date>2026-05-26</date>
-      <weekday>Tu</weekday>
-      <time_start>17:30</time_start>
-      <time_end>18:30</time_end>
-      <datetime_start>2026-05-26T17:30:00+02:00</datetime_start>
-      <datetime_end>2026-05-26T18:30:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">752689</field>
-      <field name="id_group">14330</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16 (Torhüter (jüngere))</field>
-      <field name="type">Trockentraining</field>
-      <field name="event">Training</field>
-      <field name="type_event">P</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
-      <field name="date">2026-05-26</field>
-      <field name="weekday">Tu</field>
-      <field name="start">2026-05-26 17:30:00</field>
-      <field name="end">2026-05-26 18:30:00</field>
-      <field name="time_start">17:30:00</field>
-      <field name="time_end">18:30:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
-      <field name="opponent"></field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;752689&quot;,&quot;id_group&quot;:&quot;14330&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (Torhüter (jüngere))&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-05-26&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-26 17:30:00&quot;,&quot;end&quot;:&quot;2026-05-26 18:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
       <id>751379</id>
       <uid>mih-88-9e1dbf19fb1764103f2777de@ehc-sursee.local</uid>
 
@@ -4289,72 +4223,6 @@
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;751379&quot;,&quot;id_group&quot;:&quot;14238&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14 Sommertraining)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-05-26&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-26 18:15:00&quot;,&quot;end&quot;:&quot;2026-05-26 19:30:00&quot;,&quot;time_start&quot;:&quot;18:15:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>752698</id>
-      <uid>mih-88-839822854c1e68c7debf2c63@ehc-sursee.local</uid>
-
-      <type_event>P</type_event>
-      <event>Training</event>
-      <title>Training</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team></team>
-      <team_id></team_id>
-
-      <practice_group>Torhüter (ältere)</practice_group>
-      <practice_group_id>14331</practice_group_id>
-
-      <category>Torhüter (ältere)</category>
-      <category_id>14331</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
-
-      <opponent></opponent>
-
-      <date>2026-05-26</date>
-      <weekday>Tu</weekday>
-      <time_start>18:30</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-05-26T18:30:00+02:00</datetime_start>
-      <datetime_end>2026-05-26T19:30:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">752698</field>
-      <field name="id_group">14331</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16 (Torhüter (ältere))</field>
-      <field name="type">Trockentraining</field>
-      <field name="event">Training</field>
-      <field name="type_event">P</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
-      <field name="date">2026-05-26</field>
-      <field name="weekday">Tu</field>
-      <field name="start">2026-05-26 18:30:00</field>
-      <field name="end">2026-05-26 19:30:00</field>
-      <field name="time_start">18:30:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
-      <field name="opponent"></field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;752698&quot;,&quot;id_group&quot;:&quot;14331&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (Torhüter (ältere))&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-05-26&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-26 18:30:00&quot;,&quot;end&quot;:&quot;2026-05-26 19:30:00&quot;,&quot;time_start&quot;:&quot;18:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -5282,8 +5150,74 @@
       </raw>
     </event>
     <event>
-      <id>751388</id>
-      <uid>mih-88-c8a1e1805d9260c36a9128c5@ehc-sursee.local</uid>
+      <id>780007</id>
+      <uid>mih-88-2ec2fdd892c0c82474959bcd@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>Erfassungsstufe</agegroup>
+      <agegroup_id>74</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>U09</practice_group>
+      <practice_group_id>14190</practice_group_id>
+
+      <category>U09</category>
+      <category_id>14190</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Spezial</type>
+      <type_id>P6</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-06-01</date>
+      <weekday>Mo</weekday>
+      <time_start>16:30</time_start>
+      <time_end>18:00</time_end>
+      <datetime_start>2026-06-01T16:30:00+02:00</datetime_start>
+      <datetime_end>2026-06-01T18:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes>Fototermin U09 (Jahrgänge 2018 und jünger)</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">780007</field>
+      <field name="id_group">14190</field>
+      <field name="notes">Fototermin U09 (Jahrgänge 2018 und jünger) </field>
+      <field name="agegroup">Erfassungsstufe (U09)</field>
+      <field name="type">Spezial</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-06-01</field>
+      <field name="weekday">Mo</field>
+      <field name="start">2026-06-01 16:30:00</field>
+      <field name="end">2026-06-01 18:00:00</field>
+      <field name="time_start">16:30:00</field>
+      <field name="time_end">18:00:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;780007&quot;,&quot;id_group&quot;:&quot;14190&quot;,&quot;notes&quot;:&quot;Fototermin U09 (Jahrgänge 2018 und jünger) &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe (U09)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-01&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-06-01 16:30:00&quot;,&quot;end&quot;:&quot;2026-06-01 18:00:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;18:00:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>780012</id>
+      <uid>mih-88-587eb9627e8b175e02718292@ehc-sursee.local</uid>
 
       <type_event>P</type_event>
       <event>Training</event>
@@ -5295,61 +5229,61 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>U14 Sommertraining</practice_group>
-      <practice_group_id>14238</practice_group_id>
+      <practice_group>U14</practice_group>
+      <practice_group_id>14191</practice_group_id>
 
-      <category>U14 Sommertraining</category>
-      <category_id>14238</category_id>
+      <category>U14</category>
+      <category_id>14191</category_id>
 
       <mapping_status>mapped</mapping_status>
 
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
+      <type>Spezial</type>
+      <type_id>P6</type_id>
 
       <opponent></opponent>
 
       <date>2026-06-01</date>
       <weekday>Mo</weekday>
-      <time_start>17:15</time_start>
-      <time_end>18:30</time_end>
-      <datetime_start>2026-06-01T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-06-01T18:30:00+02:00</datetime_end>
+      <time_start>17:45</time_start>
+      <time_end>18:45</time_end>
+      <datetime_start>2026-06-01T17:45:00+02:00</datetime_start>
+      <datetime_end>2026-06-01T18:45:00+02:00</datetime_end>
 
-      <place>Eishalle Sursee - Kraftraum</place>
-      <location_id>2293</location_id>
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
 
-      <notes></notes>
+      <notes>Fotoshooting U14 (Jahrgänge 2013, 2014)</notes>
       <description></description>
 
       <url></url>
 
       <source_fields>
-      <field name="id_event">751388</field>
-      <field name="id_group">14238</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16 (U14 Sommertraining)</field>
-      <field name="type">Trockentraining</field>
+      <field name="id_event">780012</field>
+      <field name="id_group">14191</field>
+      <field name="notes">Fotoshooting U14 (Jahrgänge 2013, 2014) </field>
+      <field name="agegroup">U14-U16 (U14)</field>
+      <field name="type">Spezial</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
-      <field name="place">Eishalle Sursee - Kraftraum</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-06-01</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-06-01 17:15:00</field>
-      <field name="end">2026-06-01 18:30:00</field>
-      <field name="time_start">17:15:00</field>
-      <field name="time_end">18:30:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
+      <field name="start">2026-06-01 17:45:00</field>
+      <field name="end">2026-06-01 18:45:00</field>
+      <field name="time_start">17:45:00</field>
+      <field name="time_end">18:45:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;751388&quot;,&quot;id_group&quot;:&quot;14238&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14 Sommertraining)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-01&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-06-01 17:15:00&quot;,&quot;end&quot;:&quot;2026-06-01 18:30:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;780012&quot;,&quot;id_group&quot;:&quot;14191&quot;,&quot;notes&quot;:&quot;Fotoshooting U14 (Jahrgänge 2013, 2014) &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-01&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-06-01 17:45:00&quot;,&quot;end&quot;:&quot;2026-06-01 18:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
-      <id>751401</id>
-      <uid>mih-88-049699762e4300f1915634ca@ehc-sursee.local</uid>
+      <id>780014</id>
+      <uid>mih-88-51cb9eeefde1a2364dc9d8ce@ehc-sursee.local</uid>
 
       <type_event>P</type_event>
       <event>Training</event>
@@ -5369,48 +5303,180 @@
 
       <mapping_status>mapped</mapping_status>
 
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
+      <type>Spezial</type>
+      <type_id>P6</type_id>
 
       <opponent></opponent>
 
       <date>2026-06-01</date>
       <weekday>Mo</weekday>
       <time_start>18:30</time_start>
-      <time_end>19:45</time_end>
+      <time_end>19:30</time_end>
       <datetime_start>2026-06-01T18:30:00+02:00</datetime_start>
-      <datetime_end>2026-06-01T19:45:00+02:00</datetime_end>
+      <datetime_end>2026-06-01T19:30:00+02:00</datetime_end>
 
-      <place>Eishalle Sursee - Kraftraum</place>
-      <location_id>2293</location_id>
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
 
-      <notes></notes>
+      <notes>Fotoshooting U16</notes>
       <description></description>
 
       <url></url>
 
       <source_fields>
-      <field name="id_event">751401</field>
+      <field name="id_event">780014</field>
       <field name="id_group">14192</field>
-      <field name="notes"> </field>
+      <field name="notes">Fotoshooting U16  </field>
       <field name="agegroup">U14-U16 (U16)</field>
-      <field name="type">Trockentraining</field>
+      <field name="type">Spezial</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
-      <field name="place">Eishalle Sursee - Kraftraum</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-06-01</field>
       <field name="weekday">Mo</field>
       <field name="start">2026-06-01 18:30:00</field>
-      <field name="end">2026-06-01 19:45:00</field>
+      <field name="end">2026-06-01 19:30:00</field>
       <field name="time_start">18:30:00</field>
-      <field name="time_end">19:45:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
+      <field name="time_end">19:30:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;751401&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-01&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-06-01 18:30:00&quot;,&quot;end&quot;:&quot;2026-06-01 19:45:00&quot;,&quot;time_start&quot;:&quot;18:30:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;780014&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot;Fotoshooting U16  &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-01&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-06-01 18:30:00&quot;,&quot;end&quot;:&quot;2026-06-01 19:30:00&quot;,&quot;time_start&quot;:&quot;18:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>780022</id>
+      <uid>mih-88-1be3465e6d3eab2dcc97f9b2@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>Senioren</practice_group>
+      <practice_group_id>15271</practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>15271</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Spezial</type>
+      <type_id>P6</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-06-01</date>
+      <weekday>Mo</weekday>
+      <time_start>19:15</time_start>
+      <time_end>20:30</time_end>
+      <datetime_start>2026-06-01T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-06-01T20:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes>Fotoshooting Senioren</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">780022</field>
+      <field name="id_group">15271</field>
+      <field name="notes">Fotoshooting Senioren </field>
+      <field name="agegroup">Aktiv (Senioren)</field>
+      <field name="type">Spezial</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-06-01</field>
+      <field name="weekday">Mo</field>
+      <field name="start">2026-06-01 19:15:00</field>
+      <field name="end">2026-06-01 20:30:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">20:30:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;780022&quot;,&quot;id_group&quot;:&quot;15271&quot;,&quot;notes&quot;:&quot;Fotoshooting Senioren &quot;,&quot;agegroup&quot;:&quot;Aktiv (Senioren)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-01&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-06-01 19:15:00&quot;,&quot;end&quot;:&quot;2026-06-01 20:30:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:30:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>780018</id>
+      <uid>mih-88-a74d5f91dbfa058f73c92703@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>U18-U21</agegroup>
+      <agegroup_id>144</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>U21</practice_group>
+      <practice_group_id>14240</practice_group_id>
+
+      <category>U21</category>
+      <category_id>14240</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Spezial</type>
+      <type_id>P6</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-06-01</date>
+      <weekday>Mo</weekday>
+      <time_start>20:00</time_start>
+      <time_end>21:15</time_end>
+      <datetime_start>2026-06-01T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-06-01T21:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes>Fotoshooting U21</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">780018</field>
+      <field name="id_group">14240</field>
+      <field name="notes">Fotoshooting U21 </field>
+      <field name="agegroup">U18-U21 (U21)</field>
+      <field name="type">Spezial</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-06-01</field>
+      <field name="weekday">Mo</field>
+      <field name="start">2026-06-01 20:00:00</field>
+      <field name="end">2026-06-01 21:15:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">21:15:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;780018&quot;,&quot;id_group&quot;:&quot;14240&quot;,&quot;notes&quot;:&quot;Fotoshooting U21 &quot;,&quot;agegroup&quot;:&quot;U18-U21 (U21)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-01&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-06-01 20:00:00&quot;,&quot;end&quot;:&quot;2026-06-01 21:15:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:15:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -5612,8 +5678,8 @@
       </raw>
     </event>
     <event>
-      <id>751360</id>
-      <uid>mih-88-09ea34b4a1979c0bc7de0ad7@ehc-sursee.local</uid>
+      <id>780008</id>
+      <uid>mih-88-7667cf1a96e5d58a14878ca8@ehc-sursee.local</uid>
 
       <type_event>P</type_event>
       <event>Training</event>
@@ -5625,56 +5691,56 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>U11 Sommertraining</practice_group>
-      <practice_group_id>14237</practice_group_id>
+      <practice_group>U12</practice_group>
+      <practice_group_id>14189</practice_group_id>
 
-      <category>U11 Sommertraining</category>
-      <category_id>14237</category_id>
+      <category>U12</category>
+      <category_id>14189</category_id>
 
       <mapping_status>mapped</mapping_status>
 
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
+      <type>Spezial</type>
+      <type_id>P6</type_id>
 
       <opponent></opponent>
 
       <date>2026-06-02</date>
       <weekday>Tu</weekday>
-      <time_start>17:15</time_start>
-      <time_end>18:15</time_end>
-      <datetime_start>2026-06-02T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-06-02T18:15:00+02:00</datetime_end>
+      <time_start>16:30</time_start>
+      <time_end>18:00</time_end>
+      <datetime_start>2026-06-02T16:30:00+02:00</datetime_start>
+      <datetime_end>2026-06-02T18:00:00+02:00</datetime_end>
 
-      <place>Turnhalle Neufeld - Turnhalle</place>
-      <location_id>2298</location_id>
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
 
-      <notes></notes>
+      <notes>Fotoshooting U12 (Jahrgänge 2015, 2016, 2017)</notes>
       <description></description>
 
       <url></url>
 
       <source_fields>
-      <field name="id_event">751360</field>
-      <field name="id_group">14237</field>
-      <field name="notes"> </field>
-      <field name="agegroup">Erfassungsstufe (U11 Sommertraining)</field>
-      <field name="type">Trockentraining</field>
+      <field name="id_event">780008</field>
+      <field name="id_group">14189</field>
+      <field name="notes">Fotoshooting U12 (Jahrgänge 2015, 2016, 2017) </field>
+      <field name="agegroup">Erfassungsstufe (U12)</field>
+      <field name="type">Spezial</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
-      <field name="place">Turnhalle Neufeld - Turnhalle</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-06-02</field>
       <field name="weekday">Tu</field>
-      <field name="start">2026-06-02 17:15:00</field>
-      <field name="end">2026-06-02 18:15:00</field>
-      <field name="time_start">17:15:00</field>
-      <field name="time_end">18:15:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
+      <field name="start">2026-06-02 16:30:00</field>
+      <field name="end">2026-06-02 18:00:00</field>
+      <field name="time_start">16:30:00</field>
+      <field name="time_end">18:00:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;751360&quot;,&quot;id_group&quot;:&quot;14237&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe (U11 Sommertraining)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 17:15:00&quot;,&quot;end&quot;:&quot;2026-06-02 18:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;18:15:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;780008&quot;,&quot;id_group&quot;:&quot;14189&quot;,&quot;notes&quot;:&quot;Fotoshooting U12 (Jahrgänge 2015, 2016, 2017) &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe (U12)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 16:30:00&quot;,&quot;end&quot;:&quot;2026-06-02 18:00:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;18:00:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -5744,69 +5810,69 @@
       </raw>
     </event>
     <event>
-      <id>751380</id>
-      <uid>mih-88-ed65e92016642b30d0038506@ehc-sursee.local</uid>
+      <id>780021</id>
+      <uid>mih-88-de2e38d09f4b4a33e59f477f@ehc-sursee.local</uid>
 
       <type_event>P</type_event>
       <event>Training</event>
       <title>Training</title>
 
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
 
       <team></team>
       <team_id></team_id>
 
-      <practice_group>U14 Sommertraining</practice_group>
-      <practice_group_id>14238</practice_group_id>
+      <practice_group>Damen</practice_group>
+      <practice_group_id>15270</practice_group_id>
 
-      <category>U14 Sommertraining</category>
-      <category_id>14238</category_id>
+      <category>Damen</category>
+      <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
 
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
+      <type>Spezial</type>
+      <type_id>P6</type_id>
 
       <opponent></opponent>
 
       <date>2026-06-02</date>
       <weekday>Tu</weekday>
-      <time_start>18:15</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-06-02T18:15:00+02:00</datetime_start>
-      <datetime_end>2026-06-02T19:30:00+02:00</datetime_end>
+      <time_start>18:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-06-02T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-06-02T19:00:00+02:00</datetime_end>
 
-      <place>Turnhalle Neufeld - Turnhalle</place>
-      <location_id>2298</location_id>
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
 
-      <notes></notes>
+      <notes>Fotoshooting Damen</notes>
       <description></description>
 
       <url></url>
 
       <source_fields>
-      <field name="id_event">751380</field>
-      <field name="id_group">14238</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16 (U14 Sommertraining)</field>
-      <field name="type">Trockentraining</field>
+      <field name="id_event">780021</field>
+      <field name="id_group">15270</field>
+      <field name="notes">Fotoshooting Damen </field>
+      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="type">Spezial</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
-      <field name="place">Turnhalle Neufeld - Turnhalle</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-06-02</field>
       <field name="weekday">Tu</field>
-      <field name="start">2026-06-02 18:15:00</field>
-      <field name="end">2026-06-02 19:30:00</field>
-      <field name="time_start">18:15:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
+      <field name="start">2026-06-02 18:00:00</field>
+      <field name="end">2026-06-02 19:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">19:00:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;751380&quot;,&quot;id_group&quot;:&quot;14238&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14 Sommertraining)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 18:15:00&quot;,&quot;end&quot;:&quot;2026-06-02 19:30:00&quot;,&quot;time_start&quot;:&quot;18:15:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;780021&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot;Fotoshooting Damen &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 18:00:00&quot;,&quot;end&quot;:&quot;2026-06-02 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -5876,69 +5942,135 @@
       </raw>
     </event>
     <event>
-      <id>751409</id>
-      <uid>mih-88-f680329a94608a45155130fb@ehc-sursee.local</uid>
+      <id>780017</id>
+      <uid>mih-88-367c492360f09c463fc412a6@ehc-sursee.local</uid>
 
       <type_event>P</type_event>
       <event>Training</event>
       <title>Training</title>
 
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
+      <agegroup>U18-U21</agegroup>
+      <agegroup_id>144</agegroup_id>
 
       <team></team>
       <team_id></team_id>
 
-      <practice_group>U16</practice_group>
-      <practice_group_id>14192</practice_group_id>
+      <practice_group>U18</practice_group>
+      <practice_group_id>14239</practice_group_id>
 
-      <category>U16</category>
-      <category_id>14192</category_id>
+      <category>U18</category>
+      <category_id>14239</category_id>
 
       <mapping_status>mapped</mapping_status>
 
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
+      <type>Spezial</type>
+      <type_id>P6</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-06-02</date>
+      <weekday>Tu</weekday>
+      <time_start>18:45</time_start>
+      <time_end>20:00</time_end>
+      <datetime_start>2026-06-02T18:45:00+02:00</datetime_start>
+      <datetime_end>2026-06-02T20:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes>Fotoshooting U18</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">780017</field>
+      <field name="id_group">14239</field>
+      <field name="notes">Fotoshooting U18 </field>
+      <field name="agegroup">U18-U21 (U18)</field>
+      <field name="type">Spezial</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-06-02</field>
+      <field name="weekday">Tu</field>
+      <field name="start">2026-06-02 18:45:00</field>
+      <field name="end">2026-06-02 20:00:00</field>
+      <field name="time_start">18:45:00</field>
+      <field name="time_end">20:00:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;780017&quot;,&quot;id_group&quot;:&quot;14239&quot;,&quot;notes&quot;:&quot;Fotoshooting U18 &quot;,&quot;agegroup&quot;:&quot;U18-U21 (U18)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 18:45:00&quot;,&quot;end&quot;:&quot;2026-06-02 20:00:00&quot;,&quot;time_start&quot;:&quot;18:45:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>780020</id>
+      <uid>mih-88-fbb91beb780b3e9899ab42c6@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>2. Mannschaft</practice_group>
+      <practice_group_id>15269</practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>15269</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Spezial</type>
+      <type_id>P6</type_id>
 
       <opponent></opponent>
 
       <date>2026-06-02</date>
       <weekday>Tu</weekday>
       <time_start>19:30</time_start>
-      <time_end>20:45</time_end>
+      <time_end>20:30</time_end>
       <datetime_start>2026-06-02T19:30:00+02:00</datetime_start>
-      <datetime_end>2026-06-02T20:45:00+02:00</datetime_end>
+      <datetime_end>2026-06-02T20:30:00+02:00</datetime_end>
 
-      <place>Turnhalle Neufeld - Turnhalle</place>
-      <location_id>2298</location_id>
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
 
-      <notes></notes>
+      <notes>Fotoshooting 2. Team</notes>
       <description></description>
 
       <url></url>
 
       <source_fields>
-      <field name="id_event">751409</field>
-      <field name="id_group">14192</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16 (U16)</field>
-      <field name="type">Trockentraining</field>
+      <field name="id_event">780020</field>
+      <field name="id_group">15269</field>
+      <field name="notes">Fotoshooting 2. Team </field>
+      <field name="agegroup">Aktiv (2. Mannschaft)</field>
+      <field name="type">Spezial</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
-      <field name="place">Turnhalle Neufeld - Turnhalle</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-06-02</field>
       <field name="weekday">Tu</field>
       <field name="start">2026-06-02 19:30:00</field>
-      <field name="end">2026-06-02 20:45:00</field>
+      <field name="end">2026-06-02 20:30:00</field>
       <field name="time_start">19:30:00</field>
-      <field name="time_end">20:45:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
+      <field name="time_end">20:30:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;751409&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 19:30:00&quot;,&quot;end&quot;:&quot;2026-06-02 20:45:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;20:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;780020&quot;,&quot;id_group&quot;:&quot;15269&quot;,&quot;notes&quot;:&quot;Fotoshooting 2. Team &quot;,&quot;agegroup&quot;:&quot;Aktiv (2. Mannschaft)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 19:30:00&quot;,&quot;end&quot;:&quot;2026-06-02 20:30:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;20:30:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
