@@ -1,2 +1,3 @@
 # mih-club-calendar
-Exports the EHC Sursee My Ice Hockey club calendar into a normalized XML main source for later HTML and iCalendar outputs.
+
+Exportiert den "My Ice Hockey" Club-Kalender (Trainings/Termine) des EHC Sursee in eine normalisierte XML-Quelldatei, inklusive Zuordnung von Trainingsgruppen-IDs zu Altersgruppen und Teamnamen. Diese XML dient als Grundlage für spätere HTML- und iCalendar-Exporte.
