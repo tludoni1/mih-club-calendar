@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-06-24T09:58:06.115Z" start_date="2025-05-04" end_date="2027-05-04" event_count="242">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-06-24T15:28:30.289Z" start_date="2025-05-04" end_date="2027-05-04" event_count="242">
   <events>
     <event>
       <id>747253</id>
@@ -15672,10 +15672,10 @@
 
       <date>2026-09-13</date>
       <weekday>Su</weekday>
-      <time_start>20:00</time_start>
-      <time_end>22:30</time_end>
-      <datetime_start>2026-09-13T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-13T22:30:00+02:00</datetime_end>
+      <time_start>17:30</time_start>
+      <time_end>20:00</time_end>
+      <datetime_start>2026-09-13T17:30:00+02:00</datetime_start>
+      <datetime_end>2026-09-13T20:00:00+02:00</datetime_end>
 
       <place>KEBA Aarau</place>
       <location_id></location_id>
@@ -15696,17 +15696,17 @@
       <field name="place">KEBA Aarau</field>
       <field name="date">2026-09-13</field>
       <field name="weekday">Su</field>
-      <field name="start">2026-09-13 20:00:00</field>
-      <field name="end">2026-09-13 22:30:00</field>
-      <field name="time_start">20:00:00</field>
-      <field name="time_end">22:30:00</field>
+      <field name="start">2026-09-13 17:30:00</field>
+      <field name="end">2026-09-13 20:00:00</field>
+      <field name="time_start">17:30:00</field>
+      <field name="time_end">20:00:00</field>
       <field name="opponent">Argovia Stars</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159117&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEBA Aarau&quot;,&quot;date&quot;:&quot;2026-09-13&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-13 20:00:00&quot;,&quot;end&quot;:&quot;2026-09-13 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159117&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEBA Aarau&quot;,&quot;date&quot;:&quot;2026-09-13&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-13 17:30:00&quot;,&quot;end&quot;:&quot;2026-09-13 20:00:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
