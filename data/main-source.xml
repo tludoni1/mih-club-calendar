@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-06-23T15:42:50.316Z" start_date="2025-05-04" end_date="2027-05-04" event_count="240">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-06-24T09:58:06.115Z" start_date="2025-05-04" end_date="2027-05-04" event_count="242">
   <events>
     <event>
       <id>747253</id>
@@ -13532,6 +13532,72 @@
       </raw>
     </event>
     <event>
+      <id>161534</id>
+      <uid>mih-88-f5ad8bf948e21b4f73dae235@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Erfassungsstufe</agegroup>
+      <agegroup_id>74</agegroup_id>
+
+      <team>U09-1</team>
+      <team_id>10318</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U09-1</category>
+      <category_id>10318</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Turnier</type>
+      <type_id>G2</type_id>
+
+      <opponent>Diverse</opponent>
+
+      <date>2026-08-16</date>
+      <weekday>Su</weekday>
+      <time_start>12:00</time_start>
+      <time_end>14:30</time_end>
+      <datetime_start>2026-08-16T12:00:00+02:00</datetime_start>
+      <datetime_end>2026-08-16T14:30:00+02:00</datetime_end>
+
+      <place>Eishalle Lyss</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">161534</field>
+      <field name="id_group">10318</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Erfassungsstufe</field>
+      <field name="type">Turnier</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Eishalle Lyss</field>
+      <field name="date">2026-08-16</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-08-16 12:00:00</field>
+      <field name="end">2026-08-16 14:30:00</field>
+      <field name="time_start">12:00:00</field>
+      <field name="time_end">14:30:00</field>
+      <field name="opponent">Diverse</field>
+      <field name="type_type">G2</field>
+      <field name="color">#1184ea</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;161534&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Lyss&quot;,&quot;date&quot;:&quot;2026-08-16&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-08-16 12:00:00&quot;,&quot;end&quot;:&quot;2026-08-16 14:30:00&quot;,&quot;time_start&quot;:&quot;12:00:00&quot;,&quot;time_end&quot;:&quot;14:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>159292</id>
       <uid>mih-88-cf8f189a4b03962e26bb4df4@ehc-sursee.local</uid>
 
@@ -15047,6 +15113,72 @@
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;158149&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 16:30:00&quot;,&quot;end&quot;:&quot;2026-09-06 19:00:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;opponent&quot;:&quot;Dragon Thun&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>161535</id>
+      <uid>mih-88-34bbab924f02e7f8d963ec7a@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Erfassungsstufe</agegroup>
+      <agegroup_id>74</agegroup_id>
+
+      <team>U09-2</team>
+      <team_id>10319</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U09-2</category>
+      <category_id>10319</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Turnier</type>
+      <type_id>G2</type_id>
+
+      <opponent>Diverse</opponent>
+
+      <date>2026-09-12</date>
+      <weekday>Sa</weekday>
+      <time_start>08:00</time_start>
+      <time_end>16:00</time_end>
+      <datetime_start>2026-09-12T08:00:00+02:00</datetime_start>
+      <datetime_end>2026-09-12T16:00:00+02:00</datetime_end>
+
+      <place>Reinach</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">161535</field>
+      <field name="id_group">10319</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Erfassungsstufe</field>
+      <field name="type">Turnier</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Reinach</field>
+      <field name="date">2026-09-12</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-09-12 08:00:00</field>
+      <field name="end">2026-09-12 16:00:00</field>
+      <field name="time_start">08:00:00</field>
+      <field name="time_end">16:00:00</field>
+      <field name="opponent">Diverse</field>
+      <field name="type_type">G2</field>
+      <field name="color">#1184ea</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;161535&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Reinach&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 16:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;16:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
