@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-07-13T09:55:04.070Z" start_date="2025-05-04" end_date="2027-05-04" event_count="323">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-07-13T15:37:34.499Z" start_date="2025-05-04" end_date="2027-05-04" event_count="322">
   <events>
     <event>
       <id>747253</id>
@@ -21133,72 +21133,6 @@ Betreuung: Martina Kappeler </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;161606&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-26&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-26 20:15:00&quot;,&quot;end&quot;:&quot;2026-09-26 23:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;23:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>158147</id>
-      <uid>mih-88-e3b8312a265b71c5278670af@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>U18-U21</agegroup>
-      <agegroup_id>144</agegroup_id>
-
-      <team>U18-A</team>
-      <team_id>10328</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U18-A</category>
-      <category_id>10328</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Freundschaft</type>
-      <type_id>G1</type_id>
-
-      <opponent>EV Zug</opponent>
-
-      <date>2026-09-27</date>
-      <weekday>Su</weekday>
-      <time_start>16:00</time_start>
-      <time_end>18:30</time_end>
-      <datetime_start>2026-09-27T16:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-27T18:30:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">158147</field>
-      <field name="id_group">10328</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U18-U21</field>
-      <field name="type">Freundschaft</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
-      <field name="date">2026-09-27</field>
-      <field name="weekday">Su</field>
-      <field name="start">2026-09-27 16:00:00</field>
-      <field name="end">2026-09-27 18:30:00</field>
-      <field name="time_start">16:00:00</field>
-      <field name="time_end">18:30:00</field>
-      <field name="opponent">EV Zug</field>
-      <field name="type_type">G1</field>
-      <field name="color">#81c881</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;158147&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 16:00:00&quot;,&quot;end&quot;:&quot;2026-09-27 18:30:00&quot;,&quot;time_start&quot;:&quot;16:00:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;opponent&quot;:&quot;EV Zug&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
