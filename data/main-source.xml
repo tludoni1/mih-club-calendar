@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-07-26T14:22:12.611Z" start_date="2025-05-04" end_date="2027-05-04" event_count="322">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-07-27T10:26:36.553Z" start_date="2025-05-04" end_date="2027-05-04" event_count="323">
   <events>
     <event>
       <id>747253</id>
@@ -18493,6 +18493,72 @@ Betreuung: Martina Kappeler </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;790750&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-04&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-09-04 20:00:00&quot;,&quot;end&quot;:&quot;2026-09-04 21:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>804580</id>
+      <uid>mih-88-8958ad5e3071504aa1bbcc39@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>1. Mannschaft</practice_group>
+      <practice_group_id>15268</practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>15268</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Spezial</type>
+      <type_id>P6</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-09-05</date>
+      <weekday>Sa</weekday>
+      <time_start>09:00</time_start>
+      <time_end>20:00</time_end>
+      <datetime_start>2026-09-05T09:00:00+02:00</datetime_start>
+      <datetime_end>2026-09-05T20:00:00+02:00</datetime_end>
+
+      <place>Huttwil Eishalle</place>
+      <location_id></location_id>
+
+      <notes>Trainingstag 2. Liga EHC Sursee</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">804580</field>
+      <field name="id_group">15268</field>
+      <field name="notes">Trainingstag 2. Liga EHC Sursee </field>
+      <field name="agegroup">Aktiv (1. Mannschaft)</field>
+      <field name="type">Spezial</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Huttwil Eishalle</field>
+      <field name="date">2026-09-05</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-09-05 09:00:00</field>
+      <field name="end">2026-09-05 20:00:00</field>
+      <field name="time_start">09:00:00</field>
+      <field name="time_end">20:00:00</field>
+      <field name="color">#e4222e</field>
+      <field name="type_type">P6</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;804580&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot;Trainingstag 2. Liga EHC Sursee &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Huttwil Eishalle&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 09:00:00&quot;,&quot;end&quot;:&quot;2026-09-05 20:00:00&quot;,&quot;time_start&quot;:&quot;09:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
