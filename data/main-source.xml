@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-07-27T10:26:36.553Z" start_date="2025-05-04" end_date="2027-05-04" event_count="323">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-07-27T15:34:29.598Z" start_date="2025-05-04" end_date="2027-05-04" event_count="323">
   <events>
     <event>
       <id>747253</id>
@@ -20542,6 +20542,72 @@ Betreuung: Martina Kappeler </field>
       </raw>
     </event>
     <event>
+      <id>158154</id>
+      <uid>mih-88-27662e01168f05b360f6d278@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team>U14-A</team>
+      <team_id>10325</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U14-A</category>
+      <category_id>10325</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Freundschaft</type>
+      <type_id>G1</type_id>
+
+      <opponent>HC NWU</opponent>
+
+      <date>2026-09-12</date>
+      <weekday>Sa</weekday>
+      <time_start>10:30</time_start>
+      <time_end>13:00</time_end>
+      <datetime_start>2026-09-12T10:30:00+02:00</datetime_start>
+      <datetime_end>2026-09-12T13:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">158154</field>
+      <field name="id_group">10325</field>
+      <field name="notes"> </field>
+      <field name="agegroup">U14-U16</field>
+      <field name="type">Freundschaft</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-09-12</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-09-12 10:30:00</field>
+      <field name="end">2026-09-12 13:00:00</field>
+      <field name="time_start">10:30:00</field>
+      <field name="time_end">13:00:00</field>
+      <field name="opponent">HC NWU</field>
+      <field name="type_type">G1</field>
+      <field name="color">#81c881</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;158154&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 10:30:00&quot;,&quot;end&quot;:&quot;2026-09-12 13:00:00&quot;,&quot;time_start&quot;:&quot;10:30:00&quot;,&quot;time_end&quot;:&quot;13:00:00&quot;,&quot;opponent&quot;:&quot;HC NWU&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>159106</id>
       <uid>mih-88-e004db6bfc84c3d76e7b1bae@ehc-sursee.local</uid>
 
@@ -20803,72 +20869,6 @@ Betreuung: Martina Kappeler </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;157887&quot;,&quot;id_group&quot;:&quot;10322&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Grüsch&quot;,&quot;date&quot;:&quot;2026-09-13&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-13 09:00:00&quot;,&quot;end&quot;:&quot;2026-09-13 16:00:00&quot;,&quot;time_start&quot;:&quot;09:00:00&quot;,&quot;time_end&quot;:&quot;16:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>158154</id>
-      <uid>mih-88-27662e01168f05b360f6d278@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team>U14-A</team>
-      <team_id>10325</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U14-A</category>
-      <category_id>10325</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Freundschaft</type>
-      <type_id>G1</type_id>
-
-      <opponent>HC NWU</opponent>
-
-      <date>2026-09-13</date>
-      <weekday>Su</weekday>
-      <time_start>14:00</time_start>
-      <time_end>16:30</time_end>
-      <datetime_start>2026-09-13T14:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-13T16:30:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">158154</field>
-      <field name="id_group">10325</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16</field>
-      <field name="type">Freundschaft</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
-      <field name="date">2026-09-13</field>
-      <field name="weekday">Su</field>
-      <field name="start">2026-09-13 14:00:00</field>
-      <field name="end">2026-09-13 16:30:00</field>
-      <field name="time_start">14:00:00</field>
-      <field name="time_end">16:30:00</field>
-      <field name="opponent">HC NWU</field>
-      <field name="type_type">G1</field>
-      <field name="color">#81c881</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;158154&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-13&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-13 14:00:00&quot;,&quot;end&quot;:&quot;2026-09-13 16:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;HC NWU&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
