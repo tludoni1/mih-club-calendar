@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-02T08:54:59.279Z" start_date="2025-05-04" end_date="2027-05-04" event_count="325">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-02T14:20:43.007Z" start_date="2025-05-04" end_date="2027-05-04" event_count="324">
   <events>
     <event>
       <id>747253</id>
@@ -12803,72 +12803,6 @@
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;776407&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-07-29&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-07-29 20:00:00&quot;,&quot;end&quot;:&quot;2026-07-29 21:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>776408</id>
-      <uid>mih-88-6571b1cb535063ec9b4c2a82@ehc-sursee.local</uid>
-
-      <type_event>P</type_event>
-      <event>Training</event>
-      <title>Training</title>
-
-      <agegroup>Aktiv</agegroup>
-      <agegroup_id>63</agegroup_id>
-
-      <team></team>
-      <team_id></team_id>
-
-      <practice_group>1. Mannschaft</practice_group>
-      <practice_group_id>15268</practice_group_id>
-
-      <category>1. Mannschaft</category>
-      <category_id>15268</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
-
-      <opponent></opponent>
-
-      <date>2026-07-31</date>
-      <weekday>Fr</weekday>
-      <time_start>19:30</time_start>
-      <time_end>20:45</time_end>
-      <datetime_start>2026-07-31T19:30:00+02:00</datetime_start>
-      <datetime_end>2026-07-31T20:45:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Kraftraum</place>
-      <location_id>2293</location_id>
-
-      <notes>Keine Turnhalle! Trainingsort wird vom Captain-Team kommuniziert</notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">776408</field>
-      <field name="id_group">15268</field>
-      <field name="notes">Keine Turnhalle! Trainingsort wird vom Captain-Team kommuniziert </field>
-      <field name="agegroup">Aktiv (1. Mannschaft)</field>
-      <field name="type">Trockentraining</field>
-      <field name="event">Training</field>
-      <field name="type_event">P</field>
-      <field name="place">Eishalle Sursee - Kraftraum</field>
-      <field name="date">2026-07-31</field>
-      <field name="weekday">Fr</field>
-      <field name="start">2026-07-31 19:30:00</field>
-      <field name="end">2026-07-31 20:45:00</field>
-      <field name="time_start">19:30:00</field>
-      <field name="time_end">20:45:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
-      <field name="opponent"></field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;776408&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot;Keine Turnhalle! Trainingsort wird vom Captain-Team kommuniziert &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-07-31&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-07-31 19:30:00&quot;,&quot;end&quot;:&quot;2026-07-31 20:45:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;20:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
