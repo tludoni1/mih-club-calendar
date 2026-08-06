@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-05T15:05:19.174Z" start_date="2025-05-04" end_date="2027-05-04" event_count="326">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-06T09:22:03.823Z" start_date="2025-05-04" end_date="2027-05-04" event_count="326">
   <events>
     <event>
       <id>747253</id>
@@ -18930,7 +18930,7 @@ Betreuung: Martina Kappeler </field>
       <place>Eishalle Oberwynental, Reinach</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Pikett; Graus Manuel</notes>
       <description></description>
 
       <url></url>
@@ -18938,7 +18938,7 @@ Betreuung: Martina Kappeler </field>
       <source_fields>
       <field name="id_event">159100</field>
       <field name="id_group">10319</field>
-      <field name="notes"> </field>
+      <field name="notes">Pikett; Graus Manuel </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -18956,7 +18956,7 @@ Betreuung: Martina Kappeler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159100&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 11:45:00&quot;,&quot;end&quot;:&quot;2026-09-06 14:15:00&quot;,&quot;time_start&quot;:&quot;11:45:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159100&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett; Graus Manuel &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 11:45:00&quot;,&quot;end&quot;:&quot;2026-09-06 14:15:00&quot;,&quot;time_start&quot;:&quot;11:45:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -20580,7 +20580,9 @@ Betreuung: Martina Kappeler </field>
       <place>Reinach</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Tagesturnier Wyna-Cup
+Pikett: Husmann Tom
+Betreuerin: Penasa</notes>
       <description></description>
 
       <url></url>
@@ -20588,7 +20590,9 @@ Betreuung: Martina Kappeler </field>
       <source_fields>
       <field name="id_event">161535</field>
       <field name="id_group">10319</field>
-      <field name="notes"> </field>
+      <field name="notes">Tagesturnier Wyna-Cup
+Pikett: Husmann Tom
+Betreuerin: Penasa </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -20606,7 +20610,7 @@ Betreuung: Martina Kappeler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;161535&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Reinach&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 16:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;16:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;161535&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Tagesturnier Wyna-Cup\r\nPikett: Husmann Tom\r\nBetreuerin: Penasa &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Reinach&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 16:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;16:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21308,7 +21312,7 @@ Betreuungsstaff: Gaby Penasa </field>
       <place>Eishalle Oberwynental, Reinach</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Pikett: Frey Laurin</notes>
       <description></description>
 
       <url></url>
@@ -21316,7 +21320,7 @@ Betreuungsstaff: Gaby Penasa </field>
       <source_fields>
       <field name="id_event">159101</field>
       <field name="id_group">10319</field>
-      <field name="notes"> </field>
+      <field name="notes">Pikett: Frey Laurin </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -21334,7 +21338,7 @@ Betreuungsstaff: Gaby Penasa </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159101&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 11:45:00&quot;,&quot;end&quot;:&quot;2026-09-20 14:15:00&quot;,&quot;time_start&quot;:&quot;11:45:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159101&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Frey Laurin &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 11:45:00&quot;,&quot;end&quot;:&quot;2026-09-20 14:15:00&quot;,&quot;time_start&quot;:&quot;11:45:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
