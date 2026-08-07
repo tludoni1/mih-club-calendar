@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-07T07:52:33.219Z" start_date="2025-05-04" end_date="2027-05-04" event_count="326">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-07T14:03:09.456Z" start_date="2025-05-04" end_date="2027-05-04" event_count="326">
   <events>
     <event>
       <id>747253</id>
@@ -14096,7 +14096,8 @@
       <place>Eishalle Lyss</place>
       <location_id></location_id>
 
-      <notes>Coaches:  Manuel Gäumann / Kevin Koch</notes>
+      <notes>Coaches:  Manuel Gäumann / Kevin Koch
+Betreuung: Severine</notes>
       <description></description>
 
       <url></url>
@@ -14104,7 +14105,8 @@
       <source_fields>
       <field name="id_event">160945</field>
       <field name="id_group">10323</field>
-      <field name="notes">Coaches:  Manuel Gäumann / Kevin Koch </field>
+      <field name="notes">Coaches:  Manuel Gäumann / Kevin Koch
+Betreuung: Severine </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -14122,7 +14124,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;160945&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Coaches:  Manuel Gäumann / Kevin Koch &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Lyss&quot;,&quot;date&quot;:&quot;2026-08-15&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-15 12:30:00&quot;,&quot;end&quot;:&quot;2026-08-15 15:00:00&quot;,&quot;time_start&quot;:&quot;12:30:00&quot;,&quot;time_end&quot;:&quot;15:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;160945&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Coaches:  Manuel Gäumann / Kevin Koch\r\nBetreuung: Severine &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Lyss&quot;,&quot;date&quot;:&quot;2026-08-15&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-15 12:30:00&quot;,&quot;end&quot;:&quot;2026-08-15 15:00:00&quot;,&quot;time_start&quot;:&quot;12:30:00&quot;,&quot;time_end&quot;:&quot;15:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -18600,7 +18602,8 @@ Betreuung: Martina Kappeler </field>
       <place>Langenthal</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Betreuerin: Weibel Jeannine
+Pikett: Felder Lino Jan</notes>
       <description></description>
 
       <url></url>
@@ -18608,7 +18611,8 @@ Betreuung: Martina Kappeler </field>
       <source_fields>
       <field name="id_event">159231</field>
       <field name="id_group">10319</field>
-      <field name="notes"> </field>
+      <field name="notes">Betreuerin: Weibel Jeannine
+Pikett: Felder Lino Jan </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -18626,7 +18630,7 @@ Betreuung: Martina Kappeler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159231&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langenthal&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 09:45:00&quot;,&quot;end&quot;:&quot;2026-09-05 12:15:00&quot;,&quot;time_start&quot;:&quot;09:45:00&quot;,&quot;time_end&quot;:&quot;12:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159231&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Betreuerin: Weibel Jeannine\r\nPikett: Felder Lino Jan &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langenthal&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 09:45:00&quot;,&quot;end&quot;:&quot;2026-09-05 12:15:00&quot;,&quot;time_start&quot;:&quot;09:45:00&quot;,&quot;time_end&quot;:&quot;12:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -18864,7 +18868,7 @@ Betreuung: Martina Kappeler </field>
       <place>Eishalle Grüsch</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Betreuerin: Ramseier Severine</notes>
       <description></description>
 
       <url></url>
@@ -18872,7 +18876,7 @@ Betreuung: Martina Kappeler </field>
       <source_fields>
       <field name="id_event">157885</field>
       <field name="id_group">10318</field>
-      <field name="notes"> </field>
+      <field name="notes">Betreuerin: Ramseier Severine </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -18890,7 +18894,7 @@ Betreuung: Martina Kappeler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;157885&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Grüsch&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-06 20:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;157885&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot;Betreuerin: Ramseier Severine &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Grüsch&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-06 20:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -19055,9 +19059,9 @@ Betreuung: Martina Kappeler </field>
       <date>2026-09-06</date>
       <weekday>Su</weekday>
       <time_start>14:30</time_start>
-      <time_end>17:00</time_end>
+      <time_end>16:30</time_end>
       <datetime_start>2026-09-06T14:30:00+02:00</datetime_start>
-      <datetime_end>2026-09-06T17:00:00+02:00</datetime_end>
+      <datetime_end>2026-09-06T16:30:00+02:00</datetime_end>
 
       <place>Eishalle Oberwynental, Reinach</place>
       <location_id></location_id>
@@ -19079,16 +19083,16 @@ Betreuung: Martina Kappeler </field>
       <field name="date">2026-09-06</field>
       <field name="weekday">Su</field>
       <field name="start">2026-09-06 14:30:00</field>
-      <field name="end">2026-09-06 17:00:00</field>
+      <field name="end">2026-09-06 16:30:00</field>
       <field name="time_start">14:30:00</field>
-      <field name="time_end">17:00:00</field>
+      <field name="time_end">16:30:00</field>
       <field name="opponent">Diverse</field>
       <field name="type_type">G2</field>
       <field name="color">#1184ea</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159108&quot;,&quot;id_group&quot;:&quot;10322&quot;,&quot;notes&quot;:&quot;Coaches: Kevin Koch / Lukas Haas &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 14:30:00&quot;,&quot;end&quot;:&quot;2026-09-06 17:00:00&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;17:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159108&quot;,&quot;id_group&quot;:&quot;10322&quot;,&quot;notes&quot;:&quot;Coaches: Kevin Koch / Lukas Haas &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 14:30:00&quot;,&quot;end&quot;:&quot;2026-09-06 16:30:00&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -20575,16 +20579,16 @@ Reserve-Spieler: Matter Emil </field>
       <date>2026-09-12</date>
       <weekday>Sa</weekday>
       <time_start>08:00</time_start>
-      <time_end>16:00</time_end>
+      <time_end>13:00</time_end>
       <datetime_start>2026-09-12T08:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-12T16:00:00+02:00</datetime_end>
+      <datetime_end>2026-09-12T13:00:00+02:00</datetime_end>
 
       <place>Reinach</place>
       <location_id></location_id>
 
       <notes>Tagesturnier Wyna-Cup
-Pikett: Husmann Tom
-Betreuerin: Penasa</notes>
+Pikett: Bachmann Elina
+Betreuerin: Hecht</notes>
       <description></description>
 
       <url></url>
@@ -20593,8 +20597,8 @@ Betreuerin: Penasa</notes>
       <field name="id_event">161535</field>
       <field name="id_group">10319</field>
       <field name="notes">Tagesturnier Wyna-Cup
-Pikett: Husmann Tom
-Betreuerin: Penasa </field>
+Pikett: Bachmann Elina
+Betreuerin: Hecht </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -20603,84 +20607,16 @@ Betreuerin: Penasa </field>
       <field name="date">2026-09-12</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-09-12 08:00:00</field>
-      <field name="end">2026-09-12 16:00:00</field>
+      <field name="end">2026-09-12 13:00:00</field>
       <field name="time_start">08:00:00</field>
-      <field name="time_end">16:00:00</field>
+      <field name="time_end">13:00:00</field>
       <field name="opponent">Diverse</field>
       <field name="type_type">G2</field>
       <field name="color">#1184ea</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;161535&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Tagesturnier Wyna-Cup\r\nPikett: Husmann Tom\r\nBetreuerin: Penasa &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Reinach&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 16:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;16:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>160944</id>
-      <uid>mih-88-e8a77dc5cd58d71c926aa211@ehc-sursee.local</uid>
-
-      <type_event>GA</type_event>
-      <event>Spiel (auswärts)</event>
-      <title>Spiel (auswärts)</title>
-
-      <agegroup>Erfassungsstufe</agegroup>
-      <agegroup_id>74</agegroup_id>
-
-      <team>U12-2</team>
-      <team_id>10322</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U12-2</category>
-      <category_id>10322</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Turnier</type>
-      <type_id>G2</type_id>
-
-      <opponent>Diverse</opponent>
-
-      <date>2026-09-12</date>
-      <weekday>Sa</weekday>
-      <time_start>08:00</time_start>
-      <time_end>18:00</time_end>
-      <datetime_start>2026-09-12T08:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-12T18:00:00+02:00</datetime_end>
-
-      <place>Eishalle Reinach</place>
-      <location_id></location_id>
-
-      <notes>Tagesturnier Wyna -Cup
-Betreuungsstaff: Gaby Penasa</notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">160944</field>
-      <field name="id_group">10322</field>
-      <field name="notes">Tagesturnier Wyna -Cup
-Betreuungsstaff: Gaby Penasa </field>
-      <field name="agegroup">Erfassungsstufe</field>
-      <field name="type">Turnier</field>
-      <field name="event">Spiel (auswärts)</field>
-      <field name="type_event">GA</field>
-      <field name="place">Eishalle Reinach</field>
-      <field name="date">2026-09-12</field>
-      <field name="weekday">Sa</field>
-      <field name="start">2026-09-12 08:00:00</field>
-      <field name="end">2026-09-12 18:00:00</field>
-      <field name="time_start">08:00:00</field>
-      <field name="time_end">18:00:00</field>
-      <field name="opponent">Diverse</field>
-      <field name="type_type">G2</field>
-      <field name="color">#1184ea</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;160944&quot;,&quot;id_group&quot;:&quot;10322&quot;,&quot;notes&quot;:&quot;Tagesturnier Wyna -Cup\r\nBetreuungsstaff: Gaby Penasa &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Reinach&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 18:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;18:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;161535&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Tagesturnier Wyna-Cup\r\nPikett: Bachmann Elina\r\nBetreuerin: Hecht &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Reinach&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 13:00:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;13:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -20816,6 +20752,74 @@ Betreuungsstaff: Gaby Penasa </field>
       </raw>
     </event>
     <event>
+      <id>160944</id>
+      <uid>mih-88-e8a77dc5cd58d71c926aa211@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Erfassungsstufe</agegroup>
+      <agegroup_id>74</agegroup_id>
+
+      <team>U12-2</team>
+      <team_id>10322</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U12-2</category>
+      <category_id>10322</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Turnier</type>
+      <type_id>G2</type_id>
+
+      <opponent>Diverse</opponent>
+
+      <date>2026-09-12</date>
+      <weekday>Sa</weekday>
+      <time_start>14:00</time_start>
+      <time_end>20:00</time_end>
+      <datetime_start>2026-09-12T14:00:00+02:00</datetime_start>
+      <datetime_end>2026-09-12T20:00:00+02:00</datetime_end>
+
+      <place>Eishalle Reinach</place>
+      <location_id></location_id>
+
+      <notes>Wyna -Cup Nachmittag
+Betreuungsstaff: Gaby Penasa</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">160944</field>
+      <field name="id_group">10322</field>
+      <field name="notes">Wyna -Cup Nachmittag
+Betreuungsstaff: Gaby Penasa </field>
+      <field name="agegroup">Erfassungsstufe</field>
+      <field name="type">Turnier</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Eishalle Reinach</field>
+      <field name="date">2026-09-12</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-09-12 14:00:00</field>
+      <field name="end">2026-09-12 20:00:00</field>
+      <field name="time_start">14:00:00</field>
+      <field name="time_end">20:00:00</field>
+      <field name="opponent">Diverse</field>
+      <field name="type_type">G2</field>
+      <field name="color">#1184ea</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;160944&quot;,&quot;id_group&quot;:&quot;10322&quot;,&quot;notes&quot;:&quot;Wyna -Cup Nachmittag\r\nBetreuungsstaff: Gaby Penasa &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Reinach&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 14:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 20:00:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>159106</id>
       <uid>mih-88-e004db6bfc84c3d76e7b1bae@ehc-sursee.local</uid>
 
@@ -20844,10 +20848,10 @@ Betreuungsstaff: Gaby Penasa </field>
 
       <date>2026-09-12</date>
       <weekday>Sa</weekday>
-      <time_start>15:00</time_start>
-      <time_end>17:30</time_end>
-      <datetime_start>2026-09-12T15:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-12T17:30:00+02:00</datetime_end>
+      <time_start>14:30</time_start>
+      <time_end>16:30</time_end>
+      <datetime_start>2026-09-12T14:30:00+02:00</datetime_start>
+      <datetime_end>2026-09-12T16:30:00+02:00</datetime_end>
 
       <place>KEBA Aarau</place>
       <location_id></location_id>
@@ -20868,17 +20872,17 @@ Betreuungsstaff: Gaby Penasa </field>
       <field name="place">KEBA Aarau</field>
       <field name="date">2026-09-12</field>
       <field name="weekday">Sa</field>
-      <field name="start">2026-09-12 15:00:00</field>
-      <field name="end">2026-09-12 17:30:00</field>
-      <field name="time_start">15:00:00</field>
-      <field name="time_end">17:30:00</field>
+      <field name="start">2026-09-12 14:30:00</field>
+      <field name="end">2026-09-12 16:30:00</field>
+      <field name="time_start">14:30:00</field>
+      <field name="time_end">16:30:00</field>
       <field name="opponent">Diverse</field>
       <field name="type_type">G2</field>
       <field name="color">#1184ea</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159106&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;2.Coach: Reto Schnidrig &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEBA Aarau&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 15:00:00&quot;,&quot;end&quot;:&quot;2026-09-12 17:30:00&quot;,&quot;time_start&quot;:&quot;15:00:00&quot;,&quot;time_end&quot;:&quot;17:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159106&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;2.Coach: Reto Schnidrig &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEBA Aarau&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 14:30:00&quot;,&quot;end&quot;:&quot;2026-09-12 16:30:00&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21050,7 +21054,7 @@ Betreuungsstaff: Gaby Penasa </field>
       <place>Eishalle Grüsch</place>
       <location_id></location_id>
 
-      <notes>BetreuungStaff: Bruno Meyer</notes>
+      <notes>Betreuung: Bruno Meyer</notes>
       <description></description>
 
       <url></url>
@@ -21058,7 +21062,7 @@ Betreuungsstaff: Gaby Penasa </field>
       <source_fields>
       <field name="id_event">157887</field>
       <field name="id_group">10322</field>
-      <field name="notes">BetreuungStaff: Bruno Meyer </field>
+      <field name="notes">Betreuung: Bruno Meyer </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -21076,7 +21080,7 @@ Betreuungsstaff: Gaby Penasa </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;157887&quot;,&quot;id_group&quot;:&quot;10322&quot;,&quot;notes&quot;:&quot;BetreuungStaff: Bruno Meyer &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Grüsch&quot;,&quot;date&quot;:&quot;2026-09-13&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-13 09:00:00&quot;,&quot;end&quot;:&quot;2026-09-13 16:00:00&quot;,&quot;time_start&quot;:&quot;09:00:00&quot;,&quot;time_end&quot;:&quot;16:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;157887&quot;,&quot;id_group&quot;:&quot;10322&quot;,&quot;notes&quot;:&quot;Betreuung: Bruno Meyer &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Grüsch&quot;,&quot;date&quot;:&quot;2026-09-13&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-13 09:00:00&quot;,&quot;end&quot;:&quot;2026-09-13 16:00:00&quot;,&quot;time_start&quot;:&quot;09:00:00&quot;,&quot;time_end&quot;:&quot;16:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21248,7 +21252,7 @@ Betreuungsstaff: Gaby Penasa </field>
       <place>KEBA Aarau</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Reserve Spieler: Arnet Lennox</notes>
       <description></description>
 
       <url></url>
@@ -21256,7 +21260,7 @@ Betreuungsstaff: Gaby Penasa </field>
       <source_fields>
       <field name="id_event">159110</field>
       <field name="id_group">10321</field>
-      <field name="notes"> </field>
+      <field name="notes">Reserve Spieler: Arnet Lennox </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -21274,7 +21278,7 @@ Betreuungsstaff: Gaby Penasa </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159110&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEBA Aarau&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-20 10:30:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;10:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159110&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;Reserve Spieler: Arnet Lennox &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEBA Aarau&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 08:00:00&quot;,&quot;end&quot;:&quot;2026-09-20 10:30:00&quot;,&quot;time_start&quot;:&quot;08:00:00&quot;,&quot;time_end&quot;:&quot;10:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21314,7 +21318,8 @@ Betreuungsstaff: Gaby Penasa </field>
       <place>Eishalle Oberwynental, Reinach</place>
       <location_id></location_id>
 
-      <notes>Pikett: Frey Laurin</notes>
+      <notes>Coach: Felder Thomas
+Pikett: Frey Laurin</notes>
       <description></description>
 
       <url></url>
@@ -21322,7 +21327,8 @@ Betreuungsstaff: Gaby Penasa </field>
       <source_fields>
       <field name="id_event">159101</field>
       <field name="id_group">10319</field>
-      <field name="notes">Pikett: Frey Laurin </field>
+      <field name="notes">Coach: Felder Thomas
+Pikett: Frey Laurin </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -21340,7 +21346,7 @@ Betreuungsstaff: Gaby Penasa </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159101&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Frey Laurin &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 11:45:00&quot;,&quot;end&quot;:&quot;2026-09-20 14:15:00&quot;,&quot;time_start&quot;:&quot;11:45:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159101&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felder Thomas\r\nPikett: Frey Laurin &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 11:45:00&quot;,&quot;end&quot;:&quot;2026-09-20 14:15:00&quot;,&quot;time_start&quot;:&quot;11:45:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
