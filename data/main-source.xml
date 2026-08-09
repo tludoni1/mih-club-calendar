@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-08T13:36:36.267Z" start_date="2025-05-04" end_date="2027-05-04" event_count="352">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-09T07:32:55.952Z" start_date="2025-05-04" end_date="2027-05-04" event_count="352">
   <events>
     <event>
       <id>747253</id>
@@ -15946,16 +15946,16 @@ Betreuerin: Ramseier Severine </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>EHC Olten Prospects</opponent>
+      <opponent>EHC Olten Prospect</opponent>
 
       <date>2026-08-22</date>
       <weekday>Sa</weekday>
       <time_start>17:45</time_start>
-      <time_end>20:15</time_end>
+      <time_end>19:45</time_end>
       <datetime_start>2026-08-22T17:45:00+02:00</datetime_start>
-      <datetime_end>2026-08-22T20:15:00+02:00</datetime_end>
+      <datetime_end>2026-08-22T19:45:00+02:00</datetime_end>
 
-      <place>Eishalle Olten</place>
+      <place>Eisbahn Kleinholz, 4603 Olten SO</place>
       <location_id></location_id>
 
       <notes></notes>
@@ -15971,20 +15971,20 @@ Betreuerin: Ramseier Severine </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel (auswärts)</field>
       <field name="type_event">GA</field>
-      <field name="place">Eishalle Olten</field>
+      <field name="place">Eisbahn Kleinholz, 4603 Olten SO</field>
       <field name="date">2026-08-22</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-08-22 17:45:00</field>
-      <field name="end">2026-08-22 20:15:00</field>
+      <field name="end">2026-08-22 19:45:00</field>
       <field name="time_start">17:45:00</field>
-      <field name="time_end">20:15:00</field>
-      <field name="opponent">EHC Olten Prospects</field>
+      <field name="time_end">19:45:00</field>
+      <field name="opponent">EHC Olten Prospect</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159114&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Olten&quot;,&quot;date&quot;:&quot;2026-08-22&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-22 17:45:00&quot;,&quot;end&quot;:&quot;2026-08-22 20:15:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;opponent&quot;:&quot;EHC Olten Prospects&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159114&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2026-08-22&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-22 17:45:00&quot;,&quot;end&quot;:&quot;2026-08-22 19:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;opponent&quot;:&quot;EHC Olten Prospect&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -16212,16 +16212,16 @@ Betreuerin: Ramseier Severine </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>BEO Yetis</opponent>
+      <opponent>Beo Young Yetis</opponent>
 
       <date>2026-08-23</date>
       <weekday>Su</weekday>
       <time_start>13:15</time_start>
-      <time_end>15:45</time_end>
+      <time_end>15:15</time_end>
       <datetime_start>2026-08-23T13:15:00+02:00</datetime_start>
-      <datetime_end>2026-08-23T15:45:00+02:00</datetime_end>
+      <datetime_end>2026-08-23T15:15:00+02:00</datetime_end>
 
-      <place>Kandersteg</place>
+      <place>Kunsteisbahn Genossenschaft Kandersteg, 3718 Kandersteg BE</place>
       <location_id></location_id>
 
       <notes></notes>
@@ -16237,20 +16237,20 @@ Betreuerin: Ramseier Severine </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel (auswärts)</field>
       <field name="type_event">GA</field>
-      <field name="place">Kandersteg</field>
+      <field name="place">Kunsteisbahn Genossenschaft Kandersteg, 3718 Kandersteg BE</field>
       <field name="date">2026-08-23</field>
       <field name="weekday">Su</field>
       <field name="start">2026-08-23 13:15:00</field>
-      <field name="end">2026-08-23 15:45:00</field>
+      <field name="end">2026-08-23 15:15:00</field>
       <field name="time_start">13:15:00</field>
-      <field name="time_end">15:45:00</field>
-      <field name="opponent">BEO Yetis</field>
+      <field name="time_end">15:15:00</field>
+      <field name="opponent">Beo Young Yetis</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;158150&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kandersteg&quot;,&quot;date&quot;:&quot;2026-08-23&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-08-23 13:15:00&quot;,&quot;end&quot;:&quot;2026-08-23 15:45:00&quot;,&quot;time_start&quot;:&quot;13:15:00&quot;,&quot;time_end&quot;:&quot;15:45:00&quot;,&quot;opponent&quot;:&quot;BEO Yetis&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;158150&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Genossenschaft Kandersteg, 3718 Kandersteg BE&quot;,&quot;date&quot;:&quot;2026-08-23&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-08-23 13:15:00&quot;,&quot;end&quot;:&quot;2026-08-23 15:15:00&quot;,&quot;time_start&quot;:&quot;13:15:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;Beo Young Yetis&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -18001,12 +18001,12 @@ Betreuung: Martina Kappeler </field>
       <date>2026-09-02</date>
       <weekday>We</weekday>
       <time_start>18:15</time_start>
-      <time_end>20:45</time_end>
+      <time_end>20:15</time_end>
       <datetime_start>2026-09-02T18:15:00+02:00</datetime_start>
-      <datetime_end>2026-09-02T20:45:00+02:00</datetime_end>
+      <datetime_end>2026-09-02T20:15:00+02:00</datetime_end>
 
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
 
       <notes></notes>
       <description></description>
@@ -18021,20 +18021,20 @@ Betreuung: Martina Kappeler </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel</field>
       <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
       <field name="date">2026-09-02</field>
       <field name="weekday">We</field>
       <field name="start">2026-09-02 18:15:00</field>
-      <field name="end">2026-09-02 20:45:00</field>
+      <field name="end">2026-09-02 20:15:00</field>
       <field name="time_start">18:15:00</field>
-      <field name="time_end">20:45:00</field>
+      <field name="time_end">20:15:00</field>
       <field name="opponent">Argovia Stars</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159115&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-02&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-09-02 18:15:00&quot;,&quot;end&quot;:&quot;2026-09-02 20:45:00&quot;,&quot;time_start&quot;:&quot;18:15:00&quot;,&quot;time_end&quot;:&quot;20:45:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159115&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-09-02&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-09-02 18:15:00&quot;,&quot;end&quot;:&quot;2026-09-02 20:15:00&quot;,&quot;time_start&quot;:&quot;18:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
