@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-16T07:09:33.821Z" start_date="2025-05-04" end_date="2027-05-04" event_count="424">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-16T13:22:17.375Z" start_date="2025-05-04" end_date="2027-05-04" event_count="471">
   <events>
     <event>
       <id>747253</id>
@@ -16014,16 +16014,16 @@ Betreuerin: Ramseier Severine </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>HC Mühleturnen</opponent>
+      <opponent>HC Mühlethurnen</opponent>
 
       <date>2026-08-22</date>
       <weekday>Sa</weekday>
       <time_start>19:00</time_start>
-      <time_end>22:00</time_end>
+      <time_end>21:00</time_end>
       <datetime_start>2026-08-22T19:00:00+02:00</datetime_start>
-      <datetime_end>2026-08-22T22:00:00+02:00</datetime_end>
+      <datetime_end>2026-08-22T21:00:00+02:00</datetime_end>
 
-      <place>Sportzentrum Sagibach</place>
+      <place>Sportzentrum Sagibach, 3114 Wichtrach BE</place>
       <location_id></location_id>
 
       <notes></notes>
@@ -16039,20 +16039,20 @@ Betreuerin: Ramseier Severine </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel (auswärts)</field>
       <field name="type_event">GA</field>
-      <field name="place">Sportzentrum Sagibach</field>
+      <field name="place">Sportzentrum Sagibach, 3114 Wichtrach BE</field>
       <field name="date">2026-08-22</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-08-22 19:00:00</field>
-      <field name="end">2026-08-22 22:00:00</field>
+      <field name="end">2026-08-22 21:00:00</field>
       <field name="time_start">19:00:00</field>
-      <field name="time_end">22:00:00</field>
-      <field name="opponent">HC Mühleturnen</field>
+      <field name="time_end">21:00:00</field>
+      <field name="opponent">HC Mühlethurnen</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;161604&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Sagibach&quot;,&quot;date&quot;:&quot;2026-08-22&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-22 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-22 22:00:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Mühleturnen&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;161604&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Sagibach, 3114 Wichtrach BE&quot;,&quot;date&quot;:&quot;2026-08-22&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-22 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-22 21:00:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;opponent&quot;:&quot;HC Mühlethurnen&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -17272,16 +17272,16 @@ Betreuung: Martina Kappeler </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>EHC Oberlangenegg</opponent>
+      <opponent>EHC Oberlangenegg I</opponent>
 
       <date>2026-08-29</date>
       <weekday>Sa</weekday>
       <time_start>18:00</time_start>
-      <time_end>20:30</time_end>
+      <time_end>20:00</time_end>
       <datetime_start>2026-08-29T18:00:00+02:00</datetime_start>
-      <datetime_end>2026-08-29T20:30:00+02:00</datetime_end>
+      <datetime_end>2026-08-29T20:00:00+02:00</datetime_end>
 
-      <place>Langnau CAMPUS</place>
+      <place>Langnau CAMPUS, 3550 Langnau i.E. BE</place>
       <location_id></location_id>
 
       <notes></notes>
@@ -17297,20 +17297,20 @@ Betreuung: Martina Kappeler </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel (auswärts)</field>
       <field name="type_event">GA</field>
-      <field name="place">Langnau CAMPUS</field>
+      <field name="place">Langnau CAMPUS, 3550 Langnau i.E. BE</field>
       <field name="date">2026-08-29</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-08-29 18:00:00</field>
-      <field name="end">2026-08-29 20:30:00</field>
+      <field name="end">2026-08-29 20:00:00</field>
       <field name="time_start">18:00:00</field>
-      <field name="time_end">20:30:00</field>
-      <field name="opponent">EHC Oberlangenegg</field>
+      <field name="time_end">20:00:00</field>
+      <field name="opponent">EHC Oberlangenegg I</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159949&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langnau CAMPUS&quot;,&quot;date&quot;:&quot;2026-08-29&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-29 18:00:00&quot;,&quot;end&quot;:&quot;2026-08-29 20:30:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:30:00&quot;,&quot;opponent&quot;:&quot;EHC Oberlangenegg&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159949&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langnau CAMPUS, 3550 Langnau i.E. BE&quot;,&quot;date&quot;:&quot;2026-08-29&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-29 18:00:00&quot;,&quot;end&quot;:&quot;2026-08-29 20:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;EHC Oberlangenegg I&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -20187,12 +20187,12 @@ Reserve-Spieler: Matter Emil </field>
       <date>2026-09-08</date>
       <weekday>Tu</weekday>
       <time_start>20:30</time_start>
-      <time_end>22:45</time_end>
+      <time_end>22:30</time_end>
       <datetime_start>2026-09-08T20:30:00+02:00</datetime_start>
-      <datetime_end>2026-09-08T22:45:00+02:00</datetime_end>
+      <datetime_end>2026-09-08T22:30:00+02:00</datetime_end>
 
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
 
       <notes></notes>
       <description></description>
@@ -20207,20 +20207,20 @@ Reserve-Spieler: Matter Emil </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel</field>
       <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
       <field name="date">2026-09-08</field>
       <field name="weekday">Tu</field>
       <field name="start">2026-09-08 20:30:00</field>
-      <field name="end">2026-09-08 22:45:00</field>
+      <field name="end">2026-09-08 22:30:00</field>
       <field name="time_start">20:30:00</field>
-      <field name="time_end">22:45:00</field>
+      <field name="time_end">22:30:00</field>
       <field name="opponent">Hockey Reinach</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;165161&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-08&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-09-08 20:30:00&quot;,&quot;end&quot;:&quot;2026-09-08 22:45:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:45:00&quot;,&quot;opponent&quot;:&quot;Hockey Reinach&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;165161&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-09-08&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-09-08 20:30:00&quot;,&quot;end&quot;:&quot;2026-09-08 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;Hockey Reinach&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21183,11 +21183,11 @@ Betreuungs: </field>
       <date>2026-09-12</date>
       <weekday>Sa</weekday>
       <time_start>19:45</time_start>
-      <time_end>22:45</time_end>
+      <time_end>21:45</time_end>
       <datetime_start>2026-09-12T19:45:00+02:00</datetime_start>
-      <datetime_end>2026-09-12T22:45:00+02:00</datetime_end>
+      <datetime_end>2026-09-12T21:45:00+02:00</datetime_end>
 
-      <place>Sportbetriebe Brünnli AG</place>
+      <place>Sportbetriebe Brünnli AG, 3415 Hasle bei Burgdorf</place>
       <location_id></location_id>
 
       <notes></notes>
@@ -21203,20 +21203,20 @@ Betreuungs: </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel (auswärts)</field>
       <field name="type_event">GA</field>
-      <field name="place">Sportbetriebe Brünnli AG</field>
+      <field name="place">Sportbetriebe Brünnli AG, 3415 Hasle bei Burgdorf</field>
       <field name="date">2026-09-12</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-09-12 19:45:00</field>
-      <field name="end">2026-09-12 22:45:00</field>
+      <field name="end">2026-09-12 21:45:00</field>
       <field name="time_start">19:45:00</field>
-      <field name="time_end">22:45:00</field>
+      <field name="time_end">21:45:00</field>
       <field name="opponent">EHC Brandis</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;161605&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportbetriebe Brünnli AG&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 19:45:00&quot;,&quot;end&quot;:&quot;2026-09-12 22:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;22:45:00&quot;,&quot;opponent&quot;:&quot;EHC Brandis&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;161605&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportbetriebe Brünnli AG, 3415 Hasle bei Burgdorf&quot;,&quot;date&quot;:&quot;2026-09-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-12 19:45:00&quot;,&quot;end&quot;:&quot;2026-09-12 21:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;opponent&quot;:&quot;EHC Brandis&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -24353,12 +24353,12 @@ Pikett: Frey Laurin </field>
       <date>2026-09-26</date>
       <weekday>Sa</weekday>
       <time_start>20:15</time_start>
-      <time_end>23:15</time_end>
+      <time_end>22:15</time_end>
       <datetime_start>2026-09-26T20:15:00+02:00</datetime_start>
-      <datetime_end>2026-09-26T23:15:00+02:00</datetime_end>
+      <datetime_end>2026-09-26T22:15:00+02:00</datetime_end>
 
-      <place>Eishalle Sursee - Eisfeld</place>
-      <location_id>2297</location_id>
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
 
       <notes></notes>
       <description></description>
@@ -24373,20 +24373,20 @@ Pikett: Frey Laurin </field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel</field>
       <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
       <field name="date">2026-09-26</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-09-26 20:15:00</field>
-      <field name="end">2026-09-26 23:15:00</field>
+      <field name="end">2026-09-26 22:15:00</field>
       <field name="time_start">20:15:00</field>
-      <field name="time_end">23:15:00</field>
+      <field name="time_end">22:15:00</field>
       <field name="opponent">EV Zug</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;161606&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-26&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-26 20:15:00&quot;,&quot;end&quot;:&quot;2026-09-26 23:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;23:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;161606&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-09-26&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-26 20:15:00&quot;,&quot;end&quot;:&quot;2026-09-26 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -26103,6 +26103,138 @@ Pikett: Frey Laurin </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;818262&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-02&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-02 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-02 21:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170209</id>
+      <uid>mih-88-9b5a4c38517d867816429f9e@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Seetal</opponent>
+
+      <date>2026-10-03</date>
+      <weekday>Sa</weekday>
+      <time_start>19:45</time_start>
+      <time_end>21:45</time_end>
+      <datetime_start>2026-10-03T19:45:00+02:00</datetime_start>
+      <datetime_end>2026-10-03T21:45:00+02:00</datetime_end>
+
+      <place>Sportzentrum Iceline Seetal, 6281 Hochdorf LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170209</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Sportzentrum Iceline Seetal, 6281 Hochdorf LU</field>
+      <field name="date">2026-10-03</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-03 19:45:00</field>
+      <field name="end">2026-10-03 21:45:00</field>
+      <field name="time_start">19:45:00</field>
+      <field name="time_end">21:45:00</field>
+      <field name="opponent">HC Seetal</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170209&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 19:45:00&quot;,&quot;end&quot;:&quot;2026-10-03 21:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170188</id>
+      <uid>mih-88-31083317911985f4e234f75a@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Koppigen</opponent>
+
+      <date>2026-10-03</date>
+      <weekday>Sa</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2026-10-03T20:30:00+02:00</datetime_start>
+      <datetime_end>2026-10-03T22:30:00+02:00</datetime_end>
+
+      <place>Localnet Arena, 3400 Burgdorf BE</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170188</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Localnet Arena, 3400 Burgdorf BE</field>
+      <field name="date">2026-10-03</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-03 20:30:00</field>
+      <field name="end">2026-10-03 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">EHC Koppigen</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170188&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Localnet Arena, 3400 Burgdorf BE&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 20:30:00&quot;,&quot;end&quot;:&quot;2026-10-03 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Koppigen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -27951,6 +28083,2976 @@ Pikett: Frey Laurin </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;818328&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-09&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-09 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-09 21:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170189</id>
+      <uid>mih-88-eb66f95d4c6757752e11f48c@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Rheinfelden</opponent>
+
+      <date>2026-10-10</date>
+      <weekday>Sa</weekday>
+      <time_start>17:30</time_start>
+      <time_end>19:30</time_end>
+      <datetime_start>2026-10-10T17:30:00+02:00</datetime_start>
+      <datetime_end>2026-10-10T19:30:00+02:00</datetime_end>
+
+      <place>Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170189</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</field>
+      <field name="date">2026-10-10</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-10 17:30:00</field>
+      <field name="end">2026-10-10 19:30:00</field>
+      <field name="time_start">17:30:00</field>
+      <field name="time_end">19:30:00</field>
+      <field name="opponent">EHC Rheinfelden</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170189&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-10 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170210</id>
+      <uid>mih-88-845e226c0ff3612f52c493aa@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>KSC Küssnacht am Rigi II</opponent>
+
+      <date>2026-10-10</date>
+      <weekday>Sa</weekday>
+      <time_start>18:45</time_start>
+      <time_end>20:45</time_end>
+      <datetime_start>2026-10-10T18:45:00+02:00</datetime_start>
+      <datetime_end>2026-10-10T20:45:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170210</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-10</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-10 18:45:00</field>
+      <field name="end">2026-10-10 20:45:00</field>
+      <field name="time_start">18:45:00</field>
+      <field name="time_end">20:45:00</field>
+      <field name="opponent">KSC Küssnacht am Rigi II</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170210&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 18:45:00&quot;,&quot;end&quot;:&quot;2026-10-10 20:45:00&quot;,&quot;time_start&quot;:&quot;18:45:00&quot;,&quot;time_end&quot;:&quot;20:45:00&quot;,&quot;opponent&quot;:&quot;KSC Küssnacht am Rigi II&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170190</id>
+      <uid>mih-88-3a396c9ed0aa4b8aa38a9f9f@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Zuchwil Regio</opponent>
+
+      <date>2026-10-17</date>
+      <weekday>Sa</weekday>
+      <time_start>18:00</time_start>
+      <time_end>20:00</time_end>
+      <datetime_start>2026-10-17T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-10-17T20:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170190</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-17</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-17 18:00:00</field>
+      <field name="end">2026-10-17 20:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">20:00:00</field>
+      <field name="opponent">EHC Zuchwil Regio</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170190&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-17&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-17 18:00:00&quot;,&quot;end&quot;:&quot;2026-10-17 20:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;EHC Zuchwil Regio&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170211</id>
+      <uid>mih-88-8b31cfebd14322f509ab6f55@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>Eishockeyclub Uri</opponent>
+
+      <date>2026-10-18</date>
+      <weekday>Su</weekday>
+      <time_start>19:30</time_start>
+      <time_end>21:30</time_end>
+      <datetime_start>2026-10-18T19:30:00+02:00</datetime_start>
+      <datetime_end>2026-10-18T21:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170211</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-18</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-10-18 19:30:00</field>
+      <field name="end">2026-10-18 21:30:00</field>
+      <field name="time_start">19:30:00</field>
+      <field name="time_end">21:30:00</field>
+      <field name="opponent">Eishockeyclub Uri</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170211&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-18&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-18 19:30:00&quot;,&quot;end&quot;:&quot;2026-10-18 21:30:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:30:00&quot;,&quot;opponent&quot;:&quot;Eishockeyclub Uri&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170191</id>
+      <uid>mih-88-04e9f22f4bd8fd36773a8f7d@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Bucheggberg</opponent>
+
+      <date>2026-10-20</date>
+      <weekday>Tu</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2026-10-20T20:30:00+02:00</datetime_start>
+      <datetime_end>2026-10-20T22:30:00+02:00</datetime_end>
+
+      <place>Regiobank Arena, 4528 Zuchwil SO</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170191</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Regiobank Arena, 4528 Zuchwil SO</field>
+      <field name="date">2026-10-20</field>
+      <field name="weekday">Tu</field>
+      <field name="start">2026-10-20 20:30:00</field>
+      <field name="end">2026-10-20 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">EHC Bucheggberg</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170191&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regiobank Arena, 4528 Zuchwil SO&quot;,&quot;date&quot;:&quot;2026-10-20&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-10-20 20:30:00&quot;,&quot;end&quot;:&quot;2026-10-20 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Bucheggberg&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170212</id>
+      <uid>mih-88-ef410b41111c0b56a6e76406@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Wetzikon</opponent>
+
+      <date>2026-10-23</date>
+      <weekday>Fr</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-10-23T20:15:00+02:00</datetime_start>
+      <datetime_end>2026-10-23T22:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170212</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-23</field>
+      <field name="weekday">Fr</field>
+      <field name="start">2026-10-23 20:15:00</field>
+      <field name="end">2026-10-23 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">EHC Wetzikon</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170212&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-23&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-23 20:15:00&quot;,&quot;end&quot;:&quot;2026-10-23 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;EHC Wetzikon&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170192</id>
+      <uid>mih-88-e1aec35938fb1e091994f154@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Laufen</opponent>
+
+      <date>2026-10-24</date>
+      <weekday>Sa</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-10-24T20:15:00+02:00</datetime_start>
+      <datetime_end>2026-10-24T22:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170192</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-24</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-24 20:15:00</field>
+      <field name="end">2026-10-24 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">EHC Laufen</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170192&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-24&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-24 20:15:00&quot;,&quot;end&quot;:&quot;2026-10-24 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;EHC Laufen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170225</id>
+      <uid>mih-88-b4811a5564b111231613485c@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>KSC Küssnacht am Rigi</opponent>
+
+      <date>2026-10-25</date>
+      <weekday>Su</weekday>
+      <time_start>18:00</time_start>
+      <time_end>20:00</time_end>
+      <datetime_start>2026-10-25T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-10-25T20:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170225</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-25</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-10-25 18:00:00</field>
+      <field name="end">2026-10-25 20:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">20:00:00</field>
+      <field name="opponent">KSC Küssnacht am Rigi</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170225&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-25&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-25 18:00:00&quot;,&quot;end&quot;:&quot;2026-10-25 20:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;KSC Küssnacht am Rigi&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170193</id>
+      <uid>mih-88-9cf1a4bc4326bb8fed4d8bd3@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Zunzgen-Sissach</opponent>
+
+      <date>2026-10-31</date>
+      <weekday>Sa</weekday>
+      <time_start>17:30</time_start>
+      <time_end>19:30</time_end>
+      <datetime_start>2026-10-31T17:30:00+02:00</datetime_start>
+      <datetime_end>2026-10-31T19:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170193</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-31</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-31 17:30:00</field>
+      <field name="end">2026-10-31 19:30:00</field>
+      <field name="time_start">17:30:00</field>
+      <field name="time_end">19:30:00</field>
+      <field name="opponent">EHC Zunzgen-Sissach</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170193&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-31 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Zunzgen-Sissach&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170213</id>
+      <uid>mih-88-8dcee2ad84bda3f0495b2ce0@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Luzern</opponent>
+
+      <date>2026-10-31</date>
+      <weekday>Sa</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-10-31T20:15:00+02:00</datetime_start>
+      <datetime_end>2026-10-31T22:15:00+02:00</datetime_end>
+
+      <place>Regionales Eiszentrum AG, 6005 Luzern LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170213</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Regionales Eiszentrum AG, 6005 Luzern LU</field>
+      <field name="date">2026-10-31</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-31 20:15:00</field>
+      <field name="end">2026-10-31 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">HC Luzern</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170213&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 20:15:00&quot;,&quot;end&quot;:&quot;2026-10-31 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170226</id>
+      <uid>mih-88-92bafdba0ef47539903a90f8@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Allenwinden Lumberjacks</opponent>
+
+      <date>2026-11-01</date>
+      <weekday>Su</weekday>
+      <time_start>17:15</time_start>
+      <time_end>19:15</time_end>
+      <datetime_start>2026-11-01T17:15:00+02:00</datetime_start>
+      <datetime_end>2026-11-01T19:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170226</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-11-01</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-11-01 17:15:00</field>
+      <field name="end">2026-11-01 19:15:00</field>
+      <field name="time_start">17:15:00</field>
+      <field name="time_end">19:15:00</field>
+      <field name="opponent">HC Allenwinden Lumberjacks</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170226&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-01&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-01 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-01 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC Allenwinden Lumberjacks&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170194</id>
+      <uid>mih-88-fa937cb2318da727f7503f81@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>SC Altstadt Olten</opponent>
+
+      <date>2026-11-07</date>
+      <weekday>Sa</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-11-07T20:15:00+02:00</datetime_start>
+      <datetime_end>2026-11-07T22:15:00+02:00</datetime_end>
+
+      <place>Eisbahn Kleinholz, 4603 Olten SO</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170194</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Eisbahn Kleinholz, 4603 Olten SO</field>
+      <field name="date">2026-11-07</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-07 20:15:00</field>
+      <field name="end">2026-11-07 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">SC Altstadt Olten</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170194&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 20:15:00&quot;,&quot;end&quot;:&quot;2026-11-07 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170227</id>
+      <uid>mih-88-a7ae0a091c59c162ec1acbb2@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Seetal</opponent>
+
+      <date>2026-11-08</date>
+      <weekday>Su</weekday>
+      <time_start>18:30</time_start>
+      <time_end>20:30</time_end>
+      <datetime_start>2026-11-08T18:30:00+02:00</datetime_start>
+      <datetime_end>2026-11-08T20:30:00+02:00</datetime_end>
+
+      <place>Sportzentrum Iceline Seetal, 6281 Hochdorf LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170227</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Sportzentrum Iceline Seetal, 6281 Hochdorf LU</field>
+      <field name="date">2026-11-08</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-11-08 18:30:00</field>
+      <field name="end">2026-11-08 20:30:00</field>
+      <field name="time_start">18:30:00</field>
+      <field name="time_end">20:30:00</field>
+      <field name="opponent">HC Seetal</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170227&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 18:30:00&quot;,&quot;end&quot;:&quot;2026-11-08 20:30:00&quot;,&quot;time_start&quot;:&quot;18:30:00&quot;,&quot;time_end&quot;:&quot;20:30:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170214</id>
+      <uid>mih-88-504f46ef9374eb769cf1bfa9@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Zugerland</opponent>
+
+      <date>2026-11-08</date>
+      <weekday>Su</weekday>
+      <time_start>20:00</time_start>
+      <time_end>22:00</time_end>
+      <datetime_start>2026-11-08T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-11-08T22:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170214</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-11-08</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-11-08 20:00:00</field>
+      <field name="end">2026-11-08 22:00:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">22:00:00</field>
+      <field name="opponent">HC Zugerland</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170214&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Zugerland&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170228</id>
+      <uid>mih-88-01be39d7079fe071c56c2b1c@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Zugerland</opponent>
+
+      <date>2026-11-14</date>
+      <weekday>Sa</weekday>
+      <time_start>15:15</time_start>
+      <time_end>17:15</time_end>
+      <datetime_start>2026-11-14T15:15:00+02:00</datetime_start>
+      <datetime_end>2026-11-14T17:15:00+02:00</datetime_end>
+
+      <place>OYM hall, 6303 Zug</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170228</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">OYM hall, 6303 Zug</field>
+      <field name="date">2026-11-14</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-14 15:15:00</field>
+      <field name="end">2026-11-14 17:15:00</field>
+      <field name="time_start">15:15:00</field>
+      <field name="time_end">17:15:00</field>
+      <field name="opponent">HC Zugerland</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170228&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;OYM hall, 6303 Zug&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 15:15:00&quot;,&quot;end&quot;:&quot;2026-11-14 17:15:00&quot;,&quot;time_start&quot;:&quot;15:15:00&quot;,&quot;time_end&quot;:&quot;17:15:00&quot;,&quot;opponent&quot;:&quot;HC Zugerland&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170195</id>
+      <uid>mih-88-d5e0361a103d68f8afa99124@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Koppigen</opponent>
+
+      <date>2026-11-14</date>
+      <weekday>Sa</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2026-11-14T20:30:00+02:00</datetime_start>
+      <datetime_end>2026-11-14T22:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170195</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-11-14</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-14 20:30:00</field>
+      <field name="end">2026-11-14 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">EHC Koppigen</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170195&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 20:30:00&quot;,&quot;end&quot;:&quot;2026-11-14 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Koppigen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170196</id>
+      <uid>mih-88-f14ed50b000f7effa0bc50b9@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Rheinfelden</opponent>
+
+      <date>2026-11-21</date>
+      <weekday>Sa</weekday>
+      <time_start>17:30</time_start>
+      <time_end>19:30</time_end>
+      <datetime_start>2026-11-21T17:30:00+02:00</datetime_start>
+      <datetime_end>2026-11-21T19:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170196</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-11-21</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-21 17:30:00</field>
+      <field name="end">2026-11-21 19:30:00</field>
+      <field name="time_start">17:30:00</field>
+      <field name="time_end">19:30:00</field>
+      <field name="opponent">EHC Rheinfelden</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170196&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 17:30:00&quot;,&quot;end&quot;:&quot;2026-11-21 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170215</id>
+      <uid>mih-88-de4828d65f2f4c35a3779647@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Einsiedeln</opponent>
+
+      <date>2026-11-21</date>
+      <weekday>Sa</weekday>
+      <time_start>20:00</time_start>
+      <time_end>22:00</time_end>
+      <datetime_start>2026-11-21T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-11-21T22:00:00+02:00</datetime_end>
+
+      <place>FARFAR Eishalle Wollerau, 8832 Wollerau</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170215</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">FARFAR Eishalle Wollerau, 8832 Wollerau</field>
+      <field name="date">2026-11-21</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-21 20:00:00</field>
+      <field name="end">2026-11-21 22:00:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">22:00:00</field>
+      <field name="opponent">EHC Einsiedeln</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170215&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;FARFAR Eishalle Wollerau, 8832 Wollerau&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-21 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;EHC Einsiedeln&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170197</id>
+      <uid>mih-88-797ddf95770f9bfdf0a0c8ae@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Zuchwil Regio</opponent>
+
+      <date>2026-11-25</date>
+      <weekday>We</weekday>
+      <time_start>20:00</time_start>
+      <time_end>22:00</time_end>
+      <datetime_start>2026-11-25T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-11-25T22:00:00+02:00</datetime_end>
+
+      <place>Regiobank Arena, 4528 Zuchwil SO</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170197</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Regiobank Arena, 4528 Zuchwil SO</field>
+      <field name="date">2026-11-25</field>
+      <field name="weekday">We</field>
+      <field name="start">2026-11-25 20:00:00</field>
+      <field name="end">2026-11-25 22:00:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">22:00:00</field>
+      <field name="opponent">EHC Zuchwil Regio</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170197&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regiobank Arena, 4528 Zuchwil SO&quot;,&quot;date&quot;:&quot;2026-11-25&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-11-25 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-25 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;EHC Zuchwil Regio&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170198</id>
+      <uid>mih-88-00df5dfc8f1e7c0d4d3880a8@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Bucheggberg</opponent>
+
+      <date>2026-11-28</date>
+      <weekday>Sa</weekday>
+      <time_start>17:30</time_start>
+      <time_end>19:30</time_end>
+      <datetime_start>2026-11-28T17:30:00+02:00</datetime_start>
+      <datetime_end>2026-11-28T19:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170198</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-11-28</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-28 17:30:00</field>
+      <field name="end">2026-11-28 19:30:00</field>
+      <field name="time_start">17:30:00</field>
+      <field name="time_end">19:30:00</field>
+      <field name="opponent">EHC Bucheggberg</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170198&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-28&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-28 17:30:00&quot;,&quot;end&quot;:&quot;2026-11-28 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Bucheggberg&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170216</id>
+      <uid>mih-88-6a60d33fce487000780827a4@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Limmattal Wings</opponent>
+
+      <date>2026-11-28</date>
+      <weekday>Sa</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-11-28T20:15:00+02:00</datetime_start>
+      <datetime_end>2026-11-28T22:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170216</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-11-28</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-28 20:15:00</field>
+      <field name="end">2026-11-28 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">HC Limmattal Wings</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170216&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-28&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-28 20:15:00&quot;,&quot;end&quot;:&quot;2026-11-28 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;HC Limmattal Wings&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170217</id>
+      <uid>mih-88-1b33faffb27ca8ae22c19494@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Seetal</opponent>
+
+      <date>2026-12-05</date>
+      <weekday>Sa</weekday>
+      <time_start>17:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-12-05T17:00:00+02:00</datetime_start>
+      <datetime_end>2026-12-05T19:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170217</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-12-05</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-12-05 17:00:00</field>
+      <field name="end">2026-12-05 19:00:00</field>
+      <field name="time_start">17:00:00</field>
+      <field name="time_end">19:00:00</field>
+      <field name="opponent">HC Seetal</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170217&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-12-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-05 17:00:00&quot;,&quot;end&quot;:&quot;2026-12-05 19:00:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170199</id>
+      <uid>mih-88-05d245e148100ac7535f9575@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Laufen</opponent>
+
+      <date>2026-12-05</date>
+      <weekday>Sa</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-12-05T20:15:00+02:00</datetime_start>
+      <datetime_end>2026-12-05T22:15:00+02:00</datetime_end>
+
+      <place>Eissport- und Freizeithalle, 4242 Laufen BL</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170199</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Eissport- und Freizeithalle, 4242 Laufen BL</field>
+      <field name="date">2026-12-05</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-12-05 20:15:00</field>
+      <field name="end">2026-12-05 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">EHC Laufen</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170199&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2026-12-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-05 20:15:00&quot;,&quot;end&quot;:&quot;2026-12-05 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;EHC Laufen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170229</id>
+      <uid>mih-88-c30e0acc98ed018c5cf0f398@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Luzern</opponent>
+
+      <date>2026-12-06</date>
+      <weekday>Su</weekday>
+      <time_start>20:00</time_start>
+      <time_end>22:00</time_end>
+      <datetime_start>2026-12-06T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-12-06T22:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170229</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-12-06</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-12-06 20:00:00</field>
+      <field name="end">2026-12-06 22:00:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">22:00:00</field>
+      <field name="opponent">HC Luzern</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170229&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-12-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-12-06 20:00:00&quot;,&quot;end&quot;:&quot;2026-12-06 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170218</id>
+      <uid>mih-88-1ae77cbb1ff371951ec54c5b@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>KSC Küssnacht am Rigi II</opponent>
+
+      <date>2026-12-12</date>
+      <weekday>Sa</weekday>
+      <time_start>16:15</time_start>
+      <time_end>18:15</time_end>
+      <datetime_start>2026-12-12T16:15:00+02:00</datetime_start>
+      <datetime_end>2026-12-12T18:15:00+02:00</datetime_end>
+
+      <place>KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170218</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</field>
+      <field name="date">2026-12-12</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-12-12 16:15:00</field>
+      <field name="end">2026-12-12 18:15:00</field>
+      <field name="time_start">16:15:00</field>
+      <field name="time_end">18:15:00</field>
+      <field name="opponent">KSC Küssnacht am Rigi II</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170218&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 16:15:00&quot;,&quot;end&quot;:&quot;2026-12-12 18:15:00&quot;,&quot;time_start&quot;:&quot;16:15:00&quot;,&quot;time_end&quot;:&quot;18:15:00&quot;,&quot;opponent&quot;:&quot;KSC Küssnacht am Rigi II&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170200</id>
+      <uid>mih-88-09785d65b97c39a43faa8e1e@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Zunzgen-Sissach</opponent>
+
+      <date>2026-12-12</date>
+      <weekday>Sa</weekday>
+      <time_start>17:30</time_start>
+      <time_end>19:30</time_end>
+      <datetime_start>2026-12-12T17:30:00+02:00</datetime_start>
+      <datetime_end>2026-12-12T19:30:00+02:00</datetime_end>
+
+      <place>Genossenschaft Kunsteisbahn Sissach, 4450 Sissach BL</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170200</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Genossenschaft Kunsteisbahn Sissach, 4450 Sissach BL</field>
+      <field name="date">2026-12-12</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-12-12 17:30:00</field>
+      <field name="end">2026-12-12 19:30:00</field>
+      <field name="time_start">17:30:00</field>
+      <field name="time_end">19:30:00</field>
+      <field name="opponent">EHC Zunzgen-Sissach</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170200&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Genossenschaft Kunsteisbahn Sissach, 4450 Sissach BL&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 17:30:00&quot;,&quot;end&quot;:&quot;2026-12-12 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Zunzgen-Sissach&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170219</id>
+      <uid>mih-88-3acc0356ba8709a56911ad8a@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Limmattal Wings</opponent>
+
+      <date>2026-12-18</date>
+      <weekday>Fr</weekday>
+      <time_start>20:45</time_start>
+      <time_end>22:45</time_end>
+      <datetime_start>2026-12-18T20:45:00+02:00</datetime_start>
+      <datetime_end>2026-12-18T22:45:00+02:00</datetime_end>
+
+      <place>Kunsteisbahn Tägerhard, 5430 Wettingen AG</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170219</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Kunsteisbahn Tägerhard, 5430 Wettingen AG</field>
+      <field name="date">2026-12-18</field>
+      <field name="weekday">Fr</field>
+      <field name="start">2026-12-18 20:45:00</field>
+      <field name="end">2026-12-18 22:45:00</field>
+      <field name="time_start">20:45:00</field>
+      <field name="time_end">22:45:00</field>
+      <field name="opponent">HC Limmattal Wings</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170219&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Tägerhard, 5430 Wettingen AG&quot;,&quot;date&quot;:&quot;2026-12-18&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-12-18 20:45:00&quot;,&quot;end&quot;:&quot;2026-12-18 22:45:00&quot;,&quot;time_start&quot;:&quot;20:45:00&quot;,&quot;time_end&quot;:&quot;22:45:00&quot;,&quot;opponent&quot;:&quot;HC Limmattal Wings&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170201</id>
+      <uid>mih-88-cae52f22f0f2731205f179e4@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>SC Altstadt Olten</opponent>
+
+      <date>2026-12-19</date>
+      <weekday>Sa</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2026-12-19T20:30:00+02:00</datetime_start>
+      <datetime_end>2026-12-19T22:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170201</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-12-19</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-12-19 20:30:00</field>
+      <field name="end">2026-12-19 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">SC Altstadt Olten</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170201&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-12-19&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-19 20:30:00&quot;,&quot;end&quot;:&quot;2026-12-19 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170202</id>
+      <uid>mih-88-a41311424e3597533ec6d3a2@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Koppigen</opponent>
+
+      <date>2026-12-22</date>
+      <weekday>Tu</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2026-12-22T20:30:00+02:00</datetime_start>
+      <datetime_end>2026-12-22T22:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170202</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-12-22</field>
+      <field name="weekday">Tu</field>
+      <field name="start">2026-12-22 20:30:00</field>
+      <field name="end">2026-12-22 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">EHC Koppigen</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170202&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-12-22&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-12-22 20:30:00&quot;,&quot;end&quot;:&quot;2026-12-22 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Koppigen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170203</id>
+      <uid>mih-88-1e07c7508f12f3a0a815b13d@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Zuchwil Regio</opponent>
+
+      <date>2027-01-07</date>
+      <weekday>Th</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2027-01-07T20:30:00+02:00</datetime_start>
+      <datetime_end>2027-01-07T22:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170203</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-01-07</field>
+      <field name="weekday">Th</field>
+      <field name="start">2027-01-07 20:30:00</field>
+      <field name="end">2027-01-07 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">EHC Zuchwil Regio</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170203&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-07&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2027-01-07 20:30:00&quot;,&quot;end&quot;:&quot;2027-01-07 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Zuchwil Regio&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170220</id>
+      <uid>mih-88-f80a6afc9ca5db51283a8888@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Wetzikon</opponent>
+
+      <date>2027-01-09</date>
+      <weekday>Sa</weekday>
+      <time_start>19:45</time_start>
+      <time_end>21:45</time_end>
+      <datetime_start>2027-01-09T19:45:00+02:00</datetime_start>
+      <datetime_end>2027-01-09T21:45:00+02:00</datetime_end>
+
+      <place>Kunsteisbahn Wetzikon, 8620 Wetzikon ZH</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170220</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Kunsteisbahn Wetzikon, 8620 Wetzikon ZH</field>
+      <field name="date">2027-01-09</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-09 19:45:00</field>
+      <field name="end">2027-01-09 21:45:00</field>
+      <field name="time_start">19:45:00</field>
+      <field name="time_end">21:45:00</field>
+      <field name="opponent">EHC Wetzikon</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170220&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Wetzikon, 8620 Wetzikon ZH&quot;,&quot;date&quot;:&quot;2027-01-09&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-09 19:45:00&quot;,&quot;end&quot;:&quot;2027-01-09 21:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;opponent&quot;:&quot;EHC Wetzikon&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170204</id>
+      <uid>mih-88-358a0b63cbaa4f8351da1606@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Bucheggberg</opponent>
+
+      <date>2027-01-10</date>
+      <weekday>Su</weekday>
+      <time_start>18:00</time_start>
+      <time_end>20:00</time_end>
+      <datetime_start>2027-01-10T18:00:00+02:00</datetime_start>
+      <datetime_end>2027-01-10T20:00:00+02:00</datetime_end>
+
+      <place>Regiobank Arena, 4528 Zuchwil SO</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170204</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Regiobank Arena, 4528 Zuchwil SO</field>
+      <field name="date">2027-01-10</field>
+      <field name="weekday">Su</field>
+      <field name="start">2027-01-10 18:00:00</field>
+      <field name="end">2027-01-10 20:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">20:00:00</field>
+      <field name="opponent">EHC Bucheggberg</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170204&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regiobank Arena, 4528 Zuchwil SO&quot;,&quot;date&quot;:&quot;2027-01-10&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-01-10 18:00:00&quot;,&quot;end&quot;:&quot;2027-01-10 20:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;EHC Bucheggberg&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170205</id>
+      <uid>mih-88-e150351cc3f7b8e8fac5ce49@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Laufen</opponent>
+
+      <date>2027-01-16</date>
+      <weekday>Sa</weekday>
+      <time_start>17:45</time_start>
+      <time_end>19:45</time_end>
+      <datetime_start>2027-01-16T17:45:00+02:00</datetime_start>
+      <datetime_end>2027-01-16T19:45:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170205</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-01-16</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-16 17:45:00</field>
+      <field name="end">2027-01-16 19:45:00</field>
+      <field name="time_start">17:45:00</field>
+      <field name="time_end">19:45:00</field>
+      <field name="opponent">EHC Laufen</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170205&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-16&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-16 17:45:00&quot;,&quot;end&quot;:&quot;2027-01-16 19:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;opponent&quot;:&quot;EHC Laufen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170230</id>
+      <uid>mih-88-5eba6fe771cfe4b372f8eb36@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>KSC Küssnacht am Rigi</opponent>
+
+      <date>2027-01-16</date>
+      <weekday>Sa</weekday>
+      <time_start>19:00</time_start>
+      <time_end>21:00</time_end>
+      <datetime_start>2027-01-16T19:00:00+02:00</datetime_start>
+      <datetime_end>2027-01-16T21:00:00+02:00</datetime_end>
+
+      <place>KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170230</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</field>
+      <field name="date">2027-01-16</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-16 19:00:00</field>
+      <field name="end">2027-01-16 21:00:00</field>
+      <field name="time_start">19:00:00</field>
+      <field name="time_end">21:00:00</field>
+      <field name="opponent">KSC Küssnacht am Rigi</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170230&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ&quot;,&quot;date&quot;:&quot;2027-01-16&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-16 19:00:00&quot;,&quot;end&quot;:&quot;2027-01-16 21:00:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;opponent&quot;:&quot;KSC Küssnacht am Rigi&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170221</id>
+      <uid>mih-88-7f7cd613c7decc7966485fcc@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Luzern</opponent>
+
+      <date>2027-01-16</date>
+      <weekday>Sa</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2027-01-16T20:30:00+02:00</datetime_start>
+      <datetime_end>2027-01-16T22:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170221</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-01-16</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-16 20:30:00</field>
+      <field name="end">2027-01-16 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">HC Luzern</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170221&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-16&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-16 20:30:00&quot;,&quot;end&quot;:&quot;2027-01-16 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170206</id>
+      <uid>mih-88-c57423a21d4bbb88acd7156c@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Rheinfelden</opponent>
+
+      <date>2027-01-21</date>
+      <weekday>Th</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2027-01-21T20:30:00+02:00</datetime_start>
+      <datetime_end>2027-01-21T22:30:00+02:00</datetime_end>
+
+      <place>Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170206</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</field>
+      <field name="date">2027-01-21</field>
+      <field name="weekday">Th</field>
+      <field name="start">2027-01-21 20:30:00</field>
+      <field name="end">2027-01-21 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">EHC Rheinfelden</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170206&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2027-01-21&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2027-01-21 20:30:00&quot;,&quot;end&quot;:&quot;2027-01-21 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170222</id>
+      <uid>mih-88-b45ca2322fa7a2976f8f7ba6@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Zugerland</opponent>
+
+      <date>2027-01-23</date>
+      <weekday>Sa</weekday>
+      <time_start>15:15</time_start>
+      <time_end>17:15</time_end>
+      <datetime_start>2027-01-23T15:15:00+02:00</datetime_start>
+      <datetime_end>2027-01-23T17:15:00+02:00</datetime_end>
+
+      <place>OYM hall, 6303 Zug</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170222</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">OYM hall, 6303 Zug</field>
+      <field name="date">2027-01-23</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-23 15:15:00</field>
+      <field name="end">2027-01-23 17:15:00</field>
+      <field name="time_start">15:15:00</field>
+      <field name="time_end">17:15:00</field>
+      <field name="opponent">HC Zugerland</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170222&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;OYM hall, 6303 Zug&quot;,&quot;date&quot;:&quot;2027-01-23&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-23 15:15:00&quot;,&quot;end&quot;:&quot;2027-01-23 17:15:00&quot;,&quot;time_start&quot;:&quot;15:15:00&quot;,&quot;time_end&quot;:&quot;17:15:00&quot;,&quot;opponent&quot;:&quot;HC Zugerland&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170207</id>
+      <uid>mih-88-b94c87b0303dbb7372cd1770@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Zunzgen-Sissach</opponent>
+
+      <date>2027-01-23</date>
+      <weekday>Sa</weekday>
+      <time_start>20:30</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2027-01-23T20:30:00+02:00</datetime_start>
+      <datetime_end>2027-01-23T22:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170207</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-01-23</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-23 20:30:00</field>
+      <field name="end">2027-01-23 22:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">EHC Zunzgen-Sissach</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170207&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-23&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-23 20:30:00&quot;,&quot;end&quot;:&quot;2027-01-23 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Zunzgen-Sissach&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170208</id>
+      <uid>mih-88-a342850a7da3faa4e03ff4a0@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>SC Altstadt Olten</opponent>
+
+      <date>2027-01-30</date>
+      <weekday>Sa</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2027-01-30T20:15:00+02:00</datetime_start>
+      <datetime_end>2027-01-30T22:15:00+02:00</datetime_end>
+
+      <place>Eisbahn Kleinholz, 4603 Olten SO</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170208</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Eisbahn Kleinholz, 4603 Olten SO</field>
+      <field name="date">2027-01-30</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-30 20:15:00</field>
+      <field name="end">2027-01-30 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">SC Altstadt Olten</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170208&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2027-01-30&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-30 20:15:00&quot;,&quot;end&quot;:&quot;2027-01-30 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170223</id>
+      <uid>mih-88-61d51b850b0002f4d8a91da6@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Einsiedeln</opponent>
+
+      <date>2027-02-05</date>
+      <weekday>Fr</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2027-02-05T20:15:00+02:00</datetime_start>
+      <datetime_end>2027-02-05T22:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170223</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-02-05</field>
+      <field name="weekday">Fr</field>
+      <field name="start">2027-02-05 20:15:00</field>
+      <field name="end">2027-02-05 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">EHC Einsiedeln</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170223&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-02-05&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2027-02-05 20:15:00&quot;,&quot;end&quot;:&quot;2027-02-05 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;EHC Einsiedeln&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170224</id>
+      <uid>mih-88-631fccc53a895cd6d36e56f1@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>2. Mannschaft</team>
+      <team_id>10781</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>10781</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>Eishockeyclub Uri</opponent>
+
+      <date>2027-02-13</date>
+      <weekday>Sa</weekday>
+      <time_start>13:00</time_start>
+      <time_end>15:00</time_end>
+      <datetime_start>2027-02-13T13:00:00+02:00</datetime_start>
+      <datetime_end>2027-02-13T15:00:00+02:00</datetime_end>
+
+      <place>KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170224</field>
+      <field name="id_group">10781</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</field>
+      <field name="date">2027-02-13</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-02-13 13:00:00</field>
+      <field name="end">2027-02-13 15:00:00</field>
+      <field name="time_start">13:00:00</field>
+      <field name="time_end">15:00:00</field>
+      <field name="opponent">Eishockeyclub Uri</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170224&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ&quot;,&quot;date&quot;:&quot;2027-02-13&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-02-13 13:00:00&quot;,&quot;end&quot;:&quot;2027-02-13 15:00:00&quot;,&quot;time_start&quot;:&quot;13:00:00&quot;,&quot;time_end&quot;:&quot;15:00:00&quot;,&quot;opponent&quot;:&quot;Eishockeyclub Uri&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170231</id>
+      <uid>mih-88-4e0b1569734fca1e42b581a1@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Luzern</opponent>
+
+      <date>2027-02-14</date>
+      <weekday>Su</weekday>
+      <time_start>20:00</time_start>
+      <time_end>22:00</time_end>
+      <datetime_start>2027-02-14T20:00:00+02:00</datetime_start>
+      <datetime_end>2027-02-14T22:00:00+02:00</datetime_end>
+
+      <place>Regionales Eiszentrum AG, 6005 Luzern LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170231</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Regionales Eiszentrum AG, 6005 Luzern LU</field>
+      <field name="date">2027-02-14</field>
+      <field name="weekday">Su</field>
+      <field name="start">2027-02-14 20:00:00</field>
+      <field name="end">2027-02-14 22:00:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">22:00:00</field>
+      <field name="opponent">HC Luzern</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170231&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2027-02-14&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-02-14 20:00:00&quot;,&quot;end&quot;:&quot;2027-02-14 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170232</id>
+      <uid>mih-88-843b0bb4f0ae9cd0c9fb4d75@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Allenwinden Lumberjacks</opponent>
+
+      <date>2027-02-21</date>
+      <weekday>Su</weekday>
+      <time_start>15:45</time_start>
+      <time_end>17:45</time_end>
+      <datetime_start>2027-02-21T15:45:00+02:00</datetime_start>
+      <datetime_end>2027-02-21T17:45:00+02:00</datetime_end>
+
+      <place>KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170232</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</field>
+      <field name="date">2027-02-21</field>
+      <field name="weekday">Su</field>
+      <field name="start">2027-02-21 15:45:00</field>
+      <field name="end">2027-02-21 17:45:00</field>
+      <field name="time_start">15:45:00</field>
+      <field name="time_end">17:45:00</field>
+      <field name="opponent">HC Allenwinden Lumberjacks</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170232&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ&quot;,&quot;date&quot;:&quot;2027-02-21&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-02-21 15:45:00&quot;,&quot;end&quot;:&quot;2027-02-21 17:45:00&quot;,&quot;time_start&quot;:&quot;15:45:00&quot;,&quot;time_end&quot;:&quot;17:45:00&quot;,&quot;opponent&quot;:&quot;HC Allenwinden Lumberjacks&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170233</id>
+      <uid>mih-88-c6da06ee712c5a62ea8774cf@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Zugerland</opponent>
+
+      <date>2027-02-26</date>
+      <weekday>Fr</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2027-02-26T20:15:00+02:00</datetime_start>
+      <datetime_end>2027-02-26T22:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170233</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-02-26</field>
+      <field name="weekday">Fr</field>
+      <field name="start">2027-02-26 20:15:00</field>
+      <field name="end">2027-02-26 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">HC Zugerland</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170233&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-02-26&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2027-02-26 20:15:00&quot;,&quot;end&quot;:&quot;2027-02-26 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;HC Zugerland&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170234</id>
+      <uid>mih-88-bb075242347891af9fec9e3c@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Seetal</opponent>
+
+      <date>2027-03-05</date>
+      <weekday>Fr</weekday>
+      <time_start>20:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2027-03-05T20:15:00+02:00</datetime_start>
+      <datetime_end>2027-03-05T22:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170234</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-03-05</field>
+      <field name="weekday">Fr</field>
+      <field name="start">2027-03-05 20:15:00</field>
+      <field name="end">2027-03-05 22:15:00</field>
+      <field name="time_start">20:15:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">HC Seetal</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170234&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-03-05&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2027-03-05 20:15:00&quot;,&quot;end&quot;:&quot;2027-03-05 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
