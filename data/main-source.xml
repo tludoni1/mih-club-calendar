@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-17T13:30:18.375Z" start_date="2025-05-04" end_date="2027-05-04" event_count="471">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-18T07:20:10.126Z" start_date="2025-05-04" end_date="2027-05-04" event_count="471">
   <events>
     <event>
       <id>747253</id>
@@ -28840,9 +28840,9 @@ Pikett: Frey Laurin </field>
 
       <date>2026-11-07</date>
       <weekday>Sa</weekday>
-      <time_start>20:15</time_start>
+      <time_start>20:00</time_start>
       <time_end>22:15</time_end>
-      <datetime_start>2026-11-07T20:15:00+02:00</datetime_start>
+      <datetime_start>2026-11-07T20:00:00+02:00</datetime_start>
       <datetime_end>2026-11-07T22:15:00+02:00</datetime_end>
 
       <place>Eisbahn Kleinholz, 4603 Olten SO</place>
@@ -28864,9 +28864,9 @@ Pikett: Frey Laurin </field>
       <field name="place">Eisbahn Kleinholz, 4603 Olten SO</field>
       <field name="date">2026-11-07</field>
       <field name="weekday">Sa</field>
-      <field name="start">2026-11-07 20:15:00</field>
+      <field name="start">2026-11-07 20:00:00</field>
       <field name="end">2026-11-07 22:15:00</field>
-      <field name="time_start">20:15:00</field>
+      <field name="time_start">20:00:00</field>
       <field name="time_end">22:15:00</field>
       <field name="opponent">SC Altstadt Olten</field>
       <field name="type_type">G3</field>
@@ -28874,7 +28874,7 @@ Pikett: Frey Laurin </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170194&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 20:15:00&quot;,&quot;end&quot;:&quot;2026-11-07 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170194&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-07 22:15:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -30622,9 +30622,9 @@ Pikett: Frey Laurin </field>
 
       <date>2027-01-30</date>
       <weekday>Sa</weekday>
-      <time_start>20:15</time_start>
+      <time_start>20:00</time_start>
       <time_end>22:15</time_end>
-      <datetime_start>2027-01-30T20:15:00+02:00</datetime_start>
+      <datetime_start>2027-01-30T20:00:00+02:00</datetime_start>
       <datetime_end>2027-01-30T22:15:00+02:00</datetime_end>
 
       <place>Eisbahn Kleinholz, 4603 Olten SO</place>
@@ -30646,9 +30646,9 @@ Pikett: Frey Laurin </field>
       <field name="place">Eisbahn Kleinholz, 4603 Olten SO</field>
       <field name="date">2027-01-30</field>
       <field name="weekday">Sa</field>
-      <field name="start">2027-01-30 20:15:00</field>
+      <field name="start">2027-01-30 20:00:00</field>
       <field name="end">2027-01-30 22:15:00</field>
-      <field name="time_start">20:15:00</field>
+      <field name="time_start">20:00:00</field>
       <field name="time_end">22:15:00</field>
       <field name="opponent">SC Altstadt Olten</field>
       <field name="type_type">G3</field>
@@ -30656,7 +30656,7 @@ Pikett: Frey Laurin </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170208&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2027-01-30&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-30 20:15:00&quot;,&quot;end&quot;:&quot;2027-01-30 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170208&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2027-01-30&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-30 20:00:00&quot;,&quot;end&quot;:&quot;2027-01-30 22:15:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
