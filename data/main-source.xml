@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-21T07:24:26.100Z" start_date="2025-05-04" end_date="2027-05-04" event_count="635">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-21T13:35:58.134Z" start_date="2025-05-04" end_date="2027-05-04" event_count="635">
   <events>
     <event>
       <id>747253</id>
@@ -16620,10 +16620,10 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
 
       <date>2026-08-24</date>
       <weekday>Mo</weekday>
-      <time_start>17:45</time_start>
-      <time_end>18:45</time_end>
-      <datetime_start>2026-08-24T17:45:00+02:00</datetime_start>
-      <datetime_end>2026-08-24T18:45:00+02:00</datetime_end>
+      <time_start>18:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-08-24T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-08-24T19:00:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -16644,17 +16644,17 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-08-24</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-08-24 17:45:00</field>
-      <field name="end">2026-08-24 18:45:00</field>
-      <field name="time_start">17:45:00</field>
-      <field name="time_end">18:45:00</field>
+      <field name="start">2026-08-24 18:00:00</field>
+      <field name="end">2026-08-24 19:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">19:00:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790637&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 17:45:00&quot;,&quot;end&quot;:&quot;2026-08-24 18:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790637&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 18:00:00&quot;,&quot;end&quot;:&quot;2026-08-24 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -16686,10 +16686,10 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
 
       <date>2026-08-24</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-08-24T19:00:00+02:00</datetime_start>
-      <datetime_end>2026-08-24T19:30:00+02:00</datetime_end>
+      <time_start>19:15</time_start>
+      <time_end>19:45</time_end>
+      <datetime_start>2026-08-24T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-08-24T19:45:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Tribüne</place>
       <location_id>2294</location_id>
@@ -16710,17 +16710,17 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="place">Eishalle Sursee - Tribüne</field>
       <field name="date">2026-08-24</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-08-24 19:00:00</field>
-      <field name="end">2026-08-24 19:30:00</field>
-      <field name="time_start">19:00:00</field>
-      <field name="time_end">19:30:00</field>
+      <field name="start">2026-08-24 19:15:00</field>
+      <field name="end">2026-08-24 19:45:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">19:45:00</field>
       <field name="type_type">P1</field>
       <field name="color">#81c881</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814308&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-24 19:30:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;814308&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-24 19:45:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -16752,9 +16752,9 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
 
       <date>2026-08-24</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
+      <time_start>19:15</time_start>
       <time_end>20:15</time_end>
-      <datetime_start>2026-08-24T19:00:00+02:00</datetime_start>
+      <datetime_start>2026-08-24T19:15:00+02:00</datetime_start>
       <datetime_end>2026-08-24T20:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
@@ -16776,9 +16776,9 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-08-24</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-08-24 19:00:00</field>
+      <field name="start">2026-08-24 19:15:00</field>
       <field name="end">2026-08-24 20:15:00</field>
-      <field name="time_start">19:00:00</field>
+      <field name="time_start">19:15:00</field>
       <field name="time_end">20:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
@@ -16786,7 +16786,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790648&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-24 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790648&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-24 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -17544,10 +17544,10 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
 
       <date>2026-08-31</date>
       <weekday>Mo</weekday>
-      <time_start>17:45</time_start>
-      <time_end>18:45</time_end>
-      <datetime_start>2026-08-31T17:45:00+02:00</datetime_start>
-      <datetime_end>2026-08-31T18:45:00+02:00</datetime_end>
+      <time_start>18:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-08-31T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-08-31T19:00:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -17568,17 +17568,17 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-08-31</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-08-31 17:45:00</field>
-      <field name="end">2026-08-31 18:45:00</field>
-      <field name="time_start">17:45:00</field>
-      <field name="time_end">18:45:00</field>
+      <field name="start">2026-08-31 18:00:00</field>
+      <field name="end">2026-08-31 19:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">19:00:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790734&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 17:45:00&quot;,&quot;end&quot;:&quot;2026-08-31 18:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790734&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 18:00:00&quot;,&quot;end&quot;:&quot;2026-08-31 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -17610,10 +17610,10 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
 
       <date>2026-08-31</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-08-31T19:00:00+02:00</datetime_start>
-      <datetime_end>2026-08-31T19:30:00+02:00</datetime_end>
+      <time_start>19:15</time_start>
+      <time_end>19:45</time_end>
+      <datetime_start>2026-08-31T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-08-31T19:45:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Tribüne</place>
       <location_id>2294</location_id>
@@ -17634,17 +17634,17 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="place">Eishalle Sursee - Tribüne</field>
       <field name="date">2026-08-31</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-08-31 19:00:00</field>
-      <field name="end">2026-08-31 19:30:00</field>
-      <field name="time_start">19:00:00</field>
-      <field name="time_end">19:30:00</field>
+      <field name="start">2026-08-31 19:15:00</field>
+      <field name="end">2026-08-31 19:45:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">19:45:00</field>
       <field name="type_type">P1</field>
       <field name="color">#81c881</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814309&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-31 19:30:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;814309&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-31 19:45:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -17676,9 +17676,9 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
 
       <date>2026-08-31</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
+      <time_start>19:15</time_start>
       <time_end>20:15</time_end>
-      <datetime_start>2026-08-31T19:00:00+02:00</datetime_start>
+      <datetime_start>2026-08-31T19:15:00+02:00</datetime_start>
       <datetime_end>2026-08-31T20:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
@@ -17700,9 +17700,9 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-08-31</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-08-31 19:00:00</field>
+      <field name="start">2026-08-31 19:15:00</field>
       <field name="end">2026-08-31 20:15:00</field>
-      <field name="time_start">19:00:00</field>
+      <field name="time_start">19:15:00</field>
       <field name="time_end">20:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
@@ -17710,7 +17710,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790746&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-31 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790746&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-31 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -19470,7 +19470,7 @@ Pikett; Graus Manuel </field>
       <place>Langenthal</place>
       <location_id></location_id>
 
-      <notes>Betreuung:</notes>
+      <notes>Betreuung: Marco Koch</notes>
       <description></description>
 
       <url></url>
@@ -19478,7 +19478,7 @@ Pikett; Graus Manuel </field>
       <source_fields>
       <field name="id_event">159230</field>
       <field name="id_group">10323</field>
-      <field name="notes">Betreuung: 
+      <field name="notes">Betreuung: Marco Koch
  </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
@@ -19497,7 +19497,7 @@ Pikett; Graus Manuel </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159230&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Betreuung: \r\n &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langenthal&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 14:30:00&quot;,&quot;end&quot;:&quot;2026-09-06 17:00:00&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;17:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159230&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Betreuung: Marco Koch\r\n &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langenthal&quot;,&quot;date&quot;:&quot;2026-09-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-06 14:30:00&quot;,&quot;end&quot;:&quot;2026-09-06 17:00:00&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;17:00:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -19661,10 +19661,10 @@ Pikett; Graus Manuel </field>
 
       <date>2026-09-07</date>
       <weekday>Mo</weekday>
-      <time_start>17:45</time_start>
-      <time_end>18:45</time_end>
-      <datetime_start>2026-09-07T17:45:00+02:00</datetime_start>
-      <datetime_end>2026-09-07T18:45:00+02:00</datetime_end>
+      <time_start>18:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-09-07T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-09-07T19:00:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -19685,83 +19685,17 @@ Pikett; Graus Manuel </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-07</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-07 17:45:00</field>
-      <field name="end">2026-09-07 18:45:00</field>
-      <field name="time_start">17:45:00</field>
-      <field name="time_end">18:45:00</field>
+      <field name="start">2026-09-07 18:00:00</field>
+      <field name="end">2026-09-07 19:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">19:00:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790737&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 17:45:00&quot;,&quot;end&quot;:&quot;2026-09-07 18:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>814312</id>
-      <uid>mih-88-543e07e1ebc6dd2a54547f66@ehc-sursee.local</uid>
-
-      <type_event>P</type_event>
-      <event>Training</event>
-      <title>Training</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team></team>
-      <team_id></team_id>
-
-      <practice_group>U16</practice_group>
-      <practice_group_id>14192</practice_group_id>
-
-      <category>U16</category>
-      <category_id>14192</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
-
-      <opponent></opponent>
-
-      <date>2026-09-07</date>
-      <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-09-07T19:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-07T19:30:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Tribüne</place>
-      <location_id>2294</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">814312</field>
-      <field name="id_group">14192</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16 (U16)</field>
-      <field name="type">Trockentraining</field>
-      <field name="event">Training</field>
-      <field name="type_event">P</field>
-      <field name="place">Eishalle Sursee - Tribüne</field>
-      <field name="date">2026-09-07</field>
-      <field name="weekday">Mo</field>
-      <field name="start">2026-09-07 19:00:00</field>
-      <field name="end">2026-09-07 19:30:00</field>
-      <field name="time_start">19:00:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
-      <field name="opponent"></field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814312&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-07 19:30:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790737&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 18:00:00&quot;,&quot;end&quot;:&quot;2026-09-07 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -19793,9 +19727,9 @@ Pikett; Graus Manuel </field>
 
       <date>2026-09-07</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
+      <time_start>19:15</time_start>
       <time_end>20:15</time_end>
-      <datetime_start>2026-09-07T19:00:00+02:00</datetime_start>
+      <datetime_start>2026-09-07T19:15:00+02:00</datetime_start>
       <datetime_end>2026-09-07T20:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
@@ -19817,9 +19751,9 @@ Pikett; Graus Manuel </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-07</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-07 19:00:00</field>
+      <field name="start">2026-09-07 19:15:00</field>
       <field name="end">2026-09-07 20:15:00</field>
-      <field name="time_start">19:00:00</field>
+      <field name="time_start">19:15:00</field>
       <field name="time_end">20:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
@@ -19827,7 +19761,73 @@ Pikett; Graus Manuel </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790747&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-07 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790747&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-07 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>814312</id>
+      <uid>mih-88-543e07e1ebc6dd2a54547f66@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>U16</practice_group>
+      <practice_group_id>14192</practice_group_id>
+
+      <category>U16</category>
+      <category_id>14192</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Trockentraining</type>
+      <type_id>P1</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-09-07</date>
+      <weekday>Mo</weekday>
+      <time_start>19:15</time_start>
+      <time_end>20:15</time_end>
+      <datetime_start>2026-09-07T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-09-07T20:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Tribüne</place>
+      <location_id>2294</location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">814312</field>
+      <field name="id_group">14192</field>
+      <field name="notes"> </field>
+      <field name="agegroup">U14-U16 (U16)</field>
+      <field name="type">Trockentraining</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Tribüne</field>
+      <field name="date">2026-09-07</field>
+      <field name="weekday">Mo</field>
+      <field name="start">2026-09-07 19:15:00</field>
+      <field name="end">2026-09-07 20:15:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">20:15:00</field>
+      <field name="type_type">P1</field>
+      <field name="color">#81c881</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;814312&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-07 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21779,10 +21779,10 @@ Betreuungs: </field>
 
       <date>2026-09-14</date>
       <weekday>Mo</weekday>
-      <time_start>17:45</time_start>
-      <time_end>18:45</time_end>
-      <datetime_start>2026-09-14T17:45:00+02:00</datetime_start>
-      <datetime_end>2026-09-14T18:45:00+02:00</datetime_end>
+      <time_start>18:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-09-14T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-09-14T19:00:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -21803,17 +21803,17 @@ Betreuungs: </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-14</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-14 17:45:00</field>
-      <field name="end">2026-09-14 18:45:00</field>
-      <field name="time_start">17:45:00</field>
-      <field name="time_end">18:45:00</field>
+      <field name="start">2026-09-14 18:00:00</field>
+      <field name="end">2026-09-14 19:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">19:00:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814319&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 17:45:00&quot;,&quot;end&quot;:&quot;2026-09-14 18:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;814319&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 18:00:00&quot;,&quot;end&quot;:&quot;2026-09-14 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21845,10 +21845,10 @@ Betreuungs: </field>
 
       <date>2026-09-14</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-09-14T19:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-14T19:30:00+02:00</datetime_end>
+      <time_start>19:15</time_start>
+      <time_end>19:45</time_end>
+      <datetime_start>2026-09-14T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-09-14T19:45:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Tribüne</place>
       <location_id>2294</location_id>
@@ -21869,17 +21869,17 @@ Betreuungs: </field>
       <field name="place">Eishalle Sursee - Tribüne</field>
       <field name="date">2026-09-14</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-14 19:00:00</field>
-      <field name="end">2026-09-14 19:30:00</field>
-      <field name="time_start">19:00:00</field>
-      <field name="time_end">19:30:00</field>
+      <field name="start">2026-09-14 19:15:00</field>
+      <field name="end">2026-09-14 19:45:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">19:45:00</field>
       <field name="type_type">P1</field>
       <field name="color">#81c881</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814320&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-14 19:30:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;814320&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-14 19:45:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -21911,9 +21911,9 @@ Betreuungs: </field>
 
       <date>2026-09-14</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
+      <time_start>19:15</time_start>
       <time_end>20:15</time_end>
-      <datetime_start>2026-09-14T19:00:00+02:00</datetime_start>
+      <datetime_start>2026-09-14T19:15:00+02:00</datetime_start>
       <datetime_end>2026-09-14T20:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
@@ -21935,9 +21935,9 @@ Betreuungs: </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-14</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-14 19:00:00</field>
+      <field name="start">2026-09-14 19:15:00</field>
       <field name="end">2026-09-14 20:15:00</field>
-      <field name="time_start">19:00:00</field>
+      <field name="time_start">19:15:00</field>
       <field name="time_end">20:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
@@ -21945,7 +21945,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814332&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-14 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;814332&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-14 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -23497,10 +23497,10 @@ Pikett: Frey Laurin </field>
 
       <date>2026-09-21</date>
       <weekday>Mo</weekday>
-      <time_start>17:45</time_start>
-      <time_end>18:45</time_end>
-      <datetime_start>2026-09-21T17:45:00+02:00</datetime_start>
-      <datetime_end>2026-09-21T18:45:00+02:00</datetime_end>
+      <time_start>18:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-09-21T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-09-21T19:00:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -23521,17 +23521,17 @@ Pikett: Frey Laurin </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-21</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-21 17:45:00</field>
-      <field name="end">2026-09-21 18:45:00</field>
-      <field name="time_start">17:45:00</field>
-      <field name="time_end">18:45:00</field>
+      <field name="start">2026-09-21 18:00:00</field>
+      <field name="end">2026-09-21 19:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">19:00:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;816005&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-21&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-21 17:45:00&quot;,&quot;end&quot;:&quot;2026-09-21 18:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;816005&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-21&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-21 18:00:00&quot;,&quot;end&quot;:&quot;2026-09-21 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -23563,10 +23563,10 @@ Pikett: Frey Laurin </field>
 
       <date>2026-09-21</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-09-21T19:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-21T19:30:00+02:00</datetime_end>
+      <time_start>19:15</time_start>
+      <time_end>19:45</time_end>
+      <datetime_start>2026-09-21T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-09-21T19:45:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Tribüne</place>
       <location_id>2294</location_id>
@@ -23587,17 +23587,17 @@ Pikett: Frey Laurin </field>
       <field name="place">Eishalle Sursee - Tribüne</field>
       <field name="date">2026-09-21</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-21 19:00:00</field>
-      <field name="end">2026-09-21 19:30:00</field>
-      <field name="time_start">19:00:00</field>
-      <field name="time_end">19:30:00</field>
+      <field name="start">2026-09-21 19:15:00</field>
+      <field name="end">2026-09-21 19:45:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">19:45:00</field>
       <field name="type_type">P1</field>
       <field name="color">#81c881</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;816006&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-21&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-21 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-21 19:30:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;816006&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-21&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-21 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-21 19:45:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -23629,9 +23629,9 @@ Pikett: Frey Laurin </field>
 
       <date>2026-09-21</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
+      <time_start>19:15</time_start>
       <time_end>20:15</time_end>
-      <datetime_start>2026-09-21T19:00:00+02:00</datetime_start>
+      <datetime_start>2026-09-21T19:15:00+02:00</datetime_start>
       <datetime_end>2026-09-21T20:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
@@ -23653,9 +23653,9 @@ Pikett: Frey Laurin </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-21</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-21 19:00:00</field>
+      <field name="start">2026-09-21 19:15:00</field>
       <field name="end">2026-09-21 20:15:00</field>
-      <field name="time_start">19:00:00</field>
+      <field name="time_start">19:15:00</field>
       <field name="time_end">20:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
@@ -23663,7 +23663,7 @@ Pikett: Frey Laurin </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;816016&quot;,&quot;id_group&quot;:&quot;14331&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (Torhüter (ältere))&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-21&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-21 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-21 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;816016&quot;,&quot;id_group&quot;:&quot;14331&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (Torhüter (ältere))&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-21&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-21 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-21 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -25213,10 +25213,10 @@ Pikett: Frey Laurin </field>
 
       <date>2026-09-28</date>
       <weekday>Mo</weekday>
-      <time_start>17:45</time_start>
-      <time_end>18:45</time_end>
-      <datetime_start>2026-09-28T17:45:00+02:00</datetime_start>
-      <datetime_end>2026-09-28T18:45:00+02:00</datetime_end>
+      <time_start>18:00</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-09-28T18:00:00+02:00</datetime_start>
+      <datetime_end>2026-09-28T19:00:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -25237,17 +25237,17 @@ Pikett: Frey Laurin </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-28</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-28 17:45:00</field>
-      <field name="end">2026-09-28 18:45:00</field>
-      <field name="time_start">17:45:00</field>
-      <field name="time_end">18:45:00</field>
+      <field name="start">2026-09-28 18:00:00</field>
+      <field name="end">2026-09-28 19:00:00</field>
+      <field name="time_start">18:00:00</field>
+      <field name="time_end">19:00:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;818251&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-28&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-28 17:45:00&quot;,&quot;end&quot;:&quot;2026-09-28 18:45:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;818251&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-28&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-28 18:00:00&quot;,&quot;end&quot;:&quot;2026-09-28 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -25279,10 +25279,10 @@ Pikett: Frey Laurin </field>
 
       <date>2026-09-28</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-09-28T19:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-28T19:30:00+02:00</datetime_end>
+      <time_start>19:15</time_start>
+      <time_end>19:45</time_end>
+      <datetime_start>2026-09-28T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-09-28T19:45:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Tribüne</place>
       <location_id>2294</location_id>
@@ -25303,17 +25303,17 @@ Pikett: Frey Laurin </field>
       <field name="place">Eishalle Sursee - Tribüne</field>
       <field name="date">2026-09-28</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-28 19:00:00</field>
-      <field name="end">2026-09-28 19:30:00</field>
-      <field name="time_start">19:00:00</field>
-      <field name="time_end">19:30:00</field>
+      <field name="start">2026-09-28 19:15:00</field>
+      <field name="end">2026-09-28 19:45:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">19:45:00</field>
       <field name="type_type">P1</field>
       <field name="color">#81c881</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;818252&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-28&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-28 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-28 19:30:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;818252&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-09-28&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-28 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-28 19:45:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -25345,9 +25345,9 @@ Pikett: Frey Laurin </field>
 
       <date>2026-09-28</date>
       <weekday>Mo</weekday>
-      <time_start>19:00</time_start>
+      <time_start>19:15</time_start>
       <time_end>20:15</time_end>
-      <datetime_start>2026-09-28T19:00:00+02:00</datetime_start>
+      <datetime_start>2026-09-28T19:15:00+02:00</datetime_start>
       <datetime_end>2026-09-28T20:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
@@ -25369,9 +25369,9 @@ Pikett: Frey Laurin </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-09-28</field>
       <field name="weekday">Mo</field>
-      <field name="start">2026-09-28 19:00:00</field>
+      <field name="start">2026-09-28 19:15:00</field>
       <field name="end">2026-09-28 20:15:00</field>
-      <field name="time_start">19:00:00</field>
+      <field name="time_start">19:15:00</field>
       <field name="time_end">20:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
@@ -25379,7 +25379,7 @@ Pikett: Frey Laurin </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;818269&quot;,&quot;id_group&quot;:&quot;14331&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (Torhüter (ältere))&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-28&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-28 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-28 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;818269&quot;,&quot;id_group&quot;:&quot;14331&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (Torhüter (ältere))&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-28&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-28 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-28 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
