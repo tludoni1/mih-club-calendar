@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-21T13:35:58.134Z" start_date="2025-05-04" end_date="2027-05-04" event_count="635">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-22T07:09:52.526Z" start_date="2025-05-04" end_date="2027-05-04" event_count="636">
   <events>
     <event>
       <id>747253</id>
@@ -15717,6 +15717,72 @@ Betreuer: Felber </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;790652&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-21&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-08-21 20:00:00&quot;,&quot;end&quot;:&quot;2026-08-21 21:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>175359</id>
+      <uid>mih-88-f61592dc99127787fe7d2963@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Erfassungsstufe</agegroup>
+      <agegroup_id>74</agegroup_id>
+
+      <team>U09-1</team>
+      <team_id>10318</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U09-1</category>
+      <category_id>10318</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Freundschaft</type>
+      <type_id>G1</type_id>
+
+      <opponent>Diverse</opponent>
+
+      <date>2026-08-22</date>
+      <weekday>Sa</weekday>
+      <time_start>08:30</time_start>
+      <time_end>16:30</time_end>
+      <datetime_start>2026-08-22T08:30:00+02:00</datetime_start>
+      <datetime_end>2026-08-22T16:30:00+02:00</datetime_end>
+
+      <place>Eishalle Olten</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">175359</field>
+      <field name="id_group">10318</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Erfassungsstufe</field>
+      <field name="type">Freundschaft</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Eishalle Olten</field>
+      <field name="date">2026-08-22</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-08-22 08:30:00</field>
+      <field name="end">2026-08-22 16:30:00</field>
+      <field name="time_start">08:30:00</field>
+      <field name="time_end">16:30:00</field>
+      <field name="opponent">Diverse</field>
+      <field name="type_type">G1</field>
+      <field name="color">#81c881</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;175359&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Olten&quot;,&quot;date&quot;:&quot;2026-08-22&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-08-22 08:30:00&quot;,&quot;end&quot;:&quot;2026-08-22 16:30:00&quot;,&quot;time_start&quot;:&quot;08:30:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
