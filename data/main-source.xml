@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-31T14:17:53.887Z" start_date="2025-05-04" end_date="2027-05-04" event_count="743">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-08-31T19:16:56.889Z" start_date="2025-05-04" end_date="2027-05-04" event_count="743">
   <events>
     <event>
       <id>747253</id>
@@ -741,10 +741,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -773,7 +773,7 @@
       <field name="id_event">775779</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -790,7 +790,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775779&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-05&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-05 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-05 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775779&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-05&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-05 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-05 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -1203,10 +1203,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -1235,7 +1235,7 @@
       <field name="id_event">775788</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -1252,7 +1252,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775788&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-05-07&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-05-07 19:30:00&quot;,&quot;end&quot;:&quot;2026-05-07 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775788&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-05-07&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-05-07 19:30:00&quot;,&quot;end&quot;:&quot;2026-05-07 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -2259,10 +2259,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -2291,7 +2291,7 @@
       <field name="id_event">775780</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -2308,7 +2308,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775780&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-12&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-12 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-12 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775780&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-12&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-12 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-12 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -3249,10 +3249,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -3281,7 +3281,7 @@
       <field name="id_event">775781</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -3298,7 +3298,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775781&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-19&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-19 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-19 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775781&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-19&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-19 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-19 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -3711,10 +3711,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -3743,7 +3743,7 @@
       <field name="id_event">775790</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -3760,7 +3760,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775790&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-05-21&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-05-21 19:30:00&quot;,&quot;end&quot;:&quot;2026-05-21 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775790&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-05-21&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-05-21 19:30:00&quot;,&quot;end&quot;:&quot;2026-05-21 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -4305,10 +4305,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -4337,7 +4337,7 @@
       <field name="id_event">775782</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -4354,7 +4354,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775782&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-26&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-26 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-26 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775782&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-05-26&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-05-26 19:45:00&quot;,&quot;end&quot;:&quot;2026-05-26 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -4767,10 +4767,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -4799,7 +4799,7 @@
       <field name="id_event">775791</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -4816,7 +4816,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775791&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-05-28&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-05-28 19:30:00&quot;,&quot;end&quot;:&quot;2026-05-28 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775791&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-05-28&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-05-28 19:30:00&quot;,&quot;end&quot;:&quot;2026-05-28 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -5823,10 +5823,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -5855,7 +5855,7 @@
       <field name="id_event">780021</field>
       <field name="id_group">15270</field>
       <field name="notes">Fotoshooting Damen </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Spezial</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -5872,7 +5872,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;780021&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot;Fotoshooting Damen &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 18:00:00&quot;,&quot;end&quot;:&quot;2026-06-02 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;780021&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot;Fotoshooting Damen &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Spezial&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 18:00:00&quot;,&quot;end&quot;:&quot;2026-06-02 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;color&quot;:&quot;#e4222e&quot;,&quot;type_type&quot;:&quot;P6&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -6087,10 +6087,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -6119,7 +6119,7 @@
       <field name="id_event">775783</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -6136,7 +6136,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775783&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-02 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775783&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-02&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-02 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-02 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -7077,10 +7077,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -7109,7 +7109,7 @@
       <field name="id_event">775784</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -7126,7 +7126,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775784&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-09&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-09 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-09 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775784&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-09&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-09 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-09 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -8463,10 +8463,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -8495,7 +8495,7 @@
       <field name="id_event">775785</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -8512,7 +8512,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775785&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-16&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-16 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-16 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775785&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-16&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-16 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-16 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -8925,10 +8925,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -8957,7 +8957,7 @@
       <field name="id_event">775794</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -8974,7 +8974,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775794&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-06-18&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-06-18 19:30:00&quot;,&quot;end&quot;:&quot;2026-06-18 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775794&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-06-18&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-06-18 19:30:00&quot;,&quot;end&quot;:&quot;2026-06-18 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -9981,10 +9981,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -10013,7 +10013,7 @@
       <field name="id_event">775786</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -10030,7 +10030,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775786&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-23&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-23 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-23 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775786&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-23&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-23 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-23 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -10443,10 +10443,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -10475,7 +10475,7 @@
       <field name="id_event">775795</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -10492,7 +10492,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775795&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-06-25&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-06-25 19:30:00&quot;,&quot;end&quot;:&quot;2026-06-25 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775795&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-06-25&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-06-25 19:30:00&quot;,&quot;end&quot;:&quot;2026-06-25 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -11235,10 +11235,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -11267,7 +11267,7 @@
       <field name="id_event">775787</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -11284,7 +11284,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775787&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-30&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-30 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-30 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775787&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-06-30&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-06-30 19:45:00&quot;,&quot;end&quot;:&quot;2026-06-30 21:00:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -11697,10 +11697,10 @@
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -11729,7 +11729,7 @@
       <field name="id_event">775796</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Trockentraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -11746,7 +11746,7 @@
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;775796&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-07-02&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-07-02 19:30:00&quot;,&quot;end&quot;:&quot;2026-07-02 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;775796&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Turnhalle Neufeld - Turnhalle&quot;,&quot;date&quot;:&quot;2026-07-02&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-07-02 19:30:00&quot;,&quot;end&quot;:&quot;2026-07-02 21:00:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:00:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -14941,10 +14941,10 @@ Betreuer: Felber </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -14973,7 +14973,7 @@ Betreuer: Felber </field>
       <field name="id_event">790646</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -14990,7 +14990,7 @@ Betreuer: Felber </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790646&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-18&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-08-18 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-18 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790646&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-18&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-08-18 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-18 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -15271,10 +15271,10 @@ Betreuer: Felber </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -15303,7 +15303,7 @@ Betreuer: Felber </field>
       <field name="id_event">790647</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -15320,7 +15320,7 @@ Betreuer: Felber </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790647&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-20&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-08-20 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-20 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790647&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-20&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-08-20 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-20 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -16803,10 +16803,10 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -16835,7 +16835,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="id_event">790648</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -16852,7 +16852,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790648&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-24 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790648&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-24&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-24 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-24 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -17331,10 +17331,10 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -17363,7 +17363,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="id_event">790649</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -17380,7 +17380,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790649&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-26&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-08-26 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-26 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790649&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-26&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-08-26 19:00:00&quot;,&quot;end&quot;:&quot;2026-08-26 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -17793,10 +17793,10 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -17825,7 +17825,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <field name="id_event">790746</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -17842,7 +17842,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790746&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-31 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790746&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-08-31&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-08-31 19:15:00&quot;,&quot;end&quot;:&quot;2026-08-31 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -19137,8 +19137,7 @@ Off-ice Kleider für Ein- uns Auslaufen </field>
       <location_id></location_id>
 
       <notes>Coach: Felder Thomas
-Betreuerin: Weibel Jeannine
-Pikett: Felder</notes>
+Betreuerin: Weibel Jeannine</notes>
       <description></description>
 
       <url></url>
@@ -19148,7 +19147,7 @@ Pikett: Felder</notes>
       <field name="id_group">10319</field>
       <field name="notes">Coach: Felder Thomas
 Betreuerin: Weibel Jeannine
-Pikett: Felder </field>
+ </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -19166,7 +19165,7 @@ Pikett: Felder </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159231&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felder Thomas\r\nBetreuerin: Weibel Jeannine\r\nPikett: Felder &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langenthal&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 09:45:00&quot;,&quot;end&quot;:&quot;2026-09-05 12:15:00&quot;,&quot;time_start&quot;:&quot;09:45:00&quot;,&quot;time_end&quot;:&quot;12:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159231&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felder Thomas\r\nBetreuerin: Weibel Jeannine\r\n &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Langenthal&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 09:45:00&quot;,&quot;end&quot;:&quot;2026-09-05 12:15:00&quot;,&quot;time_start&quot;:&quot;09:45:00&quot;,&quot;time_end&quot;:&quot;12:15:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -19912,10 +19911,10 @@ Pikett; Graus Manuel </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -19944,7 +19943,7 @@ Pikett; Graus Manuel </field>
       <field name="id_event">790747</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -19961,7 +19960,7 @@ Pikett; Graus Manuel </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;790747&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-07 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;790747&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-07&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-07 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-07 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -22096,10 +22095,10 @@ Betreuungs: </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -22128,7 +22127,7 @@ Betreuungs: </field>
       <field name="id_event">814332</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -22145,7 +22144,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814332&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-14 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;814332&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-14&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-09-14 19:15:00&quot;,&quot;end&quot;:&quot;2026-09-14 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -22822,10 +22821,10 @@ Betreuungs: </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -22854,7 +22853,7 @@ Betreuungs: </field>
       <field name="id_event">814333</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -22871,7 +22870,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;814333&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-16&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-09-16 20:30:00&quot;,&quot;end&quot;:&quot;2026-09-16 21:45:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;814333&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-16&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-09-16 20:30:00&quot;,&quot;end&quot;:&quot;2026-09-16 21:45:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -24737,10 +24736,10 @@ Betreuungs: </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -24769,7 +24768,7 @@ Betreuungs: </field>
       <field name="id_event">816014</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -24786,7 +24785,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;816014&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-24&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-09-24 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-24 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;816014&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-24&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-09-24 19:00:00&quot;,&quot;end&quot;:&quot;2026-09-24 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -25288,7 +25287,9 @@ Betreuungs: </field>
       <place>Academy Arena Zug</place>
       <location_id></location_id>
 
-      <notes>Betreuerin: Graus Ladina</notes>
+      <notes>Coach: Felber Florian
+Betreuerin: Graus Ladina
+Pikett: Greter</notes>
       <description></description>
 
       <url></url>
@@ -25296,7 +25297,9 @@ Betreuungs: </field>
       <source_fields>
       <field name="id_event">176173</field>
       <field name="id_group">10319</field>
-      <field name="notes">Betreuerin: Graus Ladina </field>
+      <field name="notes">Coach: Felber Florian
+Betreuerin: Graus Ladina
+Pikett: Greter </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel</field>
@@ -25314,7 +25317,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176173&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Betreuerin: Graus Ladina &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176173&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felber Florian\r\nBetreuerin: Graus Ladina\r\nPikett: Greter &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -26321,10 +26324,10 @@ Betreuungs: </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -26353,7 +26356,7 @@ Betreuungs: </field>
       <field name="id_event">818264</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -26370,7 +26373,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;818264&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-29&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-09-29 20:30:00&quot;,&quot;end&quot;:&quot;2026-09-29 21:45:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;818264&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-09-29&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-09-29 20:30:00&quot;,&quot;end&quot;:&quot;2026-09-29 21:45:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -26849,10 +26852,10 @@ Betreuungs: </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -26881,7 +26884,7 @@ Betreuungs: </field>
       <field name="id_event">818265</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -26898,7 +26901,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;818265&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-01&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-01 19:00:00&quot;,&quot;end&quot;:&quot;2026-10-01 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;818265&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-01&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-01 19:00:00&quot;,&quot;end&quot;:&quot;2026-10-01 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -27400,7 +27403,7 @@ Betreuungs: </field>
       <place>Eiszentrum Luzern</place>
       <location_id></location_id>
 
-      <notes>Pikett: Lustenberger Dario</notes>
+      <notes>Betreuerin: Heyer Sonja</notes>
       <description></description>
 
       <url></url>
@@ -27408,7 +27411,7 @@ Betreuungs: </field>
       <source_fields>
       <field name="id_event">176177</field>
       <field name="id_group">10319</field>
-      <field name="notes">Pikett: Lustenberger Dario </field>
+      <field name="notes">Betreuerin: Heyer Sonja </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -27426,7 +27429,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176177&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Lustenberger Dario &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eiszentrum Luzern&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 14:00:00&quot;,&quot;end&quot;:&quot;2026-10-03 16:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Luzern, EV Zug, LUNOXX&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176177&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Betreuerin: Heyer Sonja &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eiszentrum Luzern&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 14:00:00&quot;,&quot;end&quot;:&quot;2026-10-03 16:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Luzern, EV Zug, LUNOXX&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -29291,10 +29294,10 @@ Betreuungs: </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -29323,7 +29326,7 @@ Betreuungs: </field>
       <field name="id_event">818330</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -29340,7 +29343,7 @@ Betreuungs: </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;818330&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-07&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-07 19:45:00&quot;,&quot;end&quot;:&quot;2026-10-07 20:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;20:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;818330&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-07&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-07 19:45:00&quot;,&quot;end&quot;:&quot;2026-10-07 20:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;20:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -31605,10 +31608,10 @@ Coach: Felder </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -31637,7 +31640,7 @@ Coach: Felder </field>
       <field name="id_event">824336</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -31654,7 +31657,7 @@ Coach: Felder </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;824336&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-15&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-15 19:15:00&quot;,&quot;end&quot;:&quot;2026-10-15 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;824336&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-15&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-15 19:15:00&quot;,&quot;end&quot;:&quot;2026-10-15 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -33981,10 +33984,10 @@ Coach: Felder </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -34013,7 +34016,7 @@ Coach: Felder </field>
       <field name="id_event">831719</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -34030,7 +34033,7 @@ Coach: Felder </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;831719&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-22&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-22 19:15:00&quot;,&quot;end&quot;:&quot;2026-10-22 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;831719&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-22&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-22 19:15:00&quot;,&quot;end&quot;:&quot;2026-10-22 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -34400,7 +34403,8 @@ Coach: Felder </field>
       <place>Iceline Seetal</place>
       <location_id></location_id>
 
-      <notes>Pikett: Bischof Elias</notes>
+      <notes>Betreuerin: Ramseier Severine
+Pikett: Bischof Elias</notes>
       <description></description>
 
       <url></url>
@@ -34408,7 +34412,8 @@ Coach: Felder </field>
       <source_fields>
       <field name="id_event">176160</field>
       <field name="id_group">10318</field>
-      <field name="notes">Pikett: Bischof Elias </field>
+      <field name="notes">Betreuerin: Ramseier Severine
+Pikett: Bischof Elias </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -34426,7 +34431,7 @@ Coach: Felder </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176160&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot;Pikett: Bischof Elias &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Iceline Seetal&quot;,&quot;date&quot;:&quot;2026-10-24&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-24 07:45:00&quot;,&quot;end&quot;:&quot;2026-10-24 10:15:00&quot;,&quot;time_start&quot;:&quot;07:45:00&quot;,&quot;time_end&quot;:&quot;10:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, LUNOXX, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176160&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot;Betreuerin: Ramseier Severine\r\nPikett: Bischof Elias &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Iceline Seetal&quot;,&quot;date&quot;:&quot;2026-10-24&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-24 07:45:00&quot;,&quot;end&quot;:&quot;2026-10-24 10:15:00&quot;,&quot;time_start&quot;:&quot;07:45:00&quot;,&quot;time_end&quot;:&quot;10:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, LUNOXX, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -36225,10 +36230,10 @@ Coach: Felder </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>Damen</practice_group>
+      <practice_group>Womens</practice_group>
       <practice_group_id>15270</practice_group_id>
 
-      <category>Damen</category>
+      <category>Womens</category>
       <category_id>15270</category_id>
 
       <mapping_status>mapped</mapping_status>
@@ -36257,7 +36262,7 @@ Coach: Felder </field>
       <field name="id_event">831771</field>
       <field name="id_group">15270</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (Damen)</field>
+      <field name="agegroup">Aktiv (Womens)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -36274,7 +36279,7 @@ Coach: Felder </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;831771&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Damen)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-29&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-29 19:15:00&quot;,&quot;end&quot;:&quot;2026-10-29 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;831771&quot;,&quot;id_group&quot;:&quot;15270&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Womens)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-29&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-29 19:15:00&quot;,&quot;end&quot;:&quot;2026-10-29 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
