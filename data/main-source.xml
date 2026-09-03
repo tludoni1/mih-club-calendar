@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-02T16:54:03.450Z" start_date="2025-05-04" end_date="2027-05-04" event_count="743">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-03T11:33:02.469Z" start_date="2025-05-04" end_date="2027-05-04" event_count="742">
   <events>
     <event>
       <id>747253</id>
@@ -19337,7 +19337,8 @@ Betreuerin: Weibel Jeannine
       <place>Kunsteisbahn Region Aarau, 5000 Aarau AG</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Anreise privat
+Torhüter von Argovia</notes>
       <description></description>
 
       <url></url>
@@ -19345,7 +19346,8 @@ Betreuerin: Weibel Jeannine
       <source_fields>
       <field name="id_event">159116</field>
       <field name="id_group">10328</field>
-      <field name="notes"> </field>
+      <field name="notes">Anreise privat
+Torhüter von Argovia </field>
       <field name="agegroup">U18-U21</field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel (auswärts)</field>
@@ -19363,7 +19365,7 @@ Betreuerin: Weibel Jeannine
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;159116&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Region Aarau, 5000 Aarau AG&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 20:00:00&quot;,&quot;end&quot;:&quot;2026-09-05 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;159116&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot;Anreise privat\r\nTorhüter von Argovia &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Region Aarau, 5000 Aarau AG&quot;,&quot;date&quot;:&quot;2026-09-05&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-09-05 20:00:00&quot;,&quot;end&quot;:&quot;2026-09-05 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -34298,72 +34300,6 @@ Coach: Felder </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;831717&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-23&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-23 18:45:00&quot;,&quot;end&quot;:&quot;2026-10-23 19:45:00&quot;,&quot;time_start&quot;:&quot;18:45:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>170212</id>
-      <uid>mih-88-ef410b41111c0b56a6e76406@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>Aktiv</agegroup>
-      <agegroup_id>63</agegroup_id>
-
-      <team>2. Mannschaft</team>
-      <team_id>10781</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>2. Mannschaft</category>
-      <category_id>10781</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>EHC Wetzikon</opponent>
-
-      <date>2026-10-23</date>
-      <weekday>Fr</weekday>
-      <time_start>20:15</time_start>
-      <time_end>22:15</time_end>
-      <datetime_start>2026-10-23T20:15:00+02:00</datetime_start>
-      <datetime_end>2026-10-23T22:15:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee, 6210 Sursee LU</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">170212</field>
-      <field name="id_group">10781</field>
-      <field name="notes"> </field>
-      <field name="agegroup">Aktiv</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
-      <field name="date">2026-10-23</field>
-      <field name="weekday">Fr</field>
-      <field name="start">2026-10-23 20:15:00</field>
-      <field name="end">2026-10-23 22:15:00</field>
-      <field name="time_start">20:15:00</field>
-      <field name="time_end">22:15:00</field>
-      <field name="opponent">EHC Wetzikon</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170212&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-23&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-23 20:15:00&quot;,&quot;end&quot;:&quot;2026-10-23 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;EHC Wetzikon&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
