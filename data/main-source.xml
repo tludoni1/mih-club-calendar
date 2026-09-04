@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-04T11:35:16.963Z" start_date="2025-05-04" end_date="2027-05-04" event_count="741">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-04T16:38:21.903Z" start_date="2025-05-04" end_date="2027-05-04" event_count="741">
   <events>
     <event>
       <id>747253</id>
@@ -32092,7 +32092,7 @@ Coach: Felder </field>
       <datetime_start>2026-10-17T11:00:00+02:00</datetime_start>
       <datetime_end>2026-10-17T13:30:00+02:00</datetime_end>
 
-      <place>Kunsteisbahn Zingel</place>
+      <place>Kunsteisbahn Zingel, Seewen</place>
       <location_id></location_id>
 
       <notes></notes>
@@ -32108,7 +32108,7 @@ Coach: Felder </field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
       <field name="type_event">GA</field>
-      <field name="place">Kunsteisbahn Zingel</field>
+      <field name="place">Kunsteisbahn Zingel, Seewen</field>
       <field name="date">2026-10-17</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-17 11:00:00</field>
@@ -32121,7 +32121,7 @@ Coach: Felder </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176518&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Zingel&quot;,&quot;date&quot;:&quot;2026-10-17&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-17 11:00:00&quot;,&quot;end&quot;:&quot;2026-10-17 13:30:00&quot;,&quot;time_start&quot;:&quot;11:00:00&quot;,&quot;time_end&quot;:&quot;13:30:00&quot;,&quot;opponent&quot;:&quot;Innerschwyz, LUNOXX, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176518&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Zingel, Seewen&quot;,&quot;date&quot;:&quot;2026-10-17&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-17 11:00:00&quot;,&quot;end&quot;:&quot;2026-10-17 13:30:00&quot;,&quot;time_start&quot;:&quot;11:00:00&quot;,&quot;time_end&quot;:&quot;13:30:00&quot;,&quot;opponent&quot;:&quot;Innerschwyz, LUNOXX, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -34671,7 +34671,7 @@ Pikett: Bischof Elias </field>
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
 
-      <notes></notes>
+      <notes>Betreuung: Severine Ramseier</notes>
       <description></description>
 
       <url></url>
@@ -34679,7 +34679,7 @@ Pikett: Bischof Elias </field>
       <source_fields>
       <field name="id_event">176519</field>
       <field name="id_group">10323</field>
-      <field name="notes"> </field>
+      <field name="notes">Betreuung: Severine Ramseier </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel</field>
@@ -34697,7 +34697,7 @@ Pikett: Bischof Elias </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176519&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-25&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-25 10:00:00&quot;,&quot;end&quot;:&quot;2026-10-25 12:30:00&quot;,&quot;time_start&quot;:&quot;10:00:00&quot;,&quot;time_end&quot;:&quot;12:30:00&quot;,&quot;opponent&quot;:&quot;LUNOXX, EV Zug, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176519&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Betreuung: Severine Ramseier &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-25&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-25 10:00:00&quot;,&quot;end&quot;:&quot;2026-10-25 12:30:00&quot;,&quot;time_start&quot;:&quot;10:00:00&quot;,&quot;time_end&quot;:&quot;12:30:00&quot;,&quot;opponent&quot;:&quot;LUNOXX, EV Zug, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
