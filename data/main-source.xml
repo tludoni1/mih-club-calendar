@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-03T16:43:48.706Z" start_date="2025-05-04" end_date="2027-05-04" event_count="742">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-04T11:35:16.963Z" start_date="2025-05-04" end_date="2027-05-04" event_count="741">
   <events>
     <event>
       <id>747253</id>
@@ -25359,7 +25359,7 @@ Pikett: Greter </field>
       <place>Academy Arena Zug</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Betreuerin: Tough Hannah</notes>
       <description></description>
 
       <url></url>
@@ -25367,7 +25367,7 @@ Pikett: Greter </field>
       <source_fields>
       <field name="id_event">176157</field>
       <field name="id_group">10318</field>
-      <field name="notes"> </field>
+      <field name="notes">Betreuerin: Tough Hannah </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -25385,7 +25385,7 @@ Pikett: Greter </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176157&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176157&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot;Betreuerin: Tough Hannah &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -42816,72 +42816,6 @@ Pikett: Bischof Elias </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;173440&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena, 6303 Zug&quot;,&quot;date&quot;:&quot;2027-01-09&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-09 18:00:00&quot;,&quot;end&quot;:&quot;2027-01-09 20:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;EV Zug&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>170220</id>
-      <uid>mih-88-f80a6afc9ca5db51283a8888@ehc-sursee.local</uid>
-
-      <type_event>GA</type_event>
-      <event>Spiel (auswärts)</event>
-      <title>Spiel (auswärts)</title>
-
-      <agegroup>Aktiv</agegroup>
-      <agegroup_id>63</agegroup_id>
-
-      <team>2. Mannschaft</team>
-      <team_id>10781</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>2. Mannschaft</category>
-      <category_id>10781</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>EHC Wetzikon</opponent>
-
-      <date>2027-01-09</date>
-      <weekday>Sa</weekday>
-      <time_start>19:45</time_start>
-      <time_end>21:45</time_end>
-      <datetime_start>2027-01-09T19:45:00+02:00</datetime_start>
-      <datetime_end>2027-01-09T21:45:00+02:00</datetime_end>
-
-      <place>Kunsteisbahn Wetzikon, 8620 Wetzikon ZH</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">170220</field>
-      <field name="id_group">10781</field>
-      <field name="notes"> </field>
-      <field name="agegroup">Aktiv</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel (auswärts)</field>
-      <field name="type_event">GA</field>
-      <field name="place">Kunsteisbahn Wetzikon, 8620 Wetzikon ZH</field>
-      <field name="date">2027-01-09</field>
-      <field name="weekday">Sa</field>
-      <field name="start">2027-01-09 19:45:00</field>
-      <field name="end">2027-01-09 21:45:00</field>
-      <field name="time_start">19:45:00</field>
-      <field name="time_end">21:45:00</field>
-      <field name="opponent">EHC Wetzikon</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170220&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Wetzikon, 8620 Wetzikon ZH&quot;,&quot;date&quot;:&quot;2027-01-09&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-09 19:45:00&quot;,&quot;end&quot;:&quot;2027-01-09 21:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;opponent&quot;:&quot;EHC Wetzikon&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
