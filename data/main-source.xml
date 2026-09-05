@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-04T16:38:21.903Z" start_date="2025-05-04" end_date="2027-05-04" event_count="741">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-05T10:50:54.158Z" start_date="2025-05-04" end_date="2027-05-04" event_count="741">
   <events>
     <event>
       <id>747253</id>
@@ -25291,7 +25291,7 @@ Betreuungs: </field>
 
       <notes>Coach: Felber Florian
 Betreuerin: Graus Ladina
-Pikett: Greter</notes>
+Pikett:</notes>
       <description></description>
 
       <url></url>
@@ -25301,7 +25301,7 @@ Pikett: Greter</notes>
       <field name="id_group">10319</field>
       <field name="notes">Coach: Felber Florian
 Betreuerin: Graus Ladina
-Pikett: Greter </field>
+Pikett: </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel</field>
@@ -25319,7 +25319,7 @@ Pikett: Greter </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176173&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felber Florian\r\nBetreuerin: Graus Ladina\r\nPikett: Greter &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176173&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felber Florian\r\nBetreuerin: Graus Ladina\r\nPikett: &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -25359,7 +25359,8 @@ Pikett: Greter </field>
       <place>Academy Arena Zug</place>
       <location_id></location_id>
 
-      <notes>Betreuerin: Tough Hannah</notes>
+      <notes>Betreuerin: Tough Hannah
+&gt;Es spielen noch Kinder von EVZ, Zug</notes>
       <description></description>
 
       <url></url>
@@ -25367,7 +25368,8 @@ Pikett: Greter </field>
       <source_fields>
       <field name="id_event">176157</field>
       <field name="id_group">10318</field>
-      <field name="notes">Betreuerin: Tough Hannah </field>
+      <field name="notes">Betreuerin: Tough Hannah
+&gt;Es spielen noch Kinder von EVZ, Zug </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -25385,7 +25387,7 @@ Pikett: Greter </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176157&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot;Betreuerin: Tough Hannah &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176157&quot;,&quot;id_group&quot;:&quot;10318&quot;,&quot;notes&quot;:&quot;Betreuerin: Tough Hannah\r\n&gt;Es spielen noch Kinder von EVZ, Zug &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
