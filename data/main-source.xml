@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-08T11:36:27.682Z" start_date="2025-05-04" end_date="2027-05-04" event_count="745">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-08T16:53:22.872Z" start_date="2025-05-04" end_date="2027-05-04" event_count="745">
   <events>
     <event>
       <id>747253</id>
@@ -45482,8 +45482,8 @@ Pikett: Bischof Elias </field>
 
       <mapping_status>mapped</mapping_status>
 
-      <type>Freundschaft</type>
-      <type_id>G1</type_id>
+      <type>Turnier</type>
+      <type_id>G2</type_id>
 
       <opponent>Luzern, Wohlen, Olten</opponent>
 
@@ -45507,7 +45507,7 @@ Pikett: Bischof Elias </field>
       <field name="id_group">10321</field>
       <field name="notes"> </field>
       <field name="agegroup">Erfassungsstufe</field>
-      <field name="type">Freundschaft</field>
+      <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
       <field name="type_event">GA</field>
       <field name="place">Schüwo Park Wohlen</field>
@@ -45518,12 +45518,12 @@ Pikett: Bischof Elias </field>
       <field name="time_start">09:15:00</field>
       <field name="time_end">11:45:00</field>
       <field name="opponent">Luzern, Wohlen, Olten</field>
-      <field name="type_type">G1</field>
-      <field name="color">#81c881</field>
+      <field name="type_type">G2</field>
+      <field name="color">#1184ea</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176507&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Schüwo Park Wohlen&quot;,&quot;date&quot;:&quot;2027-01-31&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-01-31 09:15:00&quot;,&quot;end&quot;:&quot;2027-01-31 11:45:00&quot;,&quot;time_start&quot;:&quot;09:15:00&quot;,&quot;time_end&quot;:&quot;11:45:00&quot;,&quot;opponent&quot;:&quot;Luzern, Wohlen, Olten&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176507&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Schüwo Park Wohlen&quot;,&quot;date&quot;:&quot;2027-01-31&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-01-31 09:15:00&quot;,&quot;end&quot;:&quot;2027-01-31 11:45:00&quot;,&quot;time_start&quot;:&quot;09:15:00&quot;,&quot;time_end&quot;:&quot;11:45:00&quot;,&quot;opponent&quot;:&quot;Luzern, Wohlen, Olten&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
