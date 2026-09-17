@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-17T11:58:36.910Z" start_date="2025-05-04" end_date="2027-05-04" event_count="859">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-17T17:20:04.019Z" start_date="2025-05-04" end_date="2027-05-04" event_count="859">
   <events>
     <event>
       <id>747253</id>
@@ -23773,7 +23773,7 @@ Tenue: EHC Sursee Teamware/Hoodie </field>
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Vor dem Spiel Nummern verteilen.</notes>
       <description></description>
 
       <url></url>
@@ -23781,7 +23781,7 @@ Tenue: EHC Sursee Teamware/Hoodie </field>
       <source_fields>
       <field name="id_event">173449</field>
       <field name="id_group">10326</field>
-      <field name="notes"> </field>
+      <field name="notes">Vor dem Spiel Nummern verteilen.  </field>
       <field name="agegroup">U14-U16</field>
       <field name="type">Saison</field>
       <field name="event">Spiel</field>
@@ -23799,7 +23799,7 @@ Tenue: EHC Sursee Teamware/Hoodie </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173449&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 16:30:00&quot;,&quot;end&quot;:&quot;2026-09-20 18:30:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173449&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot;Vor dem Spiel Nummern verteilen.  &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-09-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-20 16:30:00&quot;,&quot;end&quot;:&quot;2026-09-20 18:30:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
