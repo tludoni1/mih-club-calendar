@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-21T13:11:13.987Z" start_date="2025-05-04" end_date="2027-05-04" event_count="861">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-21T18:21:22.380Z" start_date="2025-05-04" end_date="2027-05-04" event_count="861">
   <events>
     <event>
       <id>747253</id>
@@ -25492,8 +25492,7 @@ Tenue: EHC Sursee Teamware/Hoodie </field>
       <location_id></location_id>
 
       <notes>Coach: Felber Florian
-Betreuerin: Graus Ladina
-Pikett: Hurschler</notes>
+Betreuerin: Graus Ladina</notes>
       <description></description>
 
       <url></url>
@@ -25503,7 +25502,7 @@ Pikett: Hurschler</notes>
       <field name="id_group">10319</field>
       <field name="notes">Coach: Felber Florian
 Betreuerin: Graus Ladina
-Pikett: Hurschler </field>
+ </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -25521,7 +25520,7 @@ Pikett: Hurschler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176173&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felber Florian\nBetreuerin: Graus Ladina\nPikett: Hurschler &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176173&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Coach: Felber Florian\r\nBetreuerin: Graus Ladina\r\n &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 12:45:00&quot;,&quot;end&quot;:&quot;2026-09-27 15:15:00&quot;,&quot;time_start&quot;:&quot;12:45:00&quot;,&quot;time_end&quot;:&quot;15:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug, Luzern, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
