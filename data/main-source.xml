@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-22T17:23:47.746Z" start_date="2025-05-04" end_date="2027-05-04" event_count="861">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-23T11:58:32.929Z" start_date="2025-05-04" end_date="2027-05-04" event_count="862">
   <events>
     <event>
       <id>747253</id>
@@ -34637,6 +34637,72 @@ Coach: Felder </field>
       </raw>
     </event>
     <event>
+      <id>185483</id>
+      <uid>mih-88-32557d10c05a0682c06fbba4@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Freundschaft</type>
+      <type_id>G1</type_id>
+
+      <opponent>(Plausch) BEO</opponent>
+
+      <date>2026-10-23</date>
+      <weekday>Fr</weekday>
+      <time_start>20:00</time_start>
+      <time_end>22:30</time_end>
+      <datetime_start>2026-10-23T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-10-23T22:30:00+02:00</datetime_end>
+
+      <place>Interlaken</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">185483</field>
+      <field name="id_group">10783</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Freundschaft</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Interlaken</field>
+      <field name="date">2026-10-23</field>
+      <field name="weekday">Fr</field>
+      <field name="start">2026-10-23 20:00:00</field>
+      <field name="end">2026-10-23 22:30:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">22:30:00</field>
+      <field name="opponent">(Plausch) BEO</field>
+      <field name="type_type">G1</field>
+      <field name="color">#81c881</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;185483&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Interlaken&quot;,&quot;date&quot;:&quot;2026-10-23&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-23 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-23 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;(Plausch) BEO&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>176160</id>
       <uid>mih-88-a262c3969be974416c98a2d6@ehc-sursee.local</uid>
 
@@ -44101,7 +44167,7 @@ Pikett: Bischof Elias </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>Plausch, noch offen</opponent>
+      <opponent>(Plausch) Pöschtli</opponent>
 
       <date>2026-11-22</date>
       <weekday>Su</weekday>
@@ -44133,13 +44199,13 @@ Pikett: Bischof Elias </field>
       <field name="end">2026-11-22 22:30:00</field>
       <field name="time_start">20:00:00</field>
       <field name="time_end">22:30:00</field>
-      <field name="opponent">Plausch, noch offen</field>
+      <field name="opponent">(Plausch) Pöschtli</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;182769&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-22&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-22 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-22 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;Plausch, noch offen&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;182769&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-22&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-22 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-22 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;(Plausch) Pöschtli&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -49645,7 +49711,7 @@ Pikett: Bischof Elias </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>Polysport (Senioren Plausch)</opponent>
+      <opponent>(Plausch) Poly</opponent>
 
       <date>2026-12-20</date>
       <weekday>Su</weekday>
@@ -49677,13 +49743,13 @@ Pikett: Bischof Elias </field>
       <field name="end">2026-12-20 12:30:00</field>
       <field name="time_start">10:00:00</field>
       <field name="time_end">12:30:00</field>
-      <field name="opponent">Polysport (Senioren Plausch)</field>
+      <field name="opponent">(Plausch) Poly</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;183320&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Sissach&quot;,&quot;date&quot;:&quot;2026-12-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-12-20 10:00:00&quot;,&quot;end&quot;:&quot;2026-12-20 12:30:00&quot;,&quot;time_start&quot;:&quot;10:00:00&quot;,&quot;time_end&quot;:&quot;12:30:00&quot;,&quot;opponent&quot;:&quot;Polysport (Senioren Plausch)&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;183320&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Sissach&quot;,&quot;date&quot;:&quot;2026-12-20&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-12-20 10:00:00&quot;,&quot;end&quot;:&quot;2026-12-20 12:30:00&quot;,&quot;time_start&quot;:&quot;10:00:00&quot;,&quot;time_end&quot;:&quot;12:30:00&quot;,&quot;opponent&quot;:&quot;(Plausch) Poly&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -56377,7 +56443,7 @@ Pikett: Bischof Elias </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>Plausch, noch offen</opponent>
+      <opponent>(Plausch) Poly</opponent>
 
       <date>2027-03-12</date>
       <weekday>Fr</weekday>
@@ -56409,13 +56475,13 @@ Pikett: Bischof Elias </field>
       <field name="end">2027-03-12 22:30:00</field>
       <field name="time_start">20:00:00</field>
       <field name="time_end">22:30:00</field>
-      <field name="opponent">Plausch, noch offen</field>
+      <field name="opponent">(Plausch) Poly</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;182771&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2027-03-12&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2027-03-12 20:00:00&quot;,&quot;end&quot;:&quot;2027-03-12 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;Plausch, noch offen&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;182771&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2027-03-12&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2027-03-12 20:00:00&quot;,&quot;end&quot;:&quot;2027-03-12 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;(Plausch) Poly&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
