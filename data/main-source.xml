@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-27T17:20:21.962Z" start_date="2025-05-04" end_date="2027-05-04" event_count="865">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-28T14:20:09.273Z" start_date="2025-05-04" end_date="2027-05-04" event_count="865">
   <events>
     <event>
       <id>747253</id>
@@ -25615,14 +25615,14 @@ Betreuerin: Graus Ladina
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Bern 96 Blau</opponent>
+      <opponent>EHC Bern 96 Blau (21-0)</opponent>
 
       <date>2026-09-27</date>
       <weekday>Su</weekday>
       <time_start>16:00</time_start>
-      <time_end>18:00</time_end>
+      <time_end>18:12</time_end>
       <datetime_start>2026-09-27T16:00:00+02:00</datetime_start>
-      <datetime_end>2026-09-27T18:00:00+02:00</datetime_end>
+      <datetime_end>2026-09-27T18:12:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -25644,16 +25644,16 @@ Betreuerin: Graus Ladina
       <field name="date">2026-09-27</field>
       <field name="weekday">Su</field>
       <field name="start">2026-09-27 16:00:00</field>
-      <field name="end">2026-09-27 18:00:00</field>
+      <field name="end">2026-09-27 18:12:04</field>
       <field name="time_start">16:00:00</field>
-      <field name="time_end">18:00:00</field>
-      <field name="opponent">EHC Bern 96 Blau</field>
+      <field name="time_end">18:12:04</field>
+      <field name="opponent">EHC Bern 96 Blau (21-0)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173450&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 16:00:00&quot;,&quot;end&quot;:&quot;2026-09-27 18:00:00&quot;,&quot;time_start&quot;:&quot;16:00:00&quot;,&quot;time_end&quot;:&quot;18:00:00&quot;,&quot;opponent&quot;:&quot;EHC Bern 96 Blau&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173450&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-09-27&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-09-27 16:00:00&quot;,&quot;end&quot;:&quot;2026-09-27 18:12:04&quot;,&quot;time_start&quot;:&quot;16:00:00&quot;,&quot;time_end&quot;:&quot;18:12:04&quot;,&quot;opponent&quot;:&quot;EHC Bern 96 Blau (21-0)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -28033,6 +28033,72 @@ Betreuerin: Graus Ladina
       </raw>
     </event>
     <event>
+      <id>173451</id>
+      <uid>mih-88-c0b222d0663a846d53a14e07@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team>U16-A I</team>
+      <team_id>10326</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U16-A I</category>
+      <category_id>10326</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Bern 96 Blau</opponent>
+
+      <date>2026-10-04</date>
+      <weekday>Su</weekday>
+      <time_start>14:30</time_start>
+      <time_end>17:30</time_end>
+      <datetime_start>2026-10-04T14:30:00+02:00</datetime_start>
+      <datetime_end>2026-10-04T17:30:00+02:00</datetime_end>
+
+      <place>Kunsteisbahn Weyermannshaus, 3027 Bern BE</place>
+      <location_id></location_id>
+
+      <notes>Anreise privat!! Das Büsli ist mit der U16-A2 nach Laufen</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">173451</field>
+      <field name="id_group">10326</field>
+      <field name="notes">Anreise privat!! Das Büsli ist mit der U16-A2 nach Laufen </field>
+      <field name="agegroup">U14-U16</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Kunsteisbahn Weyermannshaus, 3027 Bern BE</field>
+      <field name="date">2026-10-04</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-10-04 14:30:00</field>
+      <field name="end">2026-10-04 17:30:00</field>
+      <field name="time_start">14:30:00</field>
+      <field name="time_end">17:30:00</field>
+      <field name="opponent">EHC Bern 96 Blau</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;173451&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot;Anreise privat!! Das Büsli ist mit der U16-A2 nach Laufen &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Weyermannshaus, 3027 Bern BE&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 14:30:00&quot;,&quot;end&quot;:&quot;2026-10-04 17:30:00&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;17:30:00&quot;,&quot;opponent&quot;:&quot;EHC Bern 96 Blau&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>173388</id>
       <uid>mih-88-8f2e1531eb6b7de5061afdb2@ehc-sursee.local</uid>
 
@@ -28096,72 +28162,6 @@ Betreuerin: Graus Ladina
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;173388&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 15:15:00&quot;,&quot;end&quot;:&quot;2026-10-04 17:15:00&quot;,&quot;time_start&quot;:&quot;15:15:00&quot;,&quot;time_end&quot;:&quot;17:15:00&quot;,&quot;opponent&quot;:&quot;GCK Lions Frauen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>173451</id>
-      <uid>mih-88-c0b222d0663a846d53a14e07@ehc-sursee.local</uid>
-
-      <type_event>GA</type_event>
-      <event>Spiel (auswärts)</event>
-      <title>Spiel (auswärts)</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team>U16-A I</team>
-      <team_id>10326</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U16-A I</category>
-      <category_id>10326</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>EHC Bern 96 Blau</opponent>
-
-      <date>2026-10-04</date>
-      <weekday>Su</weekday>
-      <time_start>15:30</time_start>
-      <time_end>17:30</time_end>
-      <datetime_start>2026-10-04T15:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-04T17:30:00+02:00</datetime_end>
-
-      <place>Kunsteisbahn Ka-We-De, 3005 Bern BE</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">173451</field>
-      <field name="id_group">10326</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel (auswärts)</field>
-      <field name="type_event">GA</field>
-      <field name="place">Kunsteisbahn Ka-We-De, 3005 Bern BE</field>
-      <field name="date">2026-10-04</field>
-      <field name="weekday">Su</field>
-      <field name="start">2026-10-04 15:30:00</field>
-      <field name="end">2026-10-04 17:30:00</field>
-      <field name="time_start">15:30:00</field>
-      <field name="time_end">17:30:00</field>
-      <field name="opponent">EHC Bern 96 Blau</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173451&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Ka-We-De, 3005 Bern BE&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 15:30:00&quot;,&quot;end&quot;:&quot;2026-10-04 17:30:00&quot;,&quot;time_start&quot;:&quot;15:30:00&quot;,&quot;time_end&quot;:&quot;17:30:00&quot;,&quot;opponent&quot;:&quot;EHC Bern 96 Blau&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -34838,9 +34838,9 @@ Coach: Felder </field>
       <id>185483</id>
       <uid>mih-88-32557d10c05a0682c06fbba4@ehc-sursee.local</uid>
 
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
 
       <agegroup>Aktiv</agegroup>
       <agegroup_id>63</agegroup_id>
@@ -34882,8 +34882,8 @@ Coach: Felder </field>
       <field name="notes"> </field>
       <field name="agegroup">Aktiv</field>
       <field name="type">Freundschaft</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
       <field name="place">Interlaken</field>
       <field name="date">2026-10-23</field>
       <field name="weekday">Fr</field>
@@ -34897,7 +34897,7 @@ Coach: Felder </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;185483&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Interlaken&quot;,&quot;date&quot;:&quot;2026-10-23&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-23 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-23 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;(Plausch) BEO&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;185483&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Interlaken&quot;,&quot;date&quot;:&quot;2026-10-23&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-10-23 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-23 22:30:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;(Plausch) BEO&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -54731,9 +54731,9 @@ Pikett: Bischof Elias </field>
 
       <date>2027-02-14</date>
       <weekday>Su</weekday>
-      <time_start>20:00</time_start>
+      <time_start>20:15</time_start>
       <time_end>22:00</time_end>
-      <datetime_start>2027-02-14T20:00:00+02:00</datetime_start>
+      <datetime_start>2027-02-14T20:15:00+02:00</datetime_start>
       <datetime_end>2027-02-14T22:00:00+02:00</datetime_end>
 
       <place>Regionales Eiszentrum AG, 6005 Luzern LU</place>
@@ -54755,9 +54755,9 @@ Pikett: Bischof Elias </field>
       <field name="place">Regionales Eiszentrum AG, 6005 Luzern LU</field>
       <field name="date">2027-02-14</field>
       <field name="weekday">Su</field>
-      <field name="start">2027-02-14 20:00:00</field>
+      <field name="start">2027-02-14 20:15:00</field>
       <field name="end">2027-02-14 22:00:00</field>
-      <field name="time_start">20:00:00</field>
+      <field name="time_start">20:15:00</field>
       <field name="time_end">22:00:00</field>
       <field name="opponent">HC Luzern</field>
       <field name="type_type">G3</field>
@@ -54765,7 +54765,7 @@ Pikett: Bischof Elias </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170231&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2027-02-14&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-02-14 20:00:00&quot;,&quot;end&quot;:&quot;2027-02-14 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170231&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2027-02-14&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-02-14 20:15:00&quot;,&quot;end&quot;:&quot;2027-02-14 22:00:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
