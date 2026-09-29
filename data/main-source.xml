@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-28T19:52:52.100Z" start_date="2025-05-04" end_date="2027-05-04" event_count="865">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-09-29T13:13:33.517Z" start_date="2025-05-04" end_date="2027-05-04" event_count="865">
   <events>
     <event>
       <id>747253</id>
@@ -27637,31 +27637,31 @@ Betreuerin: Graus Ladina
       </raw>
     </event>
     <event>
-      <id>173430</id>
-      <uid>mih-88-51728c8df2c7b24cf5a255ab@ehc-sursee.local</uid>
+      <id>173508</id>
+      <uid>mih-88-36b5b128545022415196572c@ehc-sursee.local</uid>
 
       <type_event>GH</type_event>
       <event>Spiel</event>
       <title>Spiel</title>
 
-      <agegroup>U18-U21</agegroup>
-      <agegroup_id>144</agegroup_id>
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
 
-      <team>U18-A</team>
-      <team_id>10328</team_id>
+      <team>U14-Top</team>
+      <team_id>10324</team_id>
 
       <practice_group></practice_group>
       <practice_group_id></practice_group_id>
 
-      <category>U18-A</category>
-      <category_id>10328</category_id>
+      <category>U14-Top</category>
+      <category_id>10324</category_id>
 
       <mapping_status>mapped</mapping_status>
 
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HCB Chiasso</opponent>
+      <opponent>EV Zug I</opponent>
 
       <date>2026-10-03</date>
       <weekday>Sa</weekday>
@@ -27679,10 +27679,10 @@ Betreuerin: Graus Ladina
       <url></url>
 
       <source_fields>
-      <field name="id_event">173430</field>
-      <field name="id_group">10328</field>
+      <field name="id_event">173508</field>
+      <field name="id_group">10324</field>
       <field name="notes"> </field>
-      <field name="agegroup">U18-U21</field>
+      <field name="agegroup">U14-U16</field>
       <field name="type">Saison</field>
       <field name="event">Spiel</field>
       <field name="type_event">GH</field>
@@ -27693,13 +27693,13 @@ Betreuerin: Graus Ladina
       <field name="end">2026-10-03 15:00:00</field>
       <field name="time_start">13:00:00</field>
       <field name="time_end">15:00:00</field>
-      <field name="opponent">HCB Chiasso</field>
+      <field name="opponent">EV Zug I</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173430&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 13:00:00&quot;,&quot;end&quot;:&quot;2026-10-03 15:00:00&quot;,&quot;time_start&quot;:&quot;13:00:00&quot;,&quot;time_end&quot;:&quot;15:00:00&quot;,&quot;opponent&quot;:&quot;HCB Chiasso&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173508&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 13:00:00&quot;,&quot;end&quot;:&quot;2026-10-03 15:00:00&quot;,&quot;time_start&quot;:&quot;13:00:00&quot;,&quot;time_end&quot;:&quot;15:00:00&quot;,&quot;opponent&quot;:&quot;EV Zug I&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -27766,6 +27766,72 @@ Betreuerin: Graus Ladina
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;176177&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Betreuerin: Heyer Sonja &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eiszentrum Luzern&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 14:00:00&quot;,&quot;end&quot;:&quot;2026-10-03 16:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Luzern, EV Zug, LUNOXX&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>173430</id>
+      <uid>mih-88-51728c8df2c7b24cf5a255ab@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>U18-U21</agegroup>
+      <agegroup_id>144</agegroup_id>
+
+      <team>U18-A</team>
+      <team_id>10328</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U18-A</category>
+      <category_id>10328</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HCB Chiasso</opponent>
+
+      <date>2026-10-03</date>
+      <weekday>Sa</weekday>
+      <time_start>17:15</time_start>
+      <time_end>19:15</time_end>
+      <datetime_start>2026-10-03T17:15:00+02:00</datetime_start>
+      <datetime_end>2026-10-03T19:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">173430</field>
+      <field name="id_group">10328</field>
+      <field name="notes"> </field>
+      <field name="agegroup">U18-U21</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-10-03</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-10-03 17:15:00</field>
+      <field name="end">2026-10-03 19:15:00</field>
+      <field name="time_start">17:15:00</field>
+      <field name="time_end">19:15:00</field>
+      <field name="opponent">HCB Chiasso</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;173430&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 17:15:00&quot;,&quot;end&quot;:&quot;2026-10-03 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HCB Chiasso&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -27937,7 +28003,8 @@ Betreuerin: Graus Ladina
       <place>Eishalle Schüwo Park, 5610 Wohlen AG</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Würde jemand mit dem Büsli fahren?
+Das Büsli muss um 14:00</notes>
       <description></description>
 
       <url></url>
@@ -27945,7 +28012,8 @@ Betreuerin: Graus Ladina
       <source_fields>
       <field name="id_event">173527</field>
       <field name="id_group">10325</field>
-      <field name="notes"> </field>
+      <field name="notes">Würde jemand mit dem Büsli fahren?
+Das Büsli muss um 14:00 </field>
       <field name="agegroup">U14-U16</field>
       <field name="type">Saison</field>
       <field name="event">Spiel (auswärts)</field>
@@ -27963,41 +28031,41 @@ Betreuerin: Graus Ladina
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173527&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Schüwo Park, 5610 Wohlen AG&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 09:30:00&quot;,&quot;end&quot;:&quot;2026-10-04 11:30:00&quot;,&quot;time_start&quot;:&quot;09:30:00&quot;,&quot;time_end&quot;:&quot;11:30:00&quot;,&quot;opponent&quot;:&quot;HC Wohlen Freiamt&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173527&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot;Würde jemand mit dem Büsli fahren?\r\nDas Büsli muss um 14:00 &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Schüwo Park, 5610 Wohlen AG&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 09:30:00&quot;,&quot;end&quot;:&quot;2026-10-04 11:30:00&quot;,&quot;time_start&quot;:&quot;09:30:00&quot;,&quot;time_end&quot;:&quot;11:30:00&quot;,&quot;opponent&quot;:&quot;HC Wohlen Freiamt&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
-      <id>173508</id>
-      <uid>mih-88-36b5b128545022415196572c@ehc-sursee.local</uid>
+      <id>173388</id>
+      <uid>mih-88-8f2e1531eb6b7de5061afdb2@ehc-sursee.local</uid>
 
       <type_event>GH</type_event>
       <event>Spiel</event>
       <title>Spiel</title>
 
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
 
-      <team>U14-Top</team>
-      <team_id>10324</team_id>
+      <team>Damen</team>
+      <team_id>10782</team_id>
 
       <practice_group></practice_group>
       <practice_group_id></practice_group_id>
 
-      <category>U14-Top</category>
-      <category_id>10324</category_id>
+      <category>Damen</category>
+      <category_id>10782</category_id>
 
       <mapping_status>mapped</mapping_status>
 
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EV Zug I</opponent>
+      <opponent>GCK Lions Frauen</opponent>
 
       <date>2026-10-04</date>
       <weekday>Su</weekday>
-      <time_start>12:30</time_start>
+      <time_start>12:00</time_start>
       <time_end>14:30</time_end>
-      <datetime_start>2026-10-04T12:30:00+02:00</datetime_start>
+      <datetime_start>2026-10-04T12:00:00+02:00</datetime_start>
       <datetime_end>2026-10-04T14:30:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
@@ -28009,27 +28077,27 @@ Betreuerin: Graus Ladina
       <url></url>
 
       <source_fields>
-      <field name="id_event">173508</field>
-      <field name="id_group">10324</field>
+      <field name="id_event">173388</field>
+      <field name="id_group">10782</field>
       <field name="notes"> </field>
-      <field name="agegroup">U14-U16</field>
+      <field name="agegroup">Aktiv</field>
       <field name="type">Saison</field>
       <field name="event">Spiel</field>
       <field name="type_event">GH</field>
       <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
       <field name="date">2026-10-04</field>
       <field name="weekday">Su</field>
-      <field name="start">2026-10-04 12:30:00</field>
+      <field name="start">2026-10-04 12:00:00</field>
       <field name="end">2026-10-04 14:30:00</field>
-      <field name="time_start">12:30:00</field>
+      <field name="time_start">12:00:00</field>
       <field name="time_end">14:30:00</field>
-      <field name="opponent">EV Zug I</field>
+      <field name="opponent">GCK Lions Frauen</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173508&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 12:30:00&quot;,&quot;end&quot;:&quot;2026-10-04 14:30:00&quot;,&quot;time_start&quot;:&quot;12:30:00&quot;,&quot;time_end&quot;:&quot;14:30:00&quot;,&quot;opponent&quot;:&quot;EV Zug I&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173388&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 12:00:00&quot;,&quot;end&quot;:&quot;2026-10-04 14:30:00&quot;,&quot;time_start&quot;:&quot;12:00:00&quot;,&quot;time_end&quot;:&quot;14:30:00&quot;,&quot;opponent&quot;:&quot;GCK Lions Frauen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -28099,72 +28167,6 @@ Betreuerin: Graus Ladina
       </raw>
     </event>
     <event>
-      <id>173388</id>
-      <uid>mih-88-8f2e1531eb6b7de5061afdb2@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>Aktiv</agegroup>
-      <agegroup_id>63</agegroup_id>
-
-      <team>Damen</team>
-      <team_id>10782</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>Damen</category>
-      <category_id>10782</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>GCK Lions Frauen</opponent>
-
-      <date>2026-10-04</date>
-      <weekday>Su</weekday>
-      <time_start>15:15</time_start>
-      <time_end>17:15</time_end>
-      <datetime_start>2026-10-04T15:15:00+02:00</datetime_start>
-      <datetime_end>2026-10-04T17:15:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee, 6210 Sursee LU</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">173388</field>
-      <field name="id_group">10782</field>
-      <field name="notes"> </field>
-      <field name="agegroup">Aktiv</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
-      <field name="date">2026-10-04</field>
-      <field name="weekday">Su</field>
-      <field name="start">2026-10-04 15:15:00</field>
-      <field name="end">2026-10-04 17:15:00</field>
-      <field name="time_start">15:15:00</field>
-      <field name="time_end">17:15:00</field>
-      <field name="opponent">GCK Lions Frauen</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173388&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 15:15:00&quot;,&quot;end&quot;:&quot;2026-10-04 17:15:00&quot;,&quot;time_start&quot;:&quot;15:15:00&quot;,&quot;time_end&quot;:&quot;17:15:00&quot;,&quot;opponent&quot;:&quot;GCK Lions Frauen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
       <id>173469</id>
       <uid>mih-88-aeababe2f8fcd272c4235b2f@ehc-sursee.local</uid>
 
@@ -28201,7 +28203,7 @@ Betreuerin: Graus Ladina
       <place>Eissport- und Freizeithalle, 4242 Laufen BL</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Anfahrt mit Büsli. Wer könnte mit dem Büsli fahren?</notes>
       <description></description>
 
       <url></url>
@@ -28209,7 +28211,7 @@ Betreuerin: Graus Ladina
       <source_fields>
       <field name="id_event">173469</field>
       <field name="id_group">10327</field>
-      <field name="notes"> </field>
+      <field name="notes">Anfahrt mit Büsli. Wer könnte mit dem Büsli fahren? </field>
       <field name="agegroup">U14-U16</field>
       <field name="type">Saison</field>
       <field name="event">Spiel (auswärts)</field>
@@ -28227,7 +28229,7 @@ Betreuerin: Graus Ladina
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173469&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 17:15:00&quot;,&quot;end&quot;:&quot;2026-10-04 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Blue&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173469&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot;Anfahrt mit Büsli. Wer könnte mit dem Büsli fahren? &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 17:15:00&quot;,&quot;end&quot;:&quot;2026-10-04 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Blue&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
