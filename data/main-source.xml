@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-03T16:49:36.809Z" start_date="2025-05-04" end_date="2027-05-04" event_count="911">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-04T12:45:29.503Z" start_date="2025-05-04" end_date="2027-05-04" event_count="911">
   <events>
     <event>
       <id>747253</id>
@@ -27793,14 +27793,14 @@ Betreuerin: Graus Ladina
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HCB Chiasso</opponent>
+      <opponent>HCB Chiasso (4-3)</opponent>
 
       <date>2026-10-03</date>
       <weekday>Sa</weekday>
       <time_start>17:15</time_start>
-      <time_end>19:15</time_end>
+      <time_end>19:16</time_end>
       <datetime_start>2026-10-03T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-10-03T19:15:00+02:00</datetime_end>
+      <datetime_end>2026-10-03T19:16:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -27822,16 +27822,16 @@ Betreuerin: Graus Ladina
       <field name="date">2026-10-03</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-03 17:15:00</field>
-      <field name="end">2026-10-03 19:15:00</field>
+      <field name="end">2026-10-03 19:16:11</field>
       <field name="time_start">17:15:00</field>
-      <field name="time_end">19:15:00</field>
-      <field name="opponent">HCB Chiasso</field>
+      <field name="time_end">19:16:11</field>
+      <field name="opponent">HCB Chiasso (4-3)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173430&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 17:15:00&quot;,&quot;end&quot;:&quot;2026-10-03 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HCB Chiasso&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173430&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 17:15:00&quot;,&quot;end&quot;:&quot;2026-10-03 19:16:11&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:16:11&quot;,&quot;opponent&quot;:&quot;HCB Chiasso (4-3)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -27859,14 +27859,14 @@ Betreuerin: Graus Ladina
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Seetal</opponent>
+      <opponent>HC Seetal (9-1)</opponent>
 
       <date>2026-10-03</date>
       <weekday>Sa</weekday>
       <time_start>19:45</time_start>
-      <time_end>21:45</time_end>
+      <time_end>22:00</time_end>
       <datetime_start>2026-10-03T19:45:00+02:00</datetime_start>
-      <datetime_end>2026-10-03T21:45:00+02:00</datetime_end>
+      <datetime_end>2026-10-03T22:00:00+02:00</datetime_end>
 
       <place>Sportzentrum Iceline Seetal, 6281 Hochdorf LU</place>
       <location_id></location_id>
@@ -27888,16 +27888,16 @@ Betreuerin: Graus Ladina
       <field name="date">2026-10-03</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-03 19:45:00</field>
-      <field name="end">2026-10-03 21:45:00</field>
+      <field name="end">2026-10-03 22:00:38</field>
       <field name="time_start">19:45:00</field>
-      <field name="time_end">21:45:00</field>
-      <field name="opponent">HC Seetal</field>
+      <field name="time_end">22:00:38</field>
+      <field name="opponent">HC Seetal (9-1)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170209&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 19:45:00&quot;,&quot;end&quot;:&quot;2026-10-03 21:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170209&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 19:45:00&quot;,&quot;end&quot;:&quot;2026-10-03 22:00:38&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;22:00:38&quot;,&quot;opponent&quot;:&quot;HC Seetal (9-1)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -27925,14 +27925,14 @@ Betreuerin: Graus Ladina
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Koppigen</opponent>
+      <opponent>EHC Koppigen (2-6)</opponent>
 
       <date>2026-10-03</date>
       <weekday>Sa</weekday>
       <time_start>20:30</time_start>
-      <time_end>22:30</time_end>
+      <time_end>22:35</time_end>
       <datetime_start>2026-10-03T20:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-03T22:30:00+02:00</datetime_end>
+      <datetime_end>2026-10-03T22:35:00+02:00</datetime_end>
 
       <place>Localnet Arena, 3400 Burgdorf BE</place>
       <location_id></location_id>
@@ -27954,16 +27954,16 @@ Betreuerin: Graus Ladina
       <field name="date">2026-10-03</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-03 20:30:00</field>
-      <field name="end">2026-10-03 22:30:00</field>
+      <field name="end">2026-10-03 22:35:41</field>
       <field name="time_start">20:30:00</field>
-      <field name="time_end">22:30:00</field>
-      <field name="opponent">EHC Koppigen</field>
+      <field name="time_end">22:35:41</field>
+      <field name="opponent">EHC Koppigen (2-6)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170188&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Localnet Arena, 3400 Burgdorf BE&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 20:30:00&quot;,&quot;end&quot;:&quot;2026-10-03 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Koppigen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170188&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Localnet Arena, 3400 Burgdorf BE&quot;,&quot;date&quot;:&quot;2026-10-03&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-03 20:30:00&quot;,&quot;end&quot;:&quot;2026-10-03 22:35:41&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:35:41&quot;,&quot;opponent&quot;:&quot;EHC Koppigen (2-6)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
