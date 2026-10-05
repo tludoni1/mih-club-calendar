@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-04T17:08:01.597Z" start_date="2025-05-04" end_date="2027-05-04" event_count="911">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-05T15:08:53.506Z" start_date="2025-05-04" end_date="2027-05-04" event_count="911">
   <events>
     <event>
       <id>747253</id>
@@ -28125,14 +28125,14 @@ Das Büsli muss um 14:00 </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Bern 96 Blau</opponent>
+      <opponent>EHC Bern 96 Blau (1-15)</opponent>
 
       <date>2026-10-04</date>
       <weekday>Su</weekday>
       <time_start>17:00</time_start>
-      <time_end>19:00</time_end>
+      <time_end>19:08</time_end>
       <datetime_start>2026-10-04T17:00:00+02:00</datetime_start>
-      <datetime_end>2026-10-04T19:00:00+02:00</datetime_end>
+      <datetime_end>2026-10-04T19:08:00+02:00</datetime_end>
 
       <place>Kunsteisbahn Weyermannshaus, 3027 Bern BE</place>
       <location_id></location_id>
@@ -28154,16 +28154,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-04</field>
       <field name="weekday">Su</field>
       <field name="start">2026-10-04 17:00:00</field>
-      <field name="end">2026-10-04 19:00:00</field>
+      <field name="end">2026-10-04 19:08:22</field>
       <field name="time_start">17:00:00</field>
-      <field name="time_end">19:00:00</field>
-      <field name="opponent">EHC Bern 96 Blau</field>
+      <field name="time_end">19:08:22</field>
+      <field name="opponent">EHC Bern 96 Blau (1-15)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173451&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot;Anreise privat!! Das Büsli ist mit der U16-A2 nach Laufen &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Weyermannshaus, 3027 Bern BE&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 17:00:00&quot;,&quot;end&quot;:&quot;2026-10-04 19:00:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;opponent&quot;:&quot;EHC Bern 96 Blau&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173451&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot;Anreise privat!! Das Büsli ist mit der U16-A2 nach Laufen &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Weyermannshaus, 3027 Bern BE&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 17:00:00&quot;,&quot;end&quot;:&quot;2026-10-04 19:08:22&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:08:22&quot;,&quot;opponent&quot;:&quot;EHC Bern 96 Blau (1-15)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -28191,14 +28191,14 @@ Das Büsli muss um 14:00 </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC NWU Blue</opponent>
+      <opponent>HC NWU Blue (5-7)</opponent>
 
       <date>2026-10-04</date>
       <weekday>Su</weekday>
       <time_start>17:15</time_start>
-      <time_end>19:15</time_end>
+      <time_end>19:09</time_end>
       <datetime_start>2026-10-04T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-10-04T19:15:00+02:00</datetime_end>
+      <datetime_end>2026-10-04T19:09:00+02:00</datetime_end>
 
       <place>Eissport- und Freizeithalle, 4242 Laufen BL</place>
       <location_id></location_id>
@@ -28220,16 +28220,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-04</field>
       <field name="weekday">Su</field>
       <field name="start">2026-10-04 17:15:00</field>
-      <field name="end">2026-10-04 19:15:00</field>
+      <field name="end">2026-10-04 19:09:57</field>
       <field name="time_start">17:15:00</field>
-      <field name="time_end">19:15:00</field>
-      <field name="opponent">HC NWU Blue</field>
+      <field name="time_end">19:09:57</field>
+      <field name="opponent">HC NWU Blue (5-7)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173469&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot;Anfahrt mit Büsli. Wer könnte mit dem Büsli fahren? &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 17:15:00&quot;,&quot;end&quot;:&quot;2026-10-04 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Blue&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173469&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot;Anfahrt mit Büsli. Wer könnte mit dem Büsli fahren? &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 17:15:00&quot;,&quot;end&quot;:&quot;2026-10-04 19:09:57&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:09:57&quot;,&quot;opponent&quot;:&quot;HC NWU Blue (5-7)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -28257,14 +28257,14 @@ Das Büsli muss um 14:00 </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Wisle</opponent>
+      <opponent>HC Wisle (3-12)</opponent>
 
       <date>2026-10-04</date>
       <weekday>Su</weekday>
       <time_start>20:00</time_start>
-      <time_end>22:00</time_end>
+      <time_end>22:08</time_end>
       <datetime_start>2026-10-04T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-10-04T22:00:00+02:00</datetime_end>
+      <datetime_end>2026-10-04T22:08:00+02:00</datetime_end>
 
       <place>Sportzentrum Wislepark, 3076 Worb BE</place>
       <location_id></location_id>
@@ -28286,16 +28286,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-04</field>
       <field name="weekday">Su</field>
       <field name="start">2026-10-04 20:00:00</field>
-      <field name="end">2026-10-04 22:00:00</field>
+      <field name="end">2026-10-04 22:08:57</field>
       <field name="time_start">20:00:00</field>
-      <field name="time_end">22:00:00</field>
-      <field name="opponent">HC Wisle</field>
+      <field name="time_end">22:08:57</field>
+      <field name="opponent">HC Wisle (3-12)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173407&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Wislepark, 3076 Worb BE&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-04 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Wisle&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173407&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Wislepark, 3076 Worb BE&quot;,&quot;date&quot;:&quot;2026-10-04&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-04 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-04 22:08:57&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:08:57&quot;,&quot;opponent&quot;:&quot;HC Wisle (3-12)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -46191,6 +46191,72 @@ Pikett: Bischof Elias </field>
       </raw>
     </event>
     <event>
+      <id>173475</id>
+      <uid>mih-88-a977401395df6db8ef6b90c8@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team>U16-A II</team>
+      <team_id>10327</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U16-A II</category>
+      <category_id>10327</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC NWU Blue</opponent>
+
+      <date>2026-11-28</date>
+      <weekday>Sa</weekday>
+      <time_start>11:30</time_start>
+      <time_end>16:15</time_end>
+      <datetime_start>2026-11-28T11:30:00+02:00</datetime_start>
+      <datetime_end>2026-11-28T16:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">173475</field>
+      <field name="id_group">10327</field>
+      <field name="notes"> </field>
+      <field name="agegroup">U14-U16</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2026-11-28</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2026-11-28 11:30:00</field>
+      <field name="end">2026-11-28 16:15:00</field>
+      <field name="time_start">11:30:00</field>
+      <field name="time_end">16:15:00</field>
+      <field name="opponent">HC NWU Blue</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;173475&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-28&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-28 11:30:00&quot;,&quot;end&quot;:&quot;2026-11-28 16:15:00&quot;,&quot;time_start&quot;:&quot;11:30:00&quot;,&quot;time_end&quot;:&quot;16:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Blue&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>176524</id>
       <uid>mih-88-e15a11323084a3870867c338@ehc-sursee.local</uid>
 
@@ -46254,72 +46320,6 @@ Pikett: Bischof Elias </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;176524&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Iceline Seetal&quot;,&quot;date&quot;:&quot;2026-11-28&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-28 14:00:00&quot;,&quot;end&quot;:&quot;2026-11-28 16:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Wohlen, LUNOXX, Olten&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>173475</id>
-      <uid>mih-88-a977401395df6db8ef6b90c8@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team>U16-A II</team>
-      <team_id>10327</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U16-A II</category>
-      <category_id>10327</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>HC NWU Blue</opponent>
-
-      <date>2026-11-28</date>
-      <weekday>Sa</weekday>
-      <time_start>14:15</time_start>
-      <time_end>16:15</time_end>
-      <datetime_start>2026-11-28T14:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-28T16:15:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee, 6210 Sursee LU</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">173475</field>
-      <field name="id_group">10327</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
-      <field name="date">2026-11-28</field>
-      <field name="weekday">Sa</field>
-      <field name="start">2026-11-28 14:15:00</field>
-      <field name="end">2026-11-28 16:15:00</field>
-      <field name="time_start">14:15:00</field>
-      <field name="time_end">16:15:00</field>
-      <field name="opponent">HC NWU Blue</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173475&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-28&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-28 14:15:00&quot;,&quot;end&quot;:&quot;2026-11-28 16:15:00&quot;,&quot;time_start&quot;:&quot;14:15:00&quot;,&quot;time_end&quot;:&quot;16:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Blue&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
