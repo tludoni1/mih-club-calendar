@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-06T13:31:06.505Z" start_date="2025-05-04" end_date="2027-05-04" event_count="911">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-06T18:40:22.349Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
   <events>
     <event>
       <id>747253</id>
@@ -29751,8 +29751,8 @@ Das Büsli muss um 14:00 </field>
       </raw>
     </event>
     <event>
-      <id>818327</id>
-      <uid>mih-88-be18e154f7785cfccb6cca94@ehc-sursee.local</uid>
+      <id>862342</id>
+      <uid>mih-88-6d2b8c1c488982412fc8ca4d@ehc-sursee.local</uid>
 
       <type_event>P</type_event>
       <event>Training</event>
@@ -29764,11 +29764,11 @@ Das Büsli muss um 14:00 </field>
       <team></team>
       <team_id></team_id>
 
-      <practice_group>1. Mannschaft</practice_group>
-      <practice_group_id>15268</practice_group_id>
+      <practice_group>Senioren</practice_group>
+      <practice_group_id>15271</practice_group_id>
 
-      <category>1. Mannschaft</category>
-      <category_id>15268</category_id>
+      <category>Senioren</category>
+      <category_id>15271</category_id>
 
       <mapping_status>mapped</mapping_status>
 
@@ -29793,10 +29793,10 @@ Das Büsli muss um 14:00 </field>
       <url></url>
 
       <source_fields>
-      <field name="id_event">818327</field>
-      <field name="id_group">15268</field>
+      <field name="id_event">862342</field>
+      <field name="id_group">15271</field>
       <field name="notes"> </field>
-      <field name="agegroup">Aktiv (1. Mannschaft)</field>
+      <field name="agegroup">Aktiv (Senioren)</field>
       <field name="type">Eistraining</field>
       <field name="event">Training</field>
       <field name="type_event">P</field>
@@ -29813,7 +29813,73 @@ Das Büsli muss um 14:00 </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;818327&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-07&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-07 21:00:00&quot;,&quot;end&quot;:&quot;2026-10-07 22:00:00&quot;,&quot;time_start&quot;:&quot;21:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;862342&quot;,&quot;id_group&quot;:&quot;15271&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (Senioren)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-07&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-07 21:00:00&quot;,&quot;end&quot;:&quot;2026-10-07 22:00:00&quot;,&quot;time_start&quot;:&quot;21:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>862343</id>
+      <uid>mih-88-cc5edae64ca163892fa5539f@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>2. Mannschaft</practice_group>
+      <practice_group_id>15269</practice_group_id>
+
+      <category>2. Mannschaft</category>
+      <category_id>15269</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Eistraining</type>
+      <type_id>P2</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-10-07</date>
+      <weekday>We</weekday>
+      <time_start>21:00</time_start>
+      <time_end>22:00</time_end>
+      <datetime_start>2026-10-07T21:00:00+02:00</datetime_start>
+      <datetime_end>2026-10-07T22:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">862343</field>
+      <field name="id_group">15269</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv (2. Mannschaft)</field>
+      <field name="type">Eistraining</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-10-07</field>
+      <field name="weekday">We</field>
+      <field name="start">2026-10-07 21:00:00</field>
+      <field name="end">2026-10-07 22:00:00</field>
+      <field name="time_start">21:00:00</field>
+      <field name="time_end">22:00:00</field>
+      <field name="type_type">P2</field>
+      <field name="color">#1184ea</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;862343&quot;,&quot;id_group&quot;:&quot;15269&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (2. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-07&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-07 21:00:00&quot;,&quot;end&quot;:&quot;2026-10-07 22:00:00&quot;,&quot;time_start&quot;:&quot;21:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
