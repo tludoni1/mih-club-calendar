@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-07T19:07:07.030Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-08T13:52:25.944Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
   <events>
     <event>
       <id>747253</id>
@@ -29709,14 +29709,14 @@ Das Büsli muss um 14:00 </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Luzern</opponent>
+      <opponent>HC Luzern (1-2)</opponent>
 
       <date>2026-10-07</date>
       <weekday>We</weekday>
       <time_start>20:00</time_start>
-      <time_end>22:00</time_end>
+      <time_end>21:56</time_end>
       <datetime_start>2026-10-07T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-10-07T22:00:00+02:00</datetime_end>
+      <datetime_end>2026-10-07T21:56:00+02:00</datetime_end>
 
       <place>Regionales Eiszentrum AG, 6005 Luzern LU</place>
       <location_id></location_id>
@@ -29738,16 +29738,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-07</field>
       <field name="weekday">We</field>
       <field name="start">2026-10-07 20:00:00</field>
-      <field name="end">2026-10-07 22:00:00</field>
+      <field name="end">2026-10-07 21:56:12</field>
       <field name="time_start">20:00:00</field>
-      <field name="time_end">22:00:00</field>
-      <field name="opponent">HC Luzern</field>
+      <field name="time_end">21:56:12</field>
+      <field name="opponent">HC Luzern (1-2)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173408&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2026-10-07&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-07 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-07 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173408&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2026-10-07&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-07 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-07 21:56:12&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:56:12&quot;,&quot;opponent&quot;:&quot;HC Luzern (1-2)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -40094,7 +40094,8 @@ Betreuerin: Penasa Gaby </field>
       <place>Academy Arena Zug</place>
       <location_id></location_id>
 
-      <notes>Pikett: Cordes Liam</notes>
+      <notes>Pikett: Cordes Liam
+BetreuerIn: Felber Florian</notes>
       <description></description>
 
       <url></url>
@@ -40102,7 +40103,8 @@ Betreuerin: Penasa Gaby </field>
       <source_fields>
       <field name="id_event">176181</field>
       <field name="id_group">10319</field>
-      <field name="notes">Pikett: Cordes Liam </field>
+      <field name="notes">Pikett: Cordes Liam
+BetreuerIn: Felber Florian </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -40120,7 +40122,7 @@ Betreuerin: Penasa Gaby </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176181&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Cordes Liam &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 15:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 17:30:00&quot;,&quot;time_start&quot;:&quot;15:00:00&quot;,&quot;time_end&quot;:&quot;17:30:00&quot;,&quot;opponent&quot;:&quot;Luzern, EV Zug, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176181&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Cordes Liam\r\nBetreuerIn: Felber Florian &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 15:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 17:30:00&quot;,&quot;time_start&quot;:&quot;15:00:00&quot;,&quot;time_end&quot;:&quot;17:30:00&quot;,&quot;opponent&quot;:&quot;Luzern, EV Zug, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
