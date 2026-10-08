@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-08T13:52:25.944Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-08T19:03:02.233Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
   <events>
     <event>
       <id>747253</id>
@@ -40095,7 +40095,7 @@ Betreuerin: Penasa Gaby </field>
       <location_id></location_id>
 
       <notes>Pikett: Cordes Liam
-BetreuerIn: Felber Florian</notes>
+BetreuerIn: Bosshart Martina, Felber Florian</notes>
       <description></description>
 
       <url></url>
@@ -40104,7 +40104,7 @@ BetreuerIn: Felber Florian</notes>
       <field name="id_event">176181</field>
       <field name="id_group">10319</field>
       <field name="notes">Pikett: Cordes Liam
-BetreuerIn: Felber Florian </field>
+BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -40122,7 +40122,7 @@ BetreuerIn: Felber Florian </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176181&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Cordes Liam\r\nBetreuerIn: Felber Florian &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 15:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 17:30:00&quot;,&quot;time_start&quot;:&quot;15:00:00&quot;,&quot;time_end&quot;:&quot;17:30:00&quot;,&quot;opponent&quot;:&quot;Luzern, EV Zug, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176181&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Cordes Liam\r\nBetreuerIn: Bosshart Martina, Felber Florian &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 15:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 17:30:00&quot;,&quot;time_start&quot;:&quot;15:00:00&quot;,&quot;time_end&quot;:&quot;17:30:00&quot;,&quot;opponent&quot;:&quot;Luzern, EV Zug, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
