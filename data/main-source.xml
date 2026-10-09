@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-08T19:03:02.233Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-09T13:37:20.904Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
   <events>
     <event>
       <id>747253</id>
@@ -30171,14 +30171,14 @@ Das Büsli muss um 14:00 </field>
       <type>Freundschaft</type>
       <type_id>G1</type_id>
 
-      <opponent>EHC Thalwil</opponent>
+      <opponent>EHC Thalwil (2-14)</opponent>
 
       <date>2026-10-08</date>
       <weekday>Th</weekday>
       <time_start>17:00</time_start>
-      <time_end>19:00</time_end>
+      <time_end>18:52</time_end>
       <datetime_start>2026-10-08T17:00:00+02:00</datetime_start>
-      <datetime_end>2026-10-08T19:00:00+02:00</datetime_end>
+      <datetime_end>2026-10-08T18:52:00+02:00</datetime_end>
 
       <place>Eishalle Campus Huttwil, 4953 Schwarzenbach BE</place>
       <location_id></location_id>
@@ -30200,16 +30200,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-08</field>
       <field name="weekday">Th</field>
       <field name="start">2026-10-08 17:00:00</field>
-      <field name="end">2026-10-08 19:00:00</field>
+      <field name="end">2026-10-08 18:52:50</field>
       <field name="time_start">17:00:00</field>
-      <field name="time_end">19:00:00</field>
-      <field name="opponent">EHC Thalwil</field>
+      <field name="time_end">18:52:50</field>
+      <field name="opponent">EHC Thalwil (2-14)</field>
       <field name="type_type">G1</field>
       <field name="color">#81c881</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;184220&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot;Liebe Oltenspieler: Gebt mir bitte Bescheid, ob ihr direkt nach &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Campus Huttwil, 4953 Schwarzenbach BE&quot;,&quot;date&quot;:&quot;2026-10-08&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-08 17:00:00&quot;,&quot;end&quot;:&quot;2026-10-08 19:00:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;opponent&quot;:&quot;EHC Thalwil&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;184220&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot;Liebe Oltenspieler: Gebt mir bitte Bescheid, ob ihr direkt nach &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Campus Huttwil, 4953 Schwarzenbach BE&quot;,&quot;date&quot;:&quot;2026-10-08&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-10-08 17:00:00&quot;,&quot;end&quot;:&quot;2026-10-08 18:52:50&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;18:52:50&quot;,&quot;opponent&quot;:&quot;EHC Thalwil (2-14)&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
