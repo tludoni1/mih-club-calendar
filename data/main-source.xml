@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-10T17:30:23.321Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-11T13:17:46.733Z" start_date="2025-05-04" end_date="2027-05-04" event_count="912">
   <events>
     <event>
       <id>747253</id>
@@ -30435,14 +30435,14 @@ Das Büsli muss um 14:00 </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Rheinfelden</opponent>
+      <opponent>EHC Rheinfelden (0-0)</opponent>
 
       <date>2026-10-10</date>
       <weekday>Sa</weekday>
       <time_start>17:30</time_start>
-      <time_end>19:30</time_end>
+      <time_end>00:00</time_end>
       <datetime_start>2026-10-10T17:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-10T19:30:00+02:00</datetime_end>
+      <datetime_end>2026-10-10T00:00:00+02:00</datetime_end>
 
       <place>Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</place>
       <location_id></location_id>
@@ -30464,16 +30464,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-10</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-10 17:30:00</field>
-      <field name="end">2026-10-10 19:30:00</field>
+      <field name="end">2026-10-10 00:00:00</field>
       <field name="time_start">17:30:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="opponent">EHC Rheinfelden</field>
+      <field name="time_end">00:00:00</field>
+      <field name="opponent">EHC Rheinfelden (0-0)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170189&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-10 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170189&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-10 00:00:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;00:00:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden (0-0)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -30501,14 +30501,14 @@ Das Büsli muss um 14:00 </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>KSC Küssnacht am Rigi II</opponent>
+      <opponent>KSC Küssnacht am Rigi II (2-6)</opponent>
 
       <date>2026-10-10</date>
       <weekday>Sa</weekday>
       <time_start>18:45</time_start>
-      <time_end>20:45</time_end>
+      <time_end>20:58</time_end>
       <datetime_start>2026-10-10T18:45:00+02:00</datetime_start>
-      <datetime_end>2026-10-10T20:45:00+02:00</datetime_end>
+      <datetime_end>2026-10-10T20:58:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -30530,16 +30530,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-10</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-10 18:45:00</field>
-      <field name="end">2026-10-10 20:45:00</field>
+      <field name="end">2026-10-10 20:58:57</field>
       <field name="time_start">18:45:00</field>
-      <field name="time_end">20:45:00</field>
-      <field name="opponent">KSC Küssnacht am Rigi II</field>
+      <field name="time_end">20:58:57</field>
+      <field name="opponent">KSC Küssnacht am Rigi II (2-6)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170210&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 18:45:00&quot;,&quot;end&quot;:&quot;2026-10-10 20:45:00&quot;,&quot;time_start&quot;:&quot;18:45:00&quot;,&quot;time_end&quot;:&quot;20:45:00&quot;,&quot;opponent&quot;:&quot;KSC Küssnacht am Rigi II&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170210&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 18:45:00&quot;,&quot;end&quot;:&quot;2026-10-10 20:58:57&quot;,&quot;time_start&quot;:&quot;18:45:00&quot;,&quot;time_end&quot;:&quot;20:58:57&quot;,&quot;opponent&quot;:&quot;KSC Küssnacht am Rigi II (2-6)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -30567,14 +30567,14 @@ Das Büsli muss um 14:00 </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Bassersdorf Ladies</opponent>
+      <opponent>EHC Bassersdorf Ladies (1-4)</opponent>
 
       <date>2026-10-10</date>
       <weekday>Sa</weekday>
       <time_start>20:00</time_start>
-      <time_end>22:00</time_end>
+      <time_end>21:53</time_end>
       <datetime_start>2026-10-10T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-10-10T22:00:00+02:00</datetime_end>
+      <datetime_end>2026-10-10T21:53:00+02:00</datetime_end>
 
       <place>Sportanlagen AG Wallisellen, 8304 Wallisellen ZH</place>
       <location_id></location_id>
@@ -30596,16 +30596,16 @@ Das Büsli muss um 14:00 </field>
       <field name="date">2026-10-10</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-10 20:00:00</field>
-      <field name="end">2026-10-10 22:00:00</field>
+      <field name="end">2026-10-10 21:53:47</field>
       <field name="time_start">20:00:00</field>
-      <field name="time_end">22:00:00</field>
-      <field name="opponent">EHC Bassersdorf Ladies</field>
+      <field name="time_end">21:53:47</field>
+      <field name="opponent">EHC Bassersdorf Ladies (1-4)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173389&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportanlagen AG Wallisellen, 8304 Wallisellen ZH&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-10 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;EHC Bassersdorf Ladies&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173389&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportanlagen AG Wallisellen, 8304 Wallisellen ZH&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 20:00:00&quot;,&quot;end&quot;:&quot;2026-10-10 21:53:47&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:53:47&quot;,&quot;opponent&quot;:&quot;EHC Bassersdorf Ladies (1-4)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -55270,9 +55270,9 @@ Betreuerin: Frey Cécile </field>
 
       <date>2027-01-17</date>
       <weekday>Su</weekday>
-      <time_start>16:30</time_start>
+      <time_start>14:00</time_start>
       <time_end>18:30</time_end>
-      <datetime_start>2027-01-17T16:30:00+02:00</datetime_start>
+      <datetime_start>2027-01-17T14:00:00+02:00</datetime_start>
       <datetime_end>2027-01-17T18:30:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
@@ -55294,9 +55294,9 @@ Betreuerin: Frey Cécile </field>
       <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
       <field name="date">2027-01-17</field>
       <field name="weekday">Su</field>
-      <field name="start">2027-01-17 16:30:00</field>
+      <field name="start">2027-01-17 14:00:00</field>
       <field name="end">2027-01-17 18:30:00</field>
-      <field name="time_start">16:30:00</field>
+      <field name="time_start">14:00:00</field>
       <field name="time_end">18:30:00</field>
       <field name="opponent">HC Thurgau Ladies</field>
       <field name="type_type">G3</field>
@@ -55304,7 +55304,7 @@ Betreuerin: Frey Cécile </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173405&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-17&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-01-17 16:30:00&quot;,&quot;end&quot;:&quot;2027-01-17 18:30:00&quot;,&quot;time_start&quot;:&quot;16:30:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;opponent&quot;:&quot;HC Thurgau Ladies&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173405&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-17&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-01-17 14:00:00&quot;,&quot;end&quot;:&quot;2027-01-17 18:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;opponent&quot;:&quot;HC Thurgau Ladies&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
