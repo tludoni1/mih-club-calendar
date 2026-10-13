@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-12T21:26:40.673Z" start_date="2025-05-04" end_date="2027-05-04" event_count="938">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-13T14:29:07.637Z" start_date="2025-05-04" end_date="2027-05-04" event_count="938">
   <events>
     <event>
       <id>747253</id>
@@ -31895,10 +31895,10 @@ Coach: Felder </field>
 
       <date>2026-10-14</date>
       <weekday>We</weekday>
-      <time_start>20:30</time_start>
-      <time_end>21:45</time_end>
-      <datetime_start>2026-10-14T20:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-14T21:45:00+02:00</datetime_end>
+      <time_start>21:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-10-14T21:15:00+02:00</datetime_start>
+      <datetime_end>2026-10-14T22:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -31919,17 +31919,17 @@ Coach: Felder </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-10-14</field>
       <field name="weekday">We</field>
-      <field name="start">2026-10-14 20:30:00</field>
-      <field name="end">2026-10-14 21:45:00</field>
-      <field name="time_start">20:30:00</field>
-      <field name="time_end">21:45:00</field>
+      <field name="start">2026-10-14 21:15:00</field>
+      <field name="end">2026-10-14 22:15:00</field>
+      <field name="time_start">21:15:00</field>
+      <field name="time_end">22:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;824329&quot;,&quot;id_group&quot;:&quot;14240&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21 (U21)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-14&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-14 20:30:00&quot;,&quot;end&quot;:&quot;2026-10-14 21:45:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;824329&quot;,&quot;id_group&quot;:&quot;14240&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21 (U21)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-14&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-14 21:15:00&quot;,&quot;end&quot;:&quot;2026-10-14 22:15:00&quot;,&quot;time_start&quot;:&quot;21:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -31961,10 +31961,10 @@ Coach: Felder </field>
 
       <date>2026-10-14</date>
       <weekday>We</weekday>
-      <time_start>20:30</time_start>
-      <time_end>21:45</time_end>
-      <datetime_start>2026-10-14T20:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-14T21:45:00+02:00</datetime_end>
+      <time_start>21:15</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-10-14T21:15:00+02:00</datetime_start>
+      <datetime_end>2026-10-14T22:15:00+02:00</datetime_end>
 
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
@@ -31985,17 +31985,17 @@ Coach: Felder </field>
       <field name="place">Eishalle Sursee - Eisfeld</field>
       <field name="date">2026-10-14</field>
       <field name="weekday">We</field>
-      <field name="start">2026-10-14 20:30:00</field>
-      <field name="end">2026-10-14 21:45:00</field>
-      <field name="time_start">20:30:00</field>
-      <field name="time_end">21:45:00</field>
+      <field name="start">2026-10-14 21:15:00</field>
+      <field name="end">2026-10-14 22:15:00</field>
+      <field name="time_start">21:15:00</field>
+      <field name="time_end">22:15:00</field>
       <field name="type_type">P2</field>
       <field name="color">#1184ea</field>
       <field name="opponent"></field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;824335&quot;,&quot;id_group&quot;:&quot;15269&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (2. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-14&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-14 20:30:00&quot;,&quot;end&quot;:&quot;2026-10-14 21:45:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;824335&quot;,&quot;id_group&quot;:&quot;15269&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (2. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-14&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-10-14 21:15:00&quot;,&quot;end&quot;:&quot;2026-10-14 22:15:00&quot;,&quot;time_start&quot;:&quot;21:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
