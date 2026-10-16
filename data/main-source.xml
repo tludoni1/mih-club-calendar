@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-15T17:25:32.226Z" start_date="2025-05-04" end_date="2027-05-04" event_count="942">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-16T11:46:41.901Z" start_date="2025-05-04" end_date="2027-05-04" event_count="943">
   <events>
     <event>
       <id>747253</id>
@@ -33715,6 +33715,72 @@ Coach: Felder </field>
       </raw>
     </event>
     <event>
+      <id>865604</id>
+      <uid>mih-88-8a33fdd424e3084d1bcfe0a1@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>Senioren</practice_group>
+      <practice_group_id>15271</practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>15271</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Eistraining</type>
+      <type_id>P2</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-10-19</date>
+      <weekday>Mo</weekday>
+      <time_start>22:00</time_start>
+      <time_end>23:15</time_end>
+      <datetime_start>2026-10-19T22:00:00+02:00</datetime_start>
+      <datetime_end>2026-10-19T23:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes>Für Liga Spieler</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">865604</field>
+      <field name="id_group">15271</field>
+      <field name="notes">Für Liga Spieler </field>
+      <field name="agegroup">Aktiv (Senioren)</field>
+      <field name="type">Eistraining</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-10-19</field>
+      <field name="weekday">Mo</field>
+      <field name="start">2026-10-19 22:00:00</field>
+      <field name="end">2026-10-19 23:15:00</field>
+      <field name="time_start">22:00:00</field>
+      <field name="time_end">23:15:00</field>
+      <field name="type_type">P2</field>
+      <field name="color">#1184ea</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;865604&quot;,&quot;id_group&quot;:&quot;15271&quot;,&quot;notes&quot;:&quot;Für Liga Spieler &quot;,&quot;agegroup&quot;:&quot;Aktiv (Senioren)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-10-19&quot;,&quot;weekday&quot;:&quot;Mo&quot;,&quot;start&quot;:&quot;2026-10-19 22:00:00&quot;,&quot;end&quot;:&quot;2026-10-19 23:15:00&quot;,&quot;time_start&quot;:&quot;22:00:00&quot;,&quot;time_end&quot;:&quot;23:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>831692</id>
       <uid>mih-88-3e741dfc1f597213511e1291@ehc-sursee.local</uid>
 
@@ -40224,7 +40290,9 @@ Pikett: Felder Lino Jan
       <place>Sportpark Olten (Aussenfeld)</place>
       <location_id></location_id>
 
-      <notes>Pikett: Sven Erismann</notes>
+      <notes>1.Pikett: Sven Erismann
+2.Pikett: Diego Tenisch
+3.Pikett: Noe</notes>
       <description></description>
 
       <url></url>
@@ -40232,7 +40300,9 @@ Pikett: Felder Lino Jan
       <source_fields>
       <field name="id_event">176503</field>
       <field name="id_group">10321</field>
-      <field name="notes">Pikett: Sven Erismann </field>
+      <field name="notes">1.Pikett: Sven Erismann
+2.Pikett: Diego Tenisch
+3.Pikett: Noe </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -40250,7 +40320,7 @@ Pikett: Felder Lino Jan
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176503&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;Pikett: Sven Erismann &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportpark Olten (Aussenfeld)&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 17:00:00&quot;,&quot;end&quot;:&quot;2026-11-07 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Wohlen, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176503&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;1.Pikett: Sven Erismann\r\n2.Pikett: Diego Tenisch\r\n3.Pikett: Noe &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportpark Olten (Aussenfeld)&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 17:00:00&quot;,&quot;end&quot;:&quot;2026-11-07 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Wohlen, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -44914,9 +44984,9 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
 
-      <notes>1 Pikett: Even Hecht 
-2 Pikett: Noan Bühler
-3 Pikett: Yannick</notes>
+      <notes>1.Pikett: Even Hecht 
+2.Pikett: Noan Bühler
+3.Pikett: Yannick</notes>
       <description></description>
 
       <url></url>
@@ -44924,9 +44994,9 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <source_fields>
       <field name="id_event">176504</field>
       <field name="id_group">10321</field>
-      <field name="notes">1 Pikett: Even Hecht 
-2 Pikett: Noan Bühler
-3 Pikett: Yannick </field>
+      <field name="notes">1.Pikett: Even Hecht 
+2.Pikett: Noan Bühler
+3.Pikett: Yannick </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel</field>
@@ -44944,7 +45014,7 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176504&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;1 Pikett: Even Hecht \r\n2 Pikett: Noan Bühler\r\n3 Pikett: Yannick &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 11:30:00&quot;,&quot;end&quot;:&quot;2026-11-21 14:00:00&quot;,&quot;time_start&quot;:&quot;11:30:00&quot;,&quot;time_end&quot;:&quot;14:00:00&quot;,&quot;opponent&quot;:&quot;Luzern, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176504&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;1.Pikett: Even Hecht \r\n2.Pikett: Noan Bühler\r\n3.Pikett: Yannick &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 11:30:00&quot;,&quot;end&quot;:&quot;2026-11-21 14:00:00&quot;,&quot;time_start&quot;:&quot;11:30:00&quot;,&quot;time_end&quot;:&quot;14:00:00&quot;,&quot;opponent&quot;:&quot;Luzern, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -47364,7 +47434,7 @@ Pikett: Ennio Kappeler </field>
       <place>Iceline Seetal</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Betreuung: Petra Mózes- Komoróczy</notes>
       <description></description>
 
       <url></url>
@@ -47372,7 +47442,7 @@ Pikett: Ennio Kappeler </field>
       <source_fields>
       <field name="id_event">176524</field>
       <field name="id_group">10323</field>
-      <field name="notes"> </field>
+      <field name="notes">Betreuung: Petra Mózes- Komoróczy </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -47390,7 +47460,7 @@ Pikett: Ennio Kappeler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176524&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Iceline Seetal&quot;,&quot;date&quot;:&quot;2026-11-28&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-28 14:00:00&quot;,&quot;end&quot;:&quot;2026-11-28 16:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Wohlen, LUNOXX, Olten&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176524&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Betreuung: Petra Mózes- Komoróczy &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Iceline Seetal&quot;,&quot;date&quot;:&quot;2026-11-28&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-28 14:00:00&quot;,&quot;end&quot;:&quot;2026-11-28 16:30:00&quot;,&quot;time_start&quot;:&quot;14:00:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;Wohlen, LUNOXX, Olten&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
