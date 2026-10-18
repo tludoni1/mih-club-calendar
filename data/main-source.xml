@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-18T11:34:41.763Z" start_date="2025-05-04" end_date="2027-05-04" event_count="943">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-18T16:11:55.367Z" start_date="2025-05-04" end_date="2027-05-04" event_count="943">
   <events>
     <event>
       <id>747253</id>
@@ -33079,14 +33079,14 @@ Coach: Felder </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>Argovia Stars</opponent>
+      <opponent>Argovia Stars (2-5)</opponent>
 
       <date>2026-10-18</date>
       <weekday>Su</weekday>
       <time_start>12:15</time_start>
-      <time_end>14:15</time_end>
+      <time_end>14:06</time_end>
       <datetime_start>2026-10-18T12:15:00+02:00</datetime_start>
-      <datetime_end>2026-10-18T14:15:00+02:00</datetime_end>
+      <datetime_end>2026-10-18T14:06:00+02:00</datetime_end>
 
       <place>Kunsteisbahn Region Aarau, 5000 Aarau AG</place>
       <location_id></location_id>
@@ -33108,16 +33108,16 @@ Coach: Felder </field>
       <field name="date">2026-10-18</field>
       <field name="weekday">Su</field>
       <field name="start">2026-10-18 12:15:00</field>
-      <field name="end">2026-10-18 14:15:00</field>
+      <field name="end">2026-10-18 14:06:18</field>
       <field name="time_start">12:15:00</field>
-      <field name="time_end">14:15:00</field>
-      <field name="opponent">Argovia Stars</field>
+      <field name="time_end">14:06:18</field>
+      <field name="opponent">Argovia Stars (2-5)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173452&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Region Aarau, 5000 Aarau AG&quot;,&quot;date&quot;:&quot;2026-10-18&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-18 12:15:00&quot;,&quot;end&quot;:&quot;2026-10-18 14:15:00&quot;,&quot;time_start&quot;:&quot;12:15:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173452&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Region Aarau, 5000 Aarau AG&quot;,&quot;date&quot;:&quot;2026-10-18&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-10-18 12:15:00&quot;,&quot;end&quot;:&quot;2026-10-18 14:06:18&quot;,&quot;time_start&quot;:&quot;12:15:00&quot;,&quot;time_end&quot;:&quot;14:06:18&quot;,&quot;opponent&quot;:&quot;Argovia Stars (2-5)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
