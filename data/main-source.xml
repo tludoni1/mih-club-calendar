@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-22T17:42:00.867Z" start_date="2025-05-04" end_date="2027-05-04" event_count="944">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-23T11:57:32.482Z" start_date="2025-05-04" end_date="2027-05-04" event_count="944">
   <events>
     <event>
       <id>747253</id>
@@ -40356,9 +40356,8 @@ Pikett: Felder Lino Jan
       <place>Sportpark Olten (Aussenfeld)</place>
       <location_id></location_id>
 
-      <notes>1.Pikett: Sven Erismann
-2.Pikett: Diego Tenisch
-3.Pikett: Noe</notes>
+      <notes>1.Pikett: Diego Tenisch
+2.Pikett: Noe Hecht</notes>
       <description></description>
 
       <url></url>
@@ -40366,9 +40365,8 @@ Pikett: Felder Lino Jan
       <source_fields>
       <field name="id_event">176503</field>
       <field name="id_group">10321</field>
-      <field name="notes">1.Pikett: Sven Erismann
-2.Pikett: Diego Tenisch
-3.Pikett: Noe </field>
+      <field name="notes">1.Pikett: Diego Tenisch
+2.Pikett: Noe Hecht </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -40386,7 +40384,7 @@ Pikett: Felder Lino Jan
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176503&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;1.Pikett: Sven Erismann\r\n2.Pikett: Diego Tenisch\r\n3.Pikett: Noe &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportpark Olten (Aussenfeld)&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 17:00:00&quot;,&quot;end&quot;:&quot;2026-11-07 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Wohlen, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176503&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;1.Pikett: Diego Tenisch\r\n2.Pikett: Noe Hecht &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportpark Olten (Aussenfeld)&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 17:00:00&quot;,&quot;end&quot;:&quot;2026-11-07 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Wohlen, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
