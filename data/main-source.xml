@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-30T18:18:06.584Z" start_date="2025-05-04" end_date="2027-05-04" event_count="945">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-31T12:57:07.191Z" start_date="2025-05-04" end_date="2027-05-04" event_count="945">
   <events>
     <event>
       <id>747253</id>
@@ -38271,72 +38271,6 @@ Pikett: Bischof Elias </field>
       </raw>
     </event>
     <event>
-      <id>170193</id>
-      <uid>mih-88-9cf1a4bc4326bb8fed4d8bd3@ehc-sursee.local</uid>
-
-      <type_event>GH</type_event>
-      <event>Spiel</event>
-      <title>Spiel</title>
-
-      <agegroup>Aktiv</agegroup>
-      <agegroup_id>63</agegroup_id>
-
-      <team>1. Mannschaft</team>
-      <team_id>10780</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>1. Mannschaft</category>
-      <category_id>10780</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>EHC Zunzgen-Sissach</opponent>
-
-      <date>2026-10-31</date>
-      <weekday>Sa</weekday>
-      <time_start>17:30</time_start>
-      <time_end>19:30</time_end>
-      <datetime_start>2026-10-31T17:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-31T19:30:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee, 6210 Sursee LU</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">170193</field>
-      <field name="id_group">10780</field>
-      <field name="notes"> </field>
-      <field name="agegroup">Aktiv</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel</field>
-      <field name="type_event">GH</field>
-      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
-      <field name="date">2026-10-31</field>
-      <field name="weekday">Sa</field>
-      <field name="start">2026-10-31 17:30:00</field>
-      <field name="end">2026-10-31 19:30:00</field>
-      <field name="time_start">17:30:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="opponent">EHC Zunzgen-Sissach</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170193&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-31 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Zunzgen-Sissach&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
       <id>173394</id>
       <uid>mih-88-3b2d3c796a3a7820bb8bee16@ehc-sursee.local</uid>
 
@@ -58019,6 +57953,72 @@ Pikett: Ennio Kappeler </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;173480&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2027-01-24&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2027-01-24 17:15:00&quot;,&quot;end&quot;:&quot;2027-01-24 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Blue&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170193</id>
+      <uid>mih-88-9cf1a4bc4326bb8fed4d8bd3@ehc-sursee.local</uid>
+
+      <type_event>GH</type_event>
+      <event>Spiel</event>
+      <title>Spiel</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Zunzgen-Sissach</opponent>
+
+      <date>2027-01-26</date>
+      <weekday>Tu</weekday>
+      <time_start>20:30</time_start>
+      <time_end>19:30</time_end>
+      <datetime_start>2027-01-26T20:30:00+02:00</datetime_start>
+      <datetime_end>2027-01-26T19:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee, 6210 Sursee LU</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170193</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel</field>
+      <field name="type_event">GH</field>
+      <field name="place">Eishalle Sursee, 6210 Sursee LU</field>
+      <field name="date">2027-01-26</field>
+      <field name="weekday">Tu</field>
+      <field name="start">2027-01-26 20:30:00</field>
+      <field name="end">2027-01-26 19:30:00</field>
+      <field name="time_start">20:30:00</field>
+      <field name="time_end">19:30:00</field>
+      <field name="opponent">EHC Zunzgen-Sissach</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170193&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-26&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2027-01-26 20:30:00&quot;,&quot;end&quot;:&quot;2027-01-26 19:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Zunzgen-Sissach&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
