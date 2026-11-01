@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-10-31T17:24:39.637Z" start_date="2025-05-04" end_date="2027-05-04" event_count="945">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-01T13:41:55.005Z" start_date="2025-05-04" end_date="2027-05-04" event_count="945">
   <events>
     <event>
       <id>747253</id>
@@ -38163,14 +38163,14 @@ Pikett: Bischof Elias </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Basel Nachwuchs</opponent>
+      <opponent>EHC Basel Nachwuchs (5-4)</opponent>
 
       <date>2026-10-31</date>
       <weekday>Sa</weekday>
       <time_start>14:15</time_start>
-      <time_end>16:15</time_end>
+      <time_end>16:16</time_end>
       <datetime_start>2026-10-31T14:15:00+02:00</datetime_start>
-      <datetime_end>2026-10-31T16:15:00+02:00</datetime_end>
+      <datetime_end>2026-10-31T16:16:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -38192,16 +38192,16 @@ Pikett: Bischof Elias </field>
       <field name="date">2026-10-31</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-31 14:15:00</field>
-      <field name="end">2026-10-31 16:15:00</field>
+      <field name="end">2026-10-31 16:16:32</field>
       <field name="time_start">14:15:00</field>
-      <field name="time_end">16:15:00</field>
-      <field name="opponent">EHC Basel Nachwuchs</field>
+      <field name="time_end">16:16:32</field>
+      <field name="opponent">EHC Basel Nachwuchs (5-4)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173453&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 14:15:00&quot;,&quot;end&quot;:&quot;2026-10-31 16:15:00&quot;,&quot;time_start&quot;:&quot;14:15:00&quot;,&quot;time_end&quot;:&quot;16:15:00&quot;,&quot;opponent&quot;:&quot;EHC Basel Nachwuchs&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173453&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 14:15:00&quot;,&quot;end&quot;:&quot;2026-10-31 16:16:32&quot;,&quot;time_start&quot;:&quot;14:15:00&quot;,&quot;time_end&quot;:&quot;16:16:32&quot;,&quot;opponent&quot;:&quot;EHC Basel Nachwuchs (5-4)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -38229,14 +38229,14 @@ Pikett: Bischof Elias </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Luzern</opponent>
+      <opponent>HC Luzern (4-1)</opponent>
 
       <date>2026-10-31</date>
       <weekday>Sa</weekday>
       <time_start>16:45</time_start>
-      <time_end>22:15</time_end>
+      <time_end>18:46</time_end>
       <datetime_start>2026-10-31T16:45:00+02:00</datetime_start>
-      <datetime_end>2026-10-31T22:15:00+02:00</datetime_end>
+      <datetime_end>2026-10-31T18:46:00+02:00</datetime_end>
 
       <place>Regionales Eiszentrum AG, 6005 Luzern LU</place>
       <location_id></location_id>
@@ -38258,16 +38258,16 @@ Pikett: Bischof Elias </field>
       <field name="date">2026-10-31</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-31 16:45:00</field>
-      <field name="end">2026-10-31 22:15:00</field>
+      <field name="end">2026-10-31 18:46:33</field>
       <field name="time_start">16:45:00</field>
-      <field name="time_end">22:15:00</field>
-      <field name="opponent">HC Luzern</field>
+      <field name="time_end">18:46:33</field>
+      <field name="opponent">HC Luzern (4-1)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170213&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 16:45:00&quot;,&quot;end&quot;:&quot;2026-10-31 22:15:00&quot;,&quot;time_start&quot;:&quot;16:45:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170213&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 16:45:00&quot;,&quot;end&quot;:&quot;2026-10-31 18:46:33&quot;,&quot;time_start&quot;:&quot;16:45:00&quot;,&quot;time_end&quot;:&quot;18:46:33&quot;,&quot;opponent&quot;:&quot;HC Luzern (4-1)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -38295,14 +38295,14 @@ Pikett: Bischof Elias </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Zunzgen-Sissach</opponent>
+      <opponent>EHC Zunzgen-Sissach (0-3)</opponent>
 
       <date>2026-10-31</date>
       <weekday>Sa</weekday>
       <time_start>17:30</time_start>
-      <time_end>19:30</time_end>
+      <time_end>19:28</time_end>
       <datetime_start>2026-10-31T17:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-31T19:30:00+02:00</datetime_end>
+      <datetime_end>2026-10-31T19:28:00+02:00</datetime_end>
 
       <place>Genossenschaft Kunsteisbahn Sissach, 4450 Sissach BL</place>
       <location_id></location_id>
@@ -38324,16 +38324,16 @@ Pikett: Bischof Elias </field>
       <field name="date">2026-10-31</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-10-31 17:30:00</field>
-      <field name="end">2026-10-31 19:30:00</field>
+      <field name="end">2026-10-31 19:28:02</field>
       <field name="time_start">17:30:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="opponent">EHC Zunzgen-Sissach</field>
+      <field name="time_end">19:28:02</field>
+      <field name="opponent">EHC Zunzgen-Sissach (0-3)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173394&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Genossenschaft Kunsteisbahn Sissach, 4450 Sissach BL&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-31 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Zunzgen-Sissach&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173394&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Genossenschaft Kunsteisbahn Sissach, 4450 Sissach BL&quot;,&quot;date&quot;:&quot;2026-10-31&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-31 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-31 19:28:02&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:28:02&quot;,&quot;opponent&quot;:&quot;EHC Zunzgen-Sissach (0-3)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
