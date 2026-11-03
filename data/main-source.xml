@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-02T21:58:30.823Z" start_date="2025-05-04" end_date="2027-05-04" event_count="947">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-03T14:32:59.230Z" start_date="2025-05-04" end_date="2027-05-04" event_count="947">
   <events>
     <event>
       <id>747253</id>
@@ -40722,6 +40722,72 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       </raw>
     </event>
     <event>
+      <id>170227</id>
+      <uid>mih-88-a7ae0a091c59c162ec1acbb2@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Senioren</team>
+      <team_id>10783</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Senioren</category>
+      <category_id>10783</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>HC Seetal</opponent>
+
+      <date>2026-11-08</date>
+      <weekday>Su</weekday>
+      <time_start>15:45</time_start>
+      <time_end>18:00</time_end>
+      <datetime_start>2026-11-08T15:45:00+02:00</datetime_start>
+      <datetime_end>2026-11-08T18:00:00+02:00</datetime_end>
+
+      <place>Sportzentrum Iceline Seetal, 6281 Hochdorf LU</place>
+      <location_id></location_id>
+
+      <notes>Achtung NEUE Anspielzeit</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170227</field>
+      <field name="id_group">10783</field>
+      <field name="notes">Achtung NEUE Anspielzeit </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Sportzentrum Iceline Seetal, 6281 Hochdorf LU</field>
+      <field name="date">2026-11-08</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-11-08 15:45:00</field>
+      <field name="end">2026-11-08 18:00:00</field>
+      <field name="time_start">15:45:00</field>
+      <field name="time_end">18:00:00</field>
+      <field name="opponent">HC Seetal</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170227&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot;Achtung NEUE Anspielzeit &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 15:45:00&quot;,&quot;end&quot;:&quot;2026-11-08 18:00:00&quot;,&quot;time_start&quot;:&quot;15:45:00&quot;,&quot;time_end&quot;:&quot;18:00:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
       <id>173472</id>
       <uid>mih-88-6de1a820453148920ff876f1@ehc-sursee.local</uid>
 
@@ -40785,72 +40851,6 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;173472&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-08 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC Wohlen Freiamt&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
-      <id>170227</id>
-      <uid>mih-88-a7ae0a091c59c162ec1acbb2@ehc-sursee.local</uid>
-
-      <type_event>GA</type_event>
-      <event>Spiel (auswärts)</event>
-      <title>Spiel (auswärts)</title>
-
-      <agegroup>Aktiv</agegroup>
-      <agegroup_id>63</agegroup_id>
-
-      <team>Senioren</team>
-      <team_id>10783</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>Senioren</category>
-      <category_id>10783</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>HC Seetal</opponent>
-
-      <date>2026-11-08</date>
-      <weekday>Su</weekday>
-      <time_start>18:30</time_start>
-      <time_end>20:30</time_end>
-      <datetime_start>2026-11-08T18:30:00+02:00</datetime_start>
-      <datetime_end>2026-11-08T20:30:00+02:00</datetime_end>
-
-      <place>Sportzentrum Iceline Seetal, 6281 Hochdorf LU</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">170227</field>
-      <field name="id_group">10783</field>
-      <field name="notes"> </field>
-      <field name="agegroup">Aktiv</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel (auswärts)</field>
-      <field name="type_event">GA</field>
-      <field name="place">Sportzentrum Iceline Seetal, 6281 Hochdorf LU</field>
-      <field name="date">2026-11-08</field>
-      <field name="weekday">Su</field>
-      <field name="start">2026-11-08 18:30:00</field>
-      <field name="end">2026-11-08 20:30:00</field>
-      <field name="time_start">18:30:00</field>
-      <field name="time_end">20:30:00</field>
-      <field name="opponent">HC Seetal</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170227&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 18:30:00&quot;,&quot;end&quot;:&quot;2026-11-08 20:30:00&quot;,&quot;time_start&quot;:&quot;18:30:00&quot;,&quot;time_end&quot;:&quot;20:30:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
