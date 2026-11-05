@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-04T20:06:50.358Z" start_date="2025-05-04" end_date="2027-05-04" event_count="947">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-05T14:52:21.933Z" start_date="2025-05-04" end_date="2027-05-04" event_count="948">
   <events>
     <event>
       <id>747253</id>
@@ -39588,6 +39588,72 @@ Pikett: Bischof Elias </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;846068&quot;,&quot;id_group&quot;:&quot;14191&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-05&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-11-05 18:00:00&quot;,&quot;end&quot;:&quot;2026-11-05 19:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>873986</id>
+      <uid>mih-88-b75c50e96c4172a9d062e915@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>U16</practice_group>
+      <practice_group_id>14192</practice_group_id>
+
+      <category>U16</category>
+      <category_id>14192</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Eistraining</type>
+      <type_id>P2</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-11-05</date>
+      <weekday>Th</weekday>
+      <time_start>19:15</time_start>
+      <time_end>20:15</time_end>
+      <datetime_start>2026-11-05T19:15:00+02:00</datetime_start>
+      <datetime_end>2026-11-05T20:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes>Training mit Damen</notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">873986</field>
+      <field name="id_group">14192</field>
+      <field name="notes">Training mit Damen </field>
+      <field name="agegroup">U14-U16 (U16)</field>
+      <field name="type">Eistraining</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-11-05</field>
+      <field name="weekday">Th</field>
+      <field name="start">2026-11-05 19:15:00</field>
+      <field name="end">2026-11-05 20:15:00</field>
+      <field name="time_start">19:15:00</field>
+      <field name="time_end">20:15:00</field>
+      <field name="type_type">P2</field>
+      <field name="color">#1184ea</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;873986&quot;,&quot;id_group&quot;:&quot;14192&quot;,&quot;notes&quot;:&quot;Training mit Damen &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U16)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-05&quot;,&quot;weekday&quot;:&quot;Th&quot;,&quot;start&quot;:&quot;2026-11-05 19:15:00&quot;,&quot;end&quot;:&quot;2026-11-05 20:15:00&quot;,&quot;time_start&quot;:&quot;19:15:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
