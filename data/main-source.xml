@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-08T13:45:46.362Z" start_date="2025-05-04" end_date="2027-05-04" event_count="948">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-08T18:07:46.070Z" start_date="2025-05-04" end_date="2027-05-04" event_count="948">
   <events>
     <event>
       <id>747253</id>
@@ -40678,14 +40678,14 @@ Betreuerin: Penasa Gaby </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HCB Chiasso</opponent>
+      <opponent>HCB Chiasso (5-11)</opponent>
 
       <date>2026-11-08</date>
       <weekday>Su</weekday>
       <time_start>12:00</time_start>
-      <time_end>14:00</time_end>
+      <time_end>14:10</time_end>
       <datetime_start>2026-11-08T12:00:00+02:00</datetime_start>
-      <datetime_end>2026-11-08T14:00:00+02:00</datetime_end>
+      <datetime_end>2026-11-08T14:10:00+02:00</datetime_end>
 
       <place>Stadio del ghiaccio Chiasso, 6830 Chiasso TI</place>
       <location_id></location_id>
@@ -40707,16 +40707,16 @@ Betreuerin: Penasa Gaby </field>
       <field name="date">2026-11-08</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-08 12:00:00</field>
-      <field name="end">2026-11-08 14:00:00</field>
+      <field name="end">2026-11-08 14:10:35</field>
       <field name="time_start">12:00:00</field>
-      <field name="time_end">14:00:00</field>
-      <field name="opponent">HCB Chiasso</field>
+      <field name="time_end">14:10:35</field>
+      <field name="opponent">HCB Chiasso (5-11)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173455&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Stadio del ghiaccio Chiasso, 6830 Chiasso TI&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 12:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 14:00:00&quot;,&quot;time_start&quot;:&quot;12:00:00&quot;,&quot;time_end&quot;:&quot;14:00:00&quot;,&quot;opponent&quot;:&quot;HCB Chiasso&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173455&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Stadio del ghiaccio Chiasso, 6830 Chiasso TI&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 12:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 14:10:35&quot;,&quot;time_start&quot;:&quot;12:00:00&quot;,&quot;time_end&quot;:&quot;14:10:35&quot;,&quot;opponent&quot;:&quot;HCB Chiasso (5-11)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
