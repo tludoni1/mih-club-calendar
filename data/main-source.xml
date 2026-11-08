@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-07T17:53:33.447Z" start_date="2025-05-04" end_date="2027-05-04" event_count="948">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-08T13:45:46.362Z" start_date="2025-05-04" end_date="2027-05-04" event_count="948">
   <events>
     <event>
       <id>747253</id>
@@ -40412,14 +40412,14 @@ Pikett: Felder Lino Jan
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>Argovia Stars</opponent>
+      <opponent>Argovia Stars (6-3)</opponent>
 
       <date>2026-11-07</date>
       <weekday>Sa</weekday>
       <time_start>19:45</time_start>
-      <time_end>21:45</time_end>
+      <time_end>21:48</time_end>
       <datetime_start>2026-11-07T19:45:00+02:00</datetime_start>
-      <datetime_end>2026-11-07T21:45:00+02:00</datetime_end>
+      <datetime_end>2026-11-07T21:48:00+02:00</datetime_end>
 
       <place>Kunsteisbahn Region Aarau, 5000 Aarau AG</place>
       <location_id></location_id>
@@ -40441,16 +40441,16 @@ Pikett: Felder Lino Jan
       <field name="date">2026-11-07</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-07 19:45:00</field>
-      <field name="end">2026-11-07 21:45:00</field>
+      <field name="end">2026-11-07 21:48:55</field>
       <field name="time_start">19:45:00</field>
-      <field name="time_end">21:45:00</field>
-      <field name="opponent">Argovia Stars</field>
+      <field name="time_end">21:48:55</field>
+      <field name="opponent">Argovia Stars (6-3)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173433&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Region Aarau, 5000 Aarau AG&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 19:45:00&quot;,&quot;end&quot;:&quot;2026-11-07 21:45:00&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:45:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173433&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Region Aarau, 5000 Aarau AG&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 19:45:00&quot;,&quot;end&quot;:&quot;2026-11-07 21:48:55&quot;,&quot;time_start&quot;:&quot;19:45:00&quot;,&quot;time_end&quot;:&quot;21:48:55&quot;,&quot;opponent&quot;:&quot;Argovia Stars (6-3)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -40478,14 +40478,14 @@ Pikett: Felder Lino Jan
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>SC Altstadt Olten</opponent>
+      <opponent>SC Altstadt Olten (6-2)</opponent>
 
       <date>2026-11-07</date>
       <weekday>Sa</weekday>
       <time_start>20:00</time_start>
-      <time_end>22:15</time_end>
+      <time_end>21:59</time_end>
       <datetime_start>2026-11-07T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-11-07T22:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-07T21:59:00+02:00</datetime_end>
 
       <place>Eisbahn Kleinholz, 4603 Olten SO</place>
       <location_id></location_id>
@@ -40507,16 +40507,16 @@ Pikett: Felder Lino Jan
       <field name="date">2026-11-07</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-07 20:00:00</field>
-      <field name="end">2026-11-07 22:15:00</field>
+      <field name="end">2026-11-07 21:59:50</field>
       <field name="time_start">20:00:00</field>
-      <field name="time_end">22:15:00</field>
-      <field name="opponent">SC Altstadt Olten</field>
+      <field name="time_end">21:59:50</field>
+      <field name="opponent">SC Altstadt Olten (6-2)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170194&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-07 22:15:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170194&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eisbahn Kleinholz, 4603 Olten SO&quot;,&quot;date&quot;:&quot;2026-11-07&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-07 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-07 21:59:50&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:59:50&quot;,&quot;opponent&quot;:&quot;SC Altstadt Olten (6-2)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
