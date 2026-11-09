@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-08T18:07:46.070Z" start_date="2025-05-04" end_date="2027-05-04" event_count="948">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-09T16:45:00.075Z" start_date="2025-05-04" end_date="2027-05-04" event_count="949">
   <events>
     <event>
       <id>747253</id>
@@ -40812,14 +40812,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Seetal</opponent>
+      <opponent>HC Seetal (8-9)</opponent>
 
       <date>2026-11-08</date>
       <weekday>Su</weekday>
       <time_start>15:45</time_start>
-      <time_end>18:00</time_end>
+      <time_end>18:50</time_end>
       <datetime_start>2026-11-08T15:45:00+02:00</datetime_start>
-      <datetime_end>2026-11-08T18:00:00+02:00</datetime_end>
+      <datetime_end>2026-11-08T18:50:00+02:00</datetime_end>
 
       <place>Sportzentrum Iceline Seetal, 6281 Hochdorf LU</place>
       <location_id></location_id>
@@ -40841,16 +40841,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-08</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-08 15:45:00</field>
-      <field name="end">2026-11-08 18:00:00</field>
+      <field name="end">2026-11-08 18:50:52</field>
       <field name="time_start">15:45:00</field>
-      <field name="time_end">18:00:00</field>
-      <field name="opponent">HC Seetal</field>
+      <field name="time_end">18:50:52</field>
+      <field name="opponent">HC Seetal (8-9)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170227&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot;Achtung NEUE Anspielzeit &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 15:45:00&quot;,&quot;end&quot;:&quot;2026-11-08 18:00:00&quot;,&quot;time_start&quot;:&quot;15:45:00&quot;,&quot;time_end&quot;:&quot;18:00:00&quot;,&quot;opponent&quot;:&quot;HC Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170227&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot;Achtung NEUE Anspielzeit &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportzentrum Iceline Seetal, 6281 Hochdorf LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 15:45:00&quot;,&quot;end&quot;:&quot;2026-11-08 18:50:52&quot;,&quot;time_start&quot;:&quot;15:45:00&quot;,&quot;time_end&quot;:&quot;18:50:52&quot;,&quot;opponent&quot;:&quot;HC Seetal (8-9)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -40878,14 +40878,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Wohlen Freiamt</opponent>
+      <opponent>HC Wohlen Freiamt (6-12)</opponent>
 
       <date>2026-11-08</date>
       <weekday>Su</weekday>
       <time_start>17:15</time_start>
-      <time_end>19:15</time_end>
+      <time_end>19:50</time_end>
       <datetime_start>2026-11-08T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-08T19:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-08T19:50:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -40907,16 +40907,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-08</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-08 17:15:00</field>
-      <field name="end">2026-11-08 19:15:00</field>
+      <field name="end">2026-11-08 19:50:52</field>
       <field name="time_start">17:15:00</field>
-      <field name="time_end">19:15:00</field>
-      <field name="opponent">HC Wohlen Freiamt</field>
+      <field name="time_end">19:50:52</field>
+      <field name="opponent">HC Wohlen Freiamt (6-12)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173472&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-08 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC Wohlen Freiamt&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173472&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-08 19:50:52&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:50:52&quot;,&quot;opponent&quot;:&quot;HC Wohlen Freiamt (6-12)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -40944,14 +40944,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Zugerland</opponent>
+      <opponent>HC Zugerland (0-6)</opponent>
 
       <date>2026-11-08</date>
       <weekday>Su</weekday>
       <time_start>20:00</time_start>
-      <time_end>22:00</time_end>
+      <time_end>22:05</time_end>
       <datetime_start>2026-11-08T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-11-08T22:00:00+02:00</datetime_end>
+      <datetime_end>2026-11-08T22:05:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -40973,16 +40973,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-08</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-08 20:00:00</field>
-      <field name="end">2026-11-08 22:00:00</field>
+      <field name="end">2026-11-08 22:05:15</field>
       <field name="time_start">20:00:00</field>
-      <field name="time_end">22:00:00</field>
-      <field name="opponent">HC Zugerland</field>
+      <field name="time_end">22:05:15</field>
+      <field name="opponent">HC Zugerland (0-6)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170214&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC Zugerland&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170214&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-08&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-08 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-08 22:05:15&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:05:15&quot;,&quot;opponent&quot;:&quot;HC Zugerland (0-6)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -41448,72 +41448,6 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       </raw>
     </event>
     <event>
-      <id>866272</id>
-      <uid>mih-88-0a69cb042f1ea9fcdc4ed8e3@ehc-sursee.local</uid>
-
-      <type_event>P</type_event>
-      <event>Training</event>
-      <title>Training</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team></team>
-      <team_id></team_id>
-
-      <practice_group>U14</practice_group>
-      <practice_group_id>14191</practice_group_id>
-
-      <category>U14</category>
-      <category_id>14191</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Trockentraining</type>
-      <type_id>P1</type_id>
-
-      <opponent></opponent>
-
-      <date>2026-11-10</date>
-      <weekday>Tu</weekday>
-      <time_start>18:55</time_start>
-      <time_end>19:45</time_end>
-      <datetime_start>2026-11-10T18:55:00+02:00</datetime_start>
-      <datetime_end>2026-11-10T19:45:00+02:00</datetime_end>
-
-      <place>Eishalle Sursee - Tribüne</place>
-      <location_id>2294</location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">866272</field>
-      <field name="id_group">14191</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16 (U14)</field>
-      <field name="type">Trockentraining</field>
-      <field name="event">Training</field>
-      <field name="type_event">P</field>
-      <field name="place">Eishalle Sursee - Tribüne</field>
-      <field name="date">2026-11-10</field>
-      <field name="weekday">Tu</field>
-      <field name="start">2026-11-10 18:55:00</field>
-      <field name="end">2026-11-10 19:45:00</field>
-      <field name="time_start">18:55:00</field>
-      <field name="time_end">19:45:00</field>
-      <field name="type_type">P1</field>
-      <field name="color">#81c881</field>
-      <field name="opponent"></field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;866272&quot;,&quot;id_group&quot;:&quot;14191&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-11-10&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-11-10 18:55:00&quot;,&quot;end&quot;:&quot;2026-11-10 19:45:00&quot;,&quot;time_start&quot;:&quot;18:55:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
       <id>846125</id>
       <uid>mih-88-9ab2da62acc5ae56aac7b81f@ehc-sursee.local</uid>
 
@@ -41775,6 +41709,72 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;846066&quot;,&quot;id_group&quot;:&quot;14191&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-11&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-11-11 17:30:00&quot;,&quot;end&quot;:&quot;2026-11-11 18:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>866272</id>
+      <uid>mih-88-0a69cb042f1ea9fcdc4ed8e3@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>U14</practice_group>
+      <practice_group_id>14191</practice_group_id>
+
+      <category>U14</category>
+      <category_id>14191</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Trockentraining</type>
+      <type_id>P1</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-11-11</date>
+      <weekday>We</weekday>
+      <time_start>18:45</time_start>
+      <time_end>19:30</time_end>
+      <datetime_start>2026-11-11T18:45:00+02:00</datetime_start>
+      <datetime_end>2026-11-11T19:30:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Tribüne</place>
+      <location_id>2294</location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">866272</field>
+      <field name="id_group">14191</field>
+      <field name="notes"> </field>
+      <field name="agegroup">U14-U16 (U14)</field>
+      <field name="type">Trockentraining</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Tribüne</field>
+      <field name="date">2026-11-11</field>
+      <field name="weekday">We</field>
+      <field name="start">2026-11-11 18:45:00</field>
+      <field name="end">2026-11-11 19:30:00</field>
+      <field name="time_start">18:45:00</field>
+      <field name="time_end">19:30:00</field>
+      <field name="type_type">P1</field>
+      <field name="color">#81c881</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;866272&quot;,&quot;id_group&quot;:&quot;14191&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14)&quot;,&quot;type&quot;:&quot;Trockentraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Tribüne&quot;,&quot;date&quot;:&quot;2026-11-11&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-11-11 18:45:00&quot;,&quot;end&quot;:&quot;2026-11-11 19:30:00&quot;,&quot;time_start&quot;:&quot;18:45:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;type_type&quot;:&quot;P1&quot;,&quot;color&quot;:&quot;#81c881&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -43134,7 +43134,7 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
 
-      <notes>Pikett: Josef Lazarczyk / Lionel Iten</notes>
+      <notes>Pikett: Josef Lazarczyk</notes>
       <description></description>
 
       <url></url>
@@ -43142,7 +43142,8 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <source_fields>
       <field name="id_event">176523</field>
       <field name="id_group">10323</field>
-      <field name="notes">Pikett: Josef Lazarczyk / Lionel Iten </field>
+      <field name="notes">Pikett: Josef Lazarczyk 
+ </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel</field>
@@ -43160,7 +43161,7 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176523&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Pikett: Josef Lazarczyk / Lionel Iten &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-15 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;Argovia, Wohlen, LUNOXX&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176523&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Pikett: Josef Lazarczyk \r\n &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-15 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;Argovia, Wohlen, LUNOXX&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -43359,6 +43360,72 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;173434&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-15 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;EV Zug&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>188180</id>
+      <uid>mih-88-31c2c9fa78f3127786fc9349@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Damen</team>
+      <team_id>10782</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Damen</category>
+      <category_id>10782</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Event</type>
+      <type_id>G8</type_id>
+
+      <opponent>Dragon Queens</opponent>
+
+      <date>2026-11-15</date>
+      <weekday>Su</weekday>
+      <time_start>20:00</time_start>
+      <time_end>22:15</time_end>
+      <datetime_start>2026-11-15T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-11-15T22:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">188180</field>
+      <field name="id_group">10782</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Event</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-11-15</field>
+      <field name="weekday">Su</field>
+      <field name="start">2026-11-15 20:00:00</field>
+      <field name="end">2026-11-15 22:15:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">22:15:00</field>
+      <field name="opponent">Dragon Queens</field>
+      <field name="type_type">G8</field>
+      <field name="color">#e4222e</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;188180&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Event&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-15 22:15:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;Dragon Queens&quot;,&quot;type_type&quot;:&quot;G8&quot;,&quot;color&quot;:&quot;#e4222e&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -50272,7 +50339,8 @@ Betreuerin: Graus Ladina </field>
       <place>Kunsteisbahn Zingel</place>
       <location_id></location_id>
 
-      <notes>Betreuer: Philipp Jölly</notes>
+      <notes>Betreuer: Philipp Jölly
+Coach: Thomas Felder</notes>
       <description></description>
 
       <url></url>
@@ -50280,7 +50348,8 @@ Betreuerin: Graus Ladina </field>
       <source_fields>
       <field name="id_event">176183</field>
       <field name="id_group">10319</field>
-      <field name="notes">Betreuer: Philipp Jölly </field>
+      <field name="notes">Betreuer: Philipp Jölly
+Coach: Thomas Felder </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -50298,7 +50367,7 @@ Betreuerin: Graus Ladina </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176183&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Betreuer: Philipp Jölly &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Zingel&quot;,&quot;date&quot;:&quot;2026-12-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-12-06 16:00:00&quot;,&quot;end&quot;:&quot;2026-12-06 18:30:00&quot;,&quot;time_start&quot;:&quot;16:00:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;opponent&quot;:&quot;EV Zug, LUNOXX, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176183&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Betreuer: Philipp Jölly\r\nCoach: Thomas Felder &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Zingel&quot;,&quot;date&quot;:&quot;2026-12-06&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-12-06 16:00:00&quot;,&quot;end&quot;:&quot;2026-12-06 18:30:00&quot;,&quot;time_start&quot;:&quot;16:00:00&quot;,&quot;time_end&quot;:&quot;18:30:00&quot;,&quot;opponent&quot;:&quot;EV Zug, LUNOXX, Innerschwyz&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -52054,7 +52123,8 @@ Betreuerin: Graus Ladina </field>
       <place>Academy Arena Zug</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>1.Pikett Niels Vogel
+2. Pikett Owen Gut</notes>
       <description></description>
 
       <url></url>
@@ -52062,7 +52132,8 @@ Betreuerin: Graus Ladina </field>
       <source_fields>
       <field name="id_event">176505</field>
       <field name="id_group">10321</field>
-      <field name="notes"> </field>
+      <field name="notes">1.Pikett Niels Vogel
+2. Pikett Owen Gut </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -52080,7 +52151,7 @@ Betreuerin: Graus Ladina </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176505&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 09:30:00&quot;,&quot;end&quot;:&quot;2026-12-12 12:00:00&quot;,&quot;time_start&quot;:&quot;09:30:00&quot;,&quot;time_end&quot;:&quot;12:00:00&quot;,&quot;opponent&quot;:&quot;Luzern, Wohlen, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176505&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;1.Pikett Niels Vogel\r\n2. Pikett Owen Gut &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena Zug&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 09:30:00&quot;,&quot;end&quot;:&quot;2026-12-12 12:00:00&quot;,&quot;time_start&quot;:&quot;09:30:00&quot;,&quot;time_end&quot;:&quot;12:00:00&quot;,&quot;opponent&quot;:&quot;Luzern, Wohlen, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -52252,7 +52323,8 @@ Betreuerin: Graus Ladina </field>
       <place>Eishalle Oberwynental, Reinach</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Pikett: Colin Felber
+Betreuerinn: Sandra Kunz</notes>
       <description></description>
 
       <url></url>
@@ -52260,7 +52332,8 @@ Betreuerin: Graus Ladina </field>
       <source_fields>
       <field name="id_event">187007</field>
       <field name="id_group">10319</field>
-      <field name="notes"> </field>
+      <field name="notes">Pikett: Colin Felber
+Betreuerinn: Sandra Kunz </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Freundschaft</field>
       <field name="event">Spiel (auswärts)</field>
@@ -52278,7 +52351,7 @@ Betreuerin: Graus Ladina </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;187007&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 17:00:00&quot;,&quot;end&quot;:&quot;2026-12-12 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;187007&quot;,&quot;id_group&quot;:&quot;10319&quot;,&quot;notes&quot;:&quot;Pikett: Colin Felber\r\nBetreuerinn: Sandra Kunz &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Freundschaft&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eishalle Oberwynental, Reinach&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 17:00:00&quot;,&quot;end&quot;:&quot;2026-12-12 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Diverse&quot;,&quot;type_type&quot;:&quot;G1&quot;,&quot;color&quot;:&quot;#81c881&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -52318,7 +52391,7 @@ Betreuerin: Graus Ladina </field>
       <place>Sportpark Olten (Aussenfeld)</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Pikett:  Adrian Haas</notes>
       <description></description>
 
       <url></url>
@@ -52326,7 +52399,7 @@ Betreuerin: Graus Ladina </field>
       <source_fields>
       <field name="id_event">176525</field>
       <field name="id_group">10323</field>
-      <field name="notes"> </field>
+      <field name="notes">Pikett:  Adrian Haas </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel (auswärts)</field>
@@ -52344,7 +52417,7 @@ Betreuerin: Graus Ladina </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176525&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportpark Olten (Aussenfeld)&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 17:00:00&quot;,&quot;end&quot;:&quot;2026-12-12 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Argovia, LUNOXX, Olten&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176525&quot;,&quot;id_group&quot;:&quot;10323&quot;,&quot;notes&quot;:&quot;Pikett:  Adrian Haas &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportpark Olten (Aussenfeld)&quot;,&quot;date&quot;:&quot;2026-12-12&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-12-12 17:00:00&quot;,&quot;end&quot;:&quot;2026-12-12 19:30:00&quot;,&quot;time_start&quot;:&quot;17:00:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;Argovia, LUNOXX, Olten&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
