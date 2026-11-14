@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-13T20:07:45.500Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-14T13:44:27.104Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
   <events>
     <event>
       <id>747253</id>
@@ -42966,72 +42966,6 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       </raw>
     </event>
     <event>
-      <id>173473</id>
-      <uid>mih-88-93ece4c5c1fb877a2af207fe@ehc-sursee.local</uid>
-
-      <type_event>GA</type_event>
-      <event>Spiel (auswärts)</event>
-      <title>Spiel (auswärts)</title>
-
-      <agegroup>U14-U16</agegroup>
-      <agegroup_id>143</agegroup_id>
-
-      <team>U16-A II</team>
-      <team_id>10327</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>U16-A II</category>
-      <category_id>10327</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>Argovia Stars II</opponent>
-
-      <date>2026-11-15</date>
-      <weekday>Su</weekday>
-      <time_start>12:15</time_start>
-      <time_end>14:15</time_end>
-      <datetime_start>2026-11-15T12:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-15T14:15:00+02:00</datetime_end>
-
-      <place>Kunsteisbahn Region Aarau, 5000 Aarau AG</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">173473</field>
-      <field name="id_group">10327</field>
-      <field name="notes"> </field>
-      <field name="agegroup">U14-U16</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel (auswärts)</field>
-      <field name="type_event">GA</field>
-      <field name="place">Kunsteisbahn Region Aarau, 5000 Aarau AG</field>
-      <field name="date">2026-11-15</field>
-      <field name="weekday">Su</field>
-      <field name="start">2026-11-15 12:15:00</field>
-      <field name="end">2026-11-15 14:15:00</field>
-      <field name="time_start">12:15:00</field>
-      <field name="time_end">14:15:00</field>
-      <field name="opponent">Argovia Stars II</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173473&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Region Aarau, 5000 Aarau AG&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 12:15:00&quot;,&quot;end&quot;:&quot;2026-11-15 14:15:00&quot;,&quot;time_start&quot;:&quot;12:15:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars II&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
       <id>173512</id>
       <uid>mih-88-e680902a33024c0a00363527@ehc-sursee.local</uid>
 
@@ -55918,6 +55852,72 @@ Betreuung: Pascal Ammann </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;184219&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2027-01-09&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-09 17:15:00&quot;,&quot;end&quot;:&quot;2027-01-09 22:00:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;HC NWU Red&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>173473</id>
+      <uid>mih-88-93ece4c5c1fb877a2af207fe@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team>U16-A II</team>
+      <team_id>10327</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>U16-A II</category>
+      <category_id>10327</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>Argovia Stars II</opponent>
+
+      <date>2027-01-09</date>
+      <weekday>Sa</weekday>
+      <time_start>17:45</time_start>
+      <time_end>14:15</time_end>
+      <datetime_start>2027-01-09T17:45:00+02:00</datetime_start>
+      <datetime_end>2027-01-09T14:15:00+02:00</datetime_end>
+
+      <place>Kunsteisbahn Tägerhard, 5430 Wettingen AG</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">173473</field>
+      <field name="id_group">10327</field>
+      <field name="notes"> </field>
+      <field name="agegroup">U14-U16</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Kunsteisbahn Tägerhard, 5430 Wettingen AG</field>
+      <field name="date">2027-01-09</field>
+      <field name="weekday">Sa</field>
+      <field name="start">2027-01-09 17:45:00</field>
+      <field name="end">2027-01-09 14:15:00</field>
+      <field name="time_start">17:45:00</field>
+      <field name="time_end">14:15:00</field>
+      <field name="opponent">Argovia Stars II</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;173473&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Tägerhard, 5430 Wettingen AG&quot;,&quot;date&quot;:&quot;2027-01-09&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2027-01-09 17:45:00&quot;,&quot;end&quot;:&quot;2027-01-09 14:15:00&quot;,&quot;time_start&quot;:&quot;17:45:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;Argovia Stars II&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
