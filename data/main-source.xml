@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-14T18:33:14.427Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-15T14:13:41.760Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
   <events>
     <event>
       <id>747253</id>
@@ -42726,14 +42726,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Basel Nachwuchs</opponent>
+      <opponent>EHC Basel Nachwuchs (4-5)</opponent>
 
       <date>2026-11-14</date>
       <weekday>Sa</weekday>
       <time_start>14:30</time_start>
-      <time_end>16:30</time_end>
+      <time_end>16:13</time_end>
       <datetime_start>2026-11-14T14:30:00+02:00</datetime_start>
-      <datetime_end>2026-11-14T16:30:00+02:00</datetime_end>
+      <datetime_end>2026-11-14T16:13:00+02:00</datetime_end>
 
       <place>Kunsteisbahn Margarethen, 4053 Basel BS</place>
       <location_id></location_id>
@@ -42755,16 +42755,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-14</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-14 14:30:00</field>
-      <field name="end">2026-11-14 16:30:00</field>
+      <field name="end">2026-11-14 16:13:40</field>
       <field name="time_start">14:30:00</field>
-      <field name="time_end">16:30:00</field>
-      <field name="opponent">EHC Basel Nachwuchs</field>
+      <field name="time_end">16:13:40</field>
+      <field name="opponent">EHC Basel Nachwuchs (4-5)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173531&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot;Wir gehen mit dem Büsli, brauchen aber noch jemanden, der privat &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Margarethen, 4053 Basel BS&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 14:30:00&quot;,&quot;end&quot;:&quot;2026-11-14 16:30:00&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;16:30:00&quot;,&quot;opponent&quot;:&quot;EHC Basel Nachwuchs&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173531&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot;Wir gehen mit dem Büsli, brauchen aber noch jemanden, der privat &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn Margarethen, 4053 Basel BS&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 14:30:00&quot;,&quot;end&quot;:&quot;2026-11-14 16:13:40&quot;,&quot;time_start&quot;:&quot;14:30:00&quot;,&quot;time_end&quot;:&quot;16:13:40&quot;,&quot;opponent&quot;:&quot;EHC Basel Nachwuchs (4-5)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -42792,14 +42792,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Zugerland</opponent>
+      <opponent>HC Zugerland (9-11)</opponent>
 
       <date>2026-11-14</date>
       <weekday>Sa</weekday>
       <time_start>15:15</time_start>
-      <time_end>17:15</time_end>
+      <time_end>17:28</time_end>
       <datetime_start>2026-11-14T15:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-14T17:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-14T17:28:00+02:00</datetime_end>
 
       <place>OYM hall, 6303 Zug</place>
       <location_id></location_id>
@@ -42821,16 +42821,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-14</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-14 15:15:00</field>
-      <field name="end">2026-11-14 17:15:00</field>
+      <field name="end">2026-11-14 17:28:24</field>
       <field name="time_start">15:15:00</field>
-      <field name="time_end">17:15:00</field>
-      <field name="opponent">HC Zugerland</field>
+      <field name="time_end">17:28:24</field>
+      <field name="opponent">HC Zugerland (9-11)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170228&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;OYM hall, 6303 Zug&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 15:15:00&quot;,&quot;end&quot;:&quot;2026-11-14 17:15:00&quot;,&quot;time_start&quot;:&quot;15:15:00&quot;,&quot;time_end&quot;:&quot;17:15:00&quot;,&quot;opponent&quot;:&quot;HC Zugerland&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170228&quot;,&quot;id_group&quot;:&quot;10783&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;OYM hall, 6303 Zug&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 15:15:00&quot;,&quot;end&quot;:&quot;2026-11-14 17:28:24&quot;,&quot;time_start&quot;:&quot;15:15:00&quot;,&quot;time_end&quot;:&quot;17:28:24&quot;,&quot;opponent&quot;:&quot;HC Zugerland (9-11)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -42858,14 +42858,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>SCRJ Lakers Ladies</opponent>
+      <opponent>SCRJ Lakers Ladies (3-0)</opponent>
 
       <date>2026-11-14</date>
       <weekday>Sa</weekday>
       <time_start>17:15</time_start>
-      <time_end>19:15</time_end>
+      <time_end>19:09</time_end>
       <datetime_start>2026-11-14T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-14T19:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-14T19:09:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -42887,16 +42887,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-14</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-14 17:15:00</field>
-      <field name="end">2026-11-14 19:15:00</field>
+      <field name="end">2026-11-14 19:09:25</field>
       <field name="time_start">17:15:00</field>
-      <field name="time_end">19:15:00</field>
-      <field name="opponent">SCRJ Lakers Ladies</field>
+      <field name="time_end">19:09:25</field>
+      <field name="opponent">SCRJ Lakers Ladies (3-0)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173395&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-14 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;SCRJ Lakers Ladies&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173395&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-14 19:09:25&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:09:25&quot;,&quot;opponent&quot;:&quot;SCRJ Lakers Ladies (3-0)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -42924,14 +42924,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Koppigen</opponent>
+      <opponent>EHC Koppigen (3-5)</opponent>
 
       <date>2026-11-14</date>
       <weekday>Sa</weekday>
       <time_start>20:30</time_start>
-      <time_end>22:30</time_end>
+      <time_end>22:32</time_end>
       <datetime_start>2026-11-14T20:30:00+02:00</datetime_start>
-      <datetime_end>2026-11-14T22:30:00+02:00</datetime_end>
+      <datetime_end>2026-11-14T22:32:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -42953,16 +42953,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-14</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-14 20:30:00</field>
-      <field name="end">2026-11-14 22:30:00</field>
+      <field name="end">2026-11-14 22:32:21</field>
       <field name="time_start">20:30:00</field>
-      <field name="time_end">22:30:00</field>
-      <field name="opponent">EHC Koppigen</field>
+      <field name="time_end">22:32:21</field>
+      <field name="opponent">EHC Koppigen (3-5)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170195&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 20:30:00&quot;,&quot;end&quot;:&quot;2026-11-14 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Koppigen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170195&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-14&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-14 20:30:00&quot;,&quot;end&quot;:&quot;2026-11-14 22:32:21&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:32:21&quot;,&quot;opponent&quot;:&quot;EHC Koppigen (3-5)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
