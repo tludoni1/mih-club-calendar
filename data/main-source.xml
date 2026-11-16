@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-15T19:10:06.665Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-16T16:16:35.899Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
   <events>
     <event>
       <id>747253</id>
@@ -30411,72 +30411,6 @@ Das Büsli muss um 14:00 </field>
       </raw>
     </event>
     <event>
-      <id>170189</id>
-      <uid>mih-88-eb66f95d4c6757752e11f48c@ehc-sursee.local</uid>
-
-      <type_event>GA</type_event>
-      <event>Spiel (auswärts)</event>
-      <title>Spiel (auswärts)</title>
-
-      <agegroup>Aktiv</agegroup>
-      <agegroup_id>63</agegroup_id>
-
-      <team>1. Mannschaft</team>
-      <team_id>10780</team_id>
-
-      <practice_group></practice_group>
-      <practice_group_id></practice_group_id>
-
-      <category>1. Mannschaft</category>
-      <category_id>10780</category_id>
-
-      <mapping_status>mapped</mapping_status>
-
-      <type>Saison</type>
-      <type_id>G3</type_id>
-
-      <opponent>EHC Rheinfelden (0-0)</opponent>
-
-      <date>2026-10-10</date>
-      <weekday>Sa</weekday>
-      <time_start>17:30</time_start>
-      <time_end>00:00</time_end>
-      <datetime_start>2026-10-10T17:30:00+02:00</datetime_start>
-      <datetime_end>2026-10-10T00:00:00+02:00</datetime_end>
-
-      <place>Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</place>
-      <location_id></location_id>
-
-      <notes></notes>
-      <description></description>
-
-      <url></url>
-
-      <source_fields>
-      <field name="id_event">170189</field>
-      <field name="id_group">10780</field>
-      <field name="notes"> </field>
-      <field name="agegroup">Aktiv</field>
-      <field name="type">Saison</field>
-      <field name="event">Spiel (auswärts)</field>
-      <field name="type_event">GA</field>
-      <field name="place">Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</field>
-      <field name="date">2026-10-10</field>
-      <field name="weekday">Sa</field>
-      <field name="start">2026-10-10 17:30:00</field>
-      <field name="end">2026-10-10 00:00:00</field>
-      <field name="time_start">17:30:00</field>
-      <field name="time_end">00:00:00</field>
-      <field name="opponent">EHC Rheinfelden (0-0)</field>
-      <field name="type_type">G3</field>
-      <field name="color">#f8ac59</field>
-      </source_fields>
-
-      <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170189&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2026-10-10&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-10-10 17:30:00&quot;,&quot;end&quot;:&quot;2026-10-10 00:00:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;00:00:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden (0-0)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
-      </raw>
-    </event>
-    <event>
       <id>170210</id>
       <uid>mih-88-845e226c0ff3612f52c493aa@ehc-sursee.local</uid>
 
@@ -42990,14 +42924,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>Hockey Innerschwyz HCI I</opponent>
+      <opponent>Hockey Innerschwyz HCI I (2-9)</opponent>
 
       <date>2026-11-15</date>
       <weekday>Su</weekday>
       <time_start>15:45</time_start>
-      <time_end>17:45</time_end>
+      <time_end>17:31</time_end>
       <datetime_start>2026-11-15T15:45:00+02:00</datetime_start>
-      <datetime_end>2026-11-15T17:45:00+02:00</datetime_end>
+      <datetime_end>2026-11-15T17:31:00+02:00</datetime_end>
 
       <place>KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ</place>
       <location_id></location_id>
@@ -43019,16 +42953,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-15</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-15 15:45:00</field>
-      <field name="end">2026-11-15 17:45:00</field>
+      <field name="end">2026-11-15 17:31:09</field>
       <field name="time_start">15:45:00</field>
-      <field name="time_end">17:45:00</field>
-      <field name="opponent">Hockey Innerschwyz HCI I</field>
+      <field name="time_end">17:31:09</field>
+      <field name="opponent">Hockey Innerschwyz HCI I (2-9)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173512&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot;Eventuell EHC Teambus. Informationen folgen. &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 15:45:00&quot;,&quot;end&quot;:&quot;2026-11-15 17:45:00&quot;,&quot;time_start&quot;:&quot;15:45:00&quot;,&quot;time_end&quot;:&quot;17:45:00&quot;,&quot;opponent&quot;:&quot;Hockey Innerschwyz HCI I&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173512&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot;Eventuell EHC Teambus. Informationen folgen. &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;KEG Küssnachter Eisbahn-Genossenschaft, 6403 Küssnacht am Rigi SZ&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 15:45:00&quot;,&quot;end&quot;:&quot;2026-11-15 17:31:09&quot;,&quot;time_start&quot;:&quot;15:45:00&quot;,&quot;time_end&quot;:&quot;17:31:09&quot;,&quot;opponent&quot;:&quot;Hockey Innerschwyz HCI I (2-9)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -43123,14 +43057,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC NWU Blue</opponent>
+      <opponent>HC NWU Blue (0-3)</opponent>
 
       <date>2026-11-15</date>
       <weekday>Su</weekday>
       <time_start>17:15</time_start>
-      <time_end>19:15</time_end>
+      <time_end>19:19</time_end>
       <datetime_start>2026-11-15T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-15T19:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-15T19:19:00+02:00</datetime_end>
 
       <place>Eissport- und Freizeithalle, 4242 Laufen BL</place>
       <location_id></location_id>
@@ -43152,16 +43086,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-15</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-15 17:15:00</field>
-      <field name="end">2026-11-15 19:15:00</field>
+      <field name="end">2026-11-15 19:19:16</field>
       <field name="time_start">17:15:00</field>
-      <field name="time_end">19:15:00</field>
-      <field name="opponent">HC NWU Blue</field>
+      <field name="time_end">19:19:16</field>
+      <field name="opponent">HC NWU Blue (0-3)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173412&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-15 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Blue&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173412&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Eissport- und Freizeithalle, 4242 Laufen BL&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-15 19:19:16&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:19:16&quot;,&quot;opponent&quot;:&quot;HC NWU Blue (0-3)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -43189,14 +43123,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC NWU Red</opponent>
+      <opponent>HC NWU Red (5-12)</opponent>
 
       <date>2026-11-15</date>
       <weekday>Su</weekday>
       <time_start>17:30</time_start>
-      <time_end>19:30</time_end>
+      <time_end>19:42</time_end>
       <datetime_start>2026-11-15T17:30:00+02:00</datetime_start>
-      <datetime_end>2026-11-15T19:30:00+02:00</datetime_end>
+      <datetime_end>2026-11-15T19:42:00+02:00</datetime_end>
 
       <place>Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</place>
       <location_id></location_id>
@@ -43218,16 +43152,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-15</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-15 17:30:00</field>
-      <field name="end">2026-11-15 19:30:00</field>
+      <field name="end">2026-11-15 19:42:01</field>
       <field name="time_start">17:30:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="opponent">HC NWU Red</field>
+      <field name="time_end">19:42:01</field>
+      <field name="opponent">HC NWU Red (5-12)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173456&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 17:30:00&quot;,&quot;end&quot;:&quot;2026-11-15 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;HC NWU Red&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173456&quot;,&quot;id_group&quot;:&quot;10326&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 17:30:00&quot;,&quot;end&quot;:&quot;2026-11-15 19:42:01&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:42:01&quot;,&quot;opponent&quot;:&quot;HC NWU Red (5-12)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -43255,14 +43189,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EV Zug</opponent>
+      <opponent>EV Zug (1-2)</opponent>
 
       <date>2026-11-15</date>
       <weekday>Su</weekday>
       <time_start>20:00</time_start>
-      <time_end>22:00</time_end>
+      <time_end>21:57</time_end>
       <datetime_start>2026-11-15T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-11-15T22:00:00+02:00</datetime_end>
+      <datetime_end>2026-11-15T21:57:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -43284,16 +43218,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-15</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-15 20:00:00</field>
-      <field name="end">2026-11-15 22:00:00</field>
+      <field name="end">2026-11-15 21:57:39</field>
       <field name="time_start">20:00:00</field>
-      <field name="time_end">22:00:00</field>
-      <field name="opponent">EV Zug</field>
+      <field name="time_end">21:57:39</field>
+      <field name="opponent">EV Zug (1-2)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173434&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot;Hans Schnyder (Spieler 1. Mannschaft) wird Coach machen, da ich &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-15 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;EV Zug&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173434&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot;Hans Schnyder (Spieler 1. Mannschaft) wird Coach machen, da ich &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-15&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-15 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-15 21:57:39&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:57:39&quot;,&quot;opponent&quot;:&quot;EV Zug (1-2)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -53344,6 +53278,72 @@ Betreuung: Pascal Ammann </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;860186&quot;,&quot;id_group&quot;:&quot;14240&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21 (U21)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-12-15&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-12-15 19:00:00&quot;,&quot;end&quot;:&quot;2026-12-15 20:15:00&quot;,&quot;time_start&quot;:&quot;19:00:00&quot;,&quot;time_end&quot;:&quot;20:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>170189</id>
+      <uid>mih-88-eb66f95d4c6757752e11f48c@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>1. Mannschaft</team>
+      <team_id>10780</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>10780</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Saison</type>
+      <type_id>G3</type_id>
+
+      <opponent>EHC Rheinfelden (0-0)</opponent>
+
+      <date>2026-12-15</date>
+      <weekday>Tu</weekday>
+      <time_start>20:45</time_start>
+      <time_end>22:45</time_end>
+      <datetime_start>2026-12-15T20:45:00+02:00</datetime_start>
+      <datetime_end>2026-12-15T22:45:00+02:00</datetime_end>
+
+      <place>Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">170189</field>
+      <field name="id_group">10780</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Saison</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG</field>
+      <field name="date">2026-12-15</field>
+      <field name="weekday">Tu</field>
+      <field name="start">2026-12-15 20:45:00</field>
+      <field name="end">2026-12-15 22:45:00</field>
+      <field name="time_start">20:45:00</field>
+      <field name="time_end">22:45:00</field>
+      <field name="opponent">EHC Rheinfelden (0-0)</field>
+      <field name="type_type">G3</field>
+      <field name="color">#f8ac59</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;170189&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Kunsteisbahn KuBa Freizeitcenter AG, 4310 Rheinfelden AG&quot;,&quot;date&quot;:&quot;2026-12-15&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-12-15 20:45:00&quot;,&quot;end&quot;:&quot;2026-12-15 22:45:00&quot;,&quot;time_start&quot;:&quot;20:45:00&quot;,&quot;time_end&quot;:&quot;22:45:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden (0-0)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
