@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-19T21:02:57.636Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-20T15:41:18.855Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
   <events>
     <event>
       <id>747253</id>
@@ -44917,9 +44917,9 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <place>Eishalle Sursee - Eisfeld</place>
       <location_id>2297</location_id>
 
-      <notes>1.Pikett: Even Hecht 
-2.Pikett: Noan Bühler
-3.Pikett: Yannick</notes>
+      <notes>2.Pikett: Noan Bühler
+3.Pikett: Yannick Meyer
+4.Pikett: Leo</notes>
       <description></description>
 
       <url></url>
@@ -44927,9 +44927,9 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <source_fields>
       <field name="id_event">176504</field>
       <field name="id_group">10321</field>
-      <field name="notes">1.Pikett: Even Hecht 
-2.Pikett: Noan Bühler
-3.Pikett: Yannick </field>
+      <field name="notes">2.Pikett: Noan Bühler
+3.Pikett: Yannick Meyer
+4.Pikett: Leo </field>
       <field name="agegroup">Erfassungsstufe</field>
       <field name="type">Turnier</field>
       <field name="event">Spiel</field>
@@ -44947,7 +44947,7 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;176504&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;1.Pikett: Even Hecht \r\n2.Pikett: Noan Bühler\r\n3.Pikett: Yannick &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 11:30:00&quot;,&quot;end&quot;:&quot;2026-11-21 14:00:00&quot;,&quot;time_start&quot;:&quot;11:30:00&quot;,&quot;time_end&quot;:&quot;14:00:00&quot;,&quot;opponent&quot;:&quot;Luzern, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;176504&quot;,&quot;id_group&quot;:&quot;10321&quot;,&quot;notes&quot;:&quot;2.Pikett: Noan Bühler\r\n3.Pikett: Yannick Meyer\r\n4.Pikett: Leo &quot;,&quot;agegroup&quot;:&quot;Erfassungsstufe&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 11:30:00&quot;,&quot;end&quot;:&quot;2026-11-21 14:00:00&quot;,&quot;time_start&quot;:&quot;11:30:00&quot;,&quot;time_end&quot;:&quot;14:00:00&quot;,&quot;opponent&quot;:&quot;Luzern, Olten, EV Zug&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
