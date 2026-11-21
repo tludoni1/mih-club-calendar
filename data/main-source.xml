@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-20T20:49:08.469Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-21T14:51:53.632Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
   <events>
     <event>
       <id>747253</id>
@@ -44839,14 +44839,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>LUNOXX Seetal</opponent>
+      <opponent>LUNOXX Seetal (4-2)</opponent>
 
       <date>2026-11-20</date>
       <weekday>Fr</weekday>
       <time_start>20:15</time_start>
-      <time_end>22:15</time_end>
+      <time_end>22:06</time_end>
       <datetime_start>2026-11-20T20:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-20T22:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-20T22:06:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -44868,16 +44868,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-20</field>
       <field name="weekday">Fr</field>
       <field name="start">2026-11-20 20:15:00</field>
-      <field name="end">2026-11-20 22:15:00</field>
+      <field name="end">2026-11-20 22:06:43</field>
       <field name="time_start">20:15:00</field>
-      <field name="time_end">22:15:00</field>
-      <field name="opponent">LUNOXX Seetal</field>
+      <field name="time_end">22:06:43</field>
+      <field name="opponent">LUNOXX Seetal (4-2)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173413&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-20&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-11-20 20:15:00&quot;,&quot;end&quot;:&quot;2026-11-20 22:15:00&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:15:00&quot;,&quot;opponent&quot;:&quot;LUNOXX Seetal&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173413&quot;,&quot;id_group&quot;:&quot;10329&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-20&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-11-20 20:15:00&quot;,&quot;end&quot;:&quot;2026-11-20 22:06:43&quot;,&quot;time_start&quot;:&quot;20:15:00&quot;,&quot;time_end&quot;:&quot;22:06:43&quot;,&quot;opponent&quot;:&quot;LUNOXX Seetal (4-2)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
