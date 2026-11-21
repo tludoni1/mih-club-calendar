@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-21T14:51:53.632Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-21T19:51:54.728Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
   <events>
     <event>
       <id>747253</id>
@@ -44975,14 +44975,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC NWU Green</opponent>
+      <opponent>HC NWU Green (12-0)</opponent>
 
       <date>2026-11-21</date>
       <weekday>Sa</weekday>
       <time_start>14:15</time_start>
-      <time_end>16:15</time_end>
+      <time_end>16:01</time_end>
       <datetime_start>2026-11-21T14:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-21T16:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-21T16:01:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -45004,16 +45004,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-21</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-21 14:15:00</field>
-      <field name="end">2026-11-21 16:15:00</field>
+      <field name="end">2026-11-21 16:01:23</field>
       <field name="time_start">14:15:00</field>
-      <field name="time_end">16:15:00</field>
-      <field name="opponent">HC NWU Green</field>
+      <field name="time_end">16:01:23</field>
+      <field name="opponent">HC NWU Green (12-0)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173532&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 14:15:00&quot;,&quot;end&quot;:&quot;2026-11-21 16:15:00&quot;,&quot;time_start&quot;:&quot;14:15:00&quot;,&quot;time_end&quot;:&quot;16:15:00&quot;,&quot;opponent&quot;:&quot;HC NWU Green&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173532&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 14:15:00&quot;,&quot;end&quot;:&quot;2026-11-21 16:01:23&quot;,&quot;time_start&quot;:&quot;14:15:00&quot;,&quot;time_end&quot;:&quot;16:01:23&quot;,&quot;opponent&quot;:&quot;HC NWU Green (12-0)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -45041,14 +45041,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Thurgau Ladies</opponent>
+      <opponent>HC Thurgau Ladies (2-3)</opponent>
 
       <date>2026-11-21</date>
       <weekday>Sa</weekday>
       <time_start>15:00</time_start>
-      <time_end>17:00</time_end>
+      <time_end>16:52</time_end>
       <datetime_start>2026-11-21T15:00:00+02:00</datetime_start>
-      <datetime_end>2026-11-21T17:00:00+02:00</datetime_end>
+      <datetime_end>2026-11-21T16:52:00+02:00</datetime_end>
 
       <place>Sportanlage Güttingersreuti, 8570 Weinfelden TG</place>
       <location_id></location_id>
@@ -45070,16 +45070,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-21</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-21 15:00:00</field>
-      <field name="end">2026-11-21 17:00:00</field>
+      <field name="end">2026-11-21 16:52:57</field>
       <field name="time_start">15:00:00</field>
-      <field name="time_end">17:00:00</field>
-      <field name="opponent">HC Thurgau Ladies</field>
+      <field name="time_end">16:52:57</field>
+      <field name="opponent">HC Thurgau Ladies (2-3)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173396&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportanlage Güttingersreuti, 8570 Weinfelden TG&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 15:00:00&quot;,&quot;end&quot;:&quot;2026-11-21 17:00:00&quot;,&quot;time_start&quot;:&quot;15:00:00&quot;,&quot;time_end&quot;:&quot;17:00:00&quot;,&quot;opponent&quot;:&quot;HC Thurgau Ladies&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173396&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Sportanlage Güttingersreuti, 8570 Weinfelden TG&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 15:00:00&quot;,&quot;end&quot;:&quot;2026-11-21 16:52:57&quot;,&quot;time_start&quot;:&quot;15:00:00&quot;,&quot;time_end&quot;:&quot;16:52:57&quot;,&quot;opponent&quot;:&quot;HC Thurgau Ladies (2-3)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
