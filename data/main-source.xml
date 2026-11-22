@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-21T19:51:54.728Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-22T14:48:07.709Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
   <events>
     <event>
       <id>747253</id>
@@ -45107,14 +45107,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Luzern</opponent>
+      <opponent>HC Luzern (9-8)</opponent>
 
       <date>2026-11-21</date>
       <weekday>Sa</weekday>
       <time_start>16:45</time_start>
-      <time_end>18:45</time_end>
+      <time_end>18:50</time_end>
       <datetime_start>2026-11-21T16:45:00+02:00</datetime_start>
-      <datetime_end>2026-11-21T18:45:00+02:00</datetime_end>
+      <datetime_end>2026-11-21T18:50:00+02:00</datetime_end>
 
       <place>Regionales Eiszentrum AG, 6005 Luzern LU</place>
       <location_id></location_id>
@@ -45136,16 +45136,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-21</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-21 16:45:00</field>
-      <field name="end">2026-11-21 18:45:00</field>
+      <field name="end">2026-11-21 18:50:21</field>
       <field name="time_start">16:45:00</field>
-      <field name="time_end">18:45:00</field>
-      <field name="opponent">HC Luzern</field>
+      <field name="time_end">18:50:21</field>
+      <field name="opponent">HC Luzern (9-8)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173435&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot;Anreise privat &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 16:45:00&quot;,&quot;end&quot;:&quot;2026-11-21 18:45:00&quot;,&quot;time_start&quot;:&quot;16:45:00&quot;,&quot;time_end&quot;:&quot;18:45:00&quot;,&quot;opponent&quot;:&quot;HC Luzern&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173435&quot;,&quot;id_group&quot;:&quot;10328&quot;,&quot;notes&quot;:&quot;Anreise privat &quot;,&quot;agegroup&quot;:&quot;U18-U21&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Regionales Eiszentrum AG, 6005 Luzern LU&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 16:45:00&quot;,&quot;end&quot;:&quot;2026-11-21 18:50:21&quot;,&quot;time_start&quot;:&quot;16:45:00&quot;,&quot;time_end&quot;:&quot;18:50:21&quot;,&quot;opponent&quot;:&quot;HC Luzern (9-8)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -45173,14 +45173,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Rheinfelden</opponent>
+      <opponent>EHC Rheinfelden (9-0)</opponent>
 
       <date>2026-11-21</date>
       <weekday>Sa</weekday>
       <time_start>17:30</time_start>
-      <time_end>19:30</time_end>
+      <time_end>19:33</time_end>
       <datetime_start>2026-11-21T17:30:00+02:00</datetime_start>
-      <datetime_end>2026-11-21T19:30:00+02:00</datetime_end>
+      <datetime_end>2026-11-21T19:33:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -45202,16 +45202,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-21</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-21 17:30:00</field>
-      <field name="end">2026-11-21 19:30:00</field>
+      <field name="end">2026-11-21 19:33:52</field>
       <field name="time_start">17:30:00</field>
-      <field name="time_end">19:30:00</field>
-      <field name="opponent">EHC Rheinfelden</field>
+      <field name="time_end">19:33:52</field>
+      <field name="opponent">EHC Rheinfelden (9-0)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170196&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 17:30:00&quot;,&quot;end&quot;:&quot;2026-11-21 19:30:00&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:30:00&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170196&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 17:30:00&quot;,&quot;end&quot;:&quot;2026-11-21 19:33:52&quot;,&quot;time_start&quot;:&quot;17:30:00&quot;,&quot;time_end&quot;:&quot;19:33:52&quot;,&quot;opponent&quot;:&quot;EHC Rheinfelden (9-0)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -45239,14 +45239,14 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Einsiedeln</opponent>
+      <opponent>EHC Einsiedeln (6-2)</opponent>
 
       <date>2026-11-21</date>
       <weekday>Sa</weekday>
       <time_start>20:00</time_start>
-      <time_end>22:00</time_end>
+      <time_end>22:04</time_end>
       <datetime_start>2026-11-21T20:00:00+02:00</datetime_start>
-      <datetime_end>2026-11-21T22:00:00+02:00</datetime_end>
+      <datetime_end>2026-11-21T22:04:00+02:00</datetime_end>
 
       <place>FARFAR Eishalle Wollerau, 8832 Wollerau</place>
       <location_id></location_id>
@@ -45268,16 +45268,16 @@ BetreuerIn: Bosshart Martina, Felber Florian </field>
       <field name="date">2026-11-21</field>
       <field name="weekday">Sa</field>
       <field name="start">2026-11-21 20:00:00</field>
-      <field name="end">2026-11-21 22:00:00</field>
+      <field name="end">2026-11-21 22:04:28</field>
       <field name="time_start">20:00:00</field>
-      <field name="time_end">22:00:00</field>
-      <field name="opponent">EHC Einsiedeln</field>
+      <field name="time_end">22:04:28</field>
+      <field name="opponent">EHC Einsiedeln (6-2)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;170215&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;FARFAR Eishalle Wollerau, 8832 Wollerau&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-21 22:00:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:00:00&quot;,&quot;opponent&quot;:&quot;EHC Einsiedeln&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;170215&quot;,&quot;id_group&quot;:&quot;10781&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;FARFAR Eishalle Wollerau, 8832 Wollerau&quot;,&quot;date&quot;:&quot;2026-11-21&quot;,&quot;weekday&quot;:&quot;Sa&quot;,&quot;start&quot;:&quot;2026-11-21 20:00:00&quot;,&quot;end&quot;:&quot;2026-11-21 22:04:28&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;22:04:28&quot;,&quot;opponent&quot;:&quot;EHC Einsiedeln (6-2)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
