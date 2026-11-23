@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-22T20:00:35.374Z" start_date="2025-05-04" end_date="2027-05-04" event_count="951">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-23T18:38:06.660Z" start_date="2025-05-04" end_date="2027-05-04" event_count="953">
   <events>
     <event>
       <id>747253</id>
@@ -45441,14 +45441,14 @@ Pikett: Ennio Kappeler </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>EHC Zuchwil Regio</opponent>
+      <opponent>EHC Zuchwil Regio (1-9)</opponent>
 
       <date>2026-11-22</date>
       <weekday>Su</weekday>
       <time_start>17:15</time_start>
-      <time_end>19:15</time_end>
+      <time_end>19:07</time_end>
       <datetime_start>2026-11-22T17:15:00+02:00</datetime_start>
-      <datetime_end>2026-11-22T19:15:00+02:00</datetime_end>
+      <datetime_end>2026-11-22T19:07:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -45470,16 +45470,16 @@ Pikett: Ennio Kappeler </field>
       <field name="date">2026-11-22</field>
       <field name="weekday">Su</field>
       <field name="start">2026-11-22 17:15:00</field>
-      <field name="end">2026-11-22 19:15:00</field>
+      <field name="end">2026-11-22 19:07:49</field>
       <field name="time_start">17:15:00</field>
-      <field name="time_end">19:15:00</field>
-      <field name="opponent">EHC Zuchwil Regio</field>
+      <field name="time_end">19:07:49</field>
+      <field name="opponent">EHC Zuchwil Regio (1-9)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173474&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-22&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-22 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-22 19:15:00&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:15:00&quot;,&quot;opponent&quot;:&quot;EHC Zuchwil Regio&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173474&quot;,&quot;id_group&quot;:&quot;10327&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-22&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-22 17:15:00&quot;,&quot;end&quot;:&quot;2026-11-22 19:07:49&quot;,&quot;time_start&quot;:&quot;17:15:00&quot;,&quot;time_end&quot;:&quot;19:07:49&quot;,&quot;opponent&quot;:&quot;EHC Zuchwil Regio (1-9)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -47697,7 +47697,7 @@ Pikett: Ennio Kappeler </field>
       <place>Academy Arena, 6303 Zug</place>
       <location_id></location_id>
 
-      <notes></notes>
+      <notes>Evtl. Bus Informationen folgen</notes>
       <description></description>
 
       <url></url>
@@ -47705,7 +47705,7 @@ Pikett: Ennio Kappeler </field>
       <source_fields>
       <field name="id_event">173513</field>
       <field name="id_group">10324</field>
-      <field name="notes"> </field>
+      <field name="notes">Evtl. Bus Informationen folgen </field>
       <field name="agegroup">U14-U16</field>
       <field name="type">Saison</field>
       <field name="event">Spiel (auswärts)</field>
@@ -47723,7 +47723,7 @@ Pikett: Ennio Kappeler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173513&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena, 6303 Zug&quot;,&quot;date&quot;:&quot;2026-11-29&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-29 12:15:00&quot;,&quot;end&quot;:&quot;2026-11-29 14:15:00&quot;,&quot;time_start&quot;:&quot;12:15:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug I&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173513&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot;Evtl. Bus Informationen folgen &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena, 6303 Zug&quot;,&quot;date&quot;:&quot;2026-11-29&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-29 12:15:00&quot;,&quot;end&quot;:&quot;2026-11-29 14:15:00&quot;,&quot;time_start&quot;:&quot;12:15:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug I&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -49638,6 +49638,72 @@ Pikett: Ennio Kappeler </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;846134&quot;,&quot;id_group&quot;:&quot;14239&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U18-U21 (U18)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-12-04&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-12-04 18:45:00&quot;,&quot;end&quot;:&quot;2026-12-04 19:45:00&quot;,&quot;time_start&quot;:&quot;18:45:00&quot;,&quot;time_end&quot;:&quot;19:45:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>188951</id>
+      <uid>mih-88-fa2603ea3cb7c02ec351bb8b@ehc-sursee.local</uid>
+
+      <type_event>GA</type_event>
+      <event>Spiel (auswärts)</event>
+      <title>Spiel (auswärts)</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team>Damen</team>
+      <team_id>10782</team_id>
+
+      <practice_group></practice_group>
+      <practice_group_id></practice_group_id>
+
+      <category>Damen</category>
+      <category_id>10782</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Turnier</type>
+      <type_id>G2</type_id>
+
+      <opponent>Neuchatel Hockey Academy</opponent>
+
+      <date>2026-12-04</date>
+      <weekday>Fr</weekday>
+      <time_start>19:30</time_start>
+      <time_end>21:30</time_end>
+      <datetime_start>2026-12-04T19:30:00+02:00</datetime_start>
+      <datetime_end>2026-12-04T21:30:00+02:00</datetime_end>
+
+      <place>Patinoire secondaire, Neuchâtel NE</place>
+      <location_id></location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">188951</field>
+      <field name="id_group">10782</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv</field>
+      <field name="type">Turnier</field>
+      <field name="event">Spiel (auswärts)</field>
+      <field name="type_event">GA</field>
+      <field name="place">Patinoire secondaire, Neuchâtel NE</field>
+      <field name="date">2026-12-04</field>
+      <field name="weekday">Fr</field>
+      <field name="start">2026-12-04 19:30:00</field>
+      <field name="end">2026-12-04 21:30:00</field>
+      <field name="time_start">19:30:00</field>
+      <field name="time_end">21:30:00</field>
+      <field name="opponent">Neuchatel Hockey Academy</field>
+      <field name="type_type">G2</field>
+      <field name="color">#1184ea</field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;188951&quot;,&quot;id_group&quot;:&quot;10782&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Turnier&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Patinoire secondaire, Neuchâtel NE&quot;,&quot;date&quot;:&quot;2026-12-04&quot;,&quot;weekday&quot;:&quot;Fr&quot;,&quot;start&quot;:&quot;2026-12-04 19:30:00&quot;,&quot;end&quot;:&quot;2026-12-04 21:30:00&quot;,&quot;time_start&quot;:&quot;19:30:00&quot;,&quot;time_end&quot;:&quot;21:30:00&quot;,&quot;opponent&quot;:&quot;Neuchatel Hockey Academy&quot;,&quot;type_type&quot;:&quot;G2&quot;,&quot;color&quot;:&quot;#1184ea&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -54928,6 +54994,72 @@ Betreuung: Pascal Ammann </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;170202&quot;,&quot;id_group&quot;:&quot;10780&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-12-22&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-12-22 20:30:00&quot;,&quot;end&quot;:&quot;2026-12-22 22:30:00&quot;,&quot;time_start&quot;:&quot;20:30:00&quot;,&quot;time_end&quot;:&quot;22:30:00&quot;,&quot;opponent&quot;:&quot;EHC Koppigen&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>878292</id>
+      <uid>mih-88-9549b4b1c8cf5539f7a2b17f@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>Aktiv</agegroup>
+      <agegroup_id>63</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>1. Mannschaft</practice_group>
+      <practice_group_id>15268</practice_group_id>
+
+      <category>1. Mannschaft</category>
+      <category_id>15268</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Eistraining</type>
+      <type_id>P2</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-12-29</date>
+      <weekday>Tu</weekday>
+      <time_start>20:00</time_start>
+      <time_end>21:15</time_end>
+      <datetime_start>2026-12-29T20:00:00+02:00</datetime_start>
+      <datetime_end>2026-12-29T21:15:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Eisfeld</place>
+      <location_id>2297</location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">878292</field>
+      <field name="id_group">15268</field>
+      <field name="notes"> </field>
+      <field name="agegroup">Aktiv (1. Mannschaft)</field>
+      <field name="type">Eistraining</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Eisfeld</field>
+      <field name="date">2026-12-29</field>
+      <field name="weekday">Tu</field>
+      <field name="start">2026-12-29 20:00:00</field>
+      <field name="end">2026-12-29 21:15:00</field>
+      <field name="time_start">20:00:00</field>
+      <field name="time_end">21:15:00</field>
+      <field name="type_type">P2</field>
+      <field name="color">#1184ea</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;878292&quot;,&quot;id_group&quot;:&quot;15268&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;Aktiv (1. Mannschaft)&quot;,&quot;type&quot;:&quot;Eistraining&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Eisfeld&quot;,&quot;date&quot;:&quot;2026-12-29&quot;,&quot;weekday&quot;:&quot;Tu&quot;,&quot;start&quot;:&quot;2026-12-29 20:00:00&quot;,&quot;end&quot;:&quot;2026-12-29 21:15:00&quot;,&quot;time_start&quot;:&quot;20:00:00&quot;,&quot;time_end&quot;:&quot;21:15:00&quot;,&quot;type_type&quot;:&quot;P2&quot;,&quot;color&quot;:&quot;#1184ea&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
