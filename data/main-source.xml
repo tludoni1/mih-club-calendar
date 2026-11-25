@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-25T17:30:56.151Z" start_date="2025-05-04" end_date="2027-05-04" event_count="1105">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-25T22:01:28.432Z" start_date="2025-05-04" end_date="2027-05-04" event_count="1105">
   <events>
     <event>
       <id>747253</id>
@@ -46365,14 +46365,14 @@ Pikett: Ennio Kappeler </field>
       <type>Saison</type>
       <type_id>G3</type_id>
 
-      <opponent>HC Wohlen Freiamt</opponent>
+      <opponent>HC Wohlen Freiamt (4-14)</opponent>
 
       <date>2026-11-25</date>
       <weekday>We</weekday>
       <time_start>18:00</time_start>
-      <time_end>20:00</time_end>
+      <time_end>19:59</time_end>
       <datetime_start>2026-11-25T18:00:00+02:00</datetime_start>
-      <datetime_end>2026-11-25T20:00:00+02:00</datetime_end>
+      <datetime_end>2026-11-25T19:59:00+02:00</datetime_end>
 
       <place>Eishalle Sursee, 6210 Sursee LU</place>
       <location_id></location_id>
@@ -46394,16 +46394,16 @@ Pikett: Ennio Kappeler </field>
       <field name="date">2026-11-25</field>
       <field name="weekday">We</field>
       <field name="start">2026-11-25 18:00:00</field>
-      <field name="end">2026-11-25 20:00:00</field>
+      <field name="end">2026-11-25 19:59:00</field>
       <field name="time_start">18:00:00</field>
-      <field name="time_end">20:00:00</field>
-      <field name="opponent">HC Wohlen Freiamt</field>
+      <field name="time_end">19:59:00</field>
+      <field name="opponent">HC Wohlen Freiamt (4-14)</field>
       <field name="type_type">G3</field>
       <field name="color">#f8ac59</field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173533&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-25&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-11-25 18:00:00&quot;,&quot;end&quot;:&quot;2026-11-25 20:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;HC Wohlen Freiamt&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173533&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-11-25&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-11-25 18:00:00&quot;,&quot;end&quot;:&quot;2026-11-25 19:59:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;19:59:00&quot;,&quot;opponent&quot;:&quot;HC Wohlen Freiamt (4-14)&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
@@ -47697,7 +47697,7 @@ Pikett: Ennio Kappeler </field>
       <place>Academy Arena, 6303 Zug</place>
       <location_id></location_id>
 
-      <notes>Evtl. Bus Informationen folgen</notes>
+      <notes>Private Anreise</notes>
       <description></description>
 
       <url></url>
@@ -47705,7 +47705,7 @@ Pikett: Ennio Kappeler </field>
       <source_fields>
       <field name="id_event">173513</field>
       <field name="id_group">10324</field>
-      <field name="notes">Evtl. Bus Informationen folgen </field>
+      <field name="notes">Private Anreise </field>
       <field name="agegroup">U14-U16</field>
       <field name="type">Saison</field>
       <field name="event">Spiel (auswärts)</field>
@@ -47723,7 +47723,7 @@ Pikett: Ennio Kappeler </field>
       </source_fields>
 
       <raw>
-        <raw_json>{&quot;id_event&quot;:&quot;173513&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot;Evtl. Bus Informationen folgen &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena, 6303 Zug&quot;,&quot;date&quot;:&quot;2026-11-29&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-29 12:15:00&quot;,&quot;end&quot;:&quot;2026-11-29 14:15:00&quot;,&quot;time_start&quot;:&quot;12:15:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug I&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+        <raw_json>{&quot;id_event&quot;:&quot;173513&quot;,&quot;id_group&quot;:&quot;10324&quot;,&quot;notes&quot;:&quot;Private Anreise &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel (auswärts)&quot;,&quot;type_event&quot;:&quot;GA&quot;,&quot;place&quot;:&quot;Academy Arena, 6303 Zug&quot;,&quot;date&quot;:&quot;2026-11-29&quot;,&quot;weekday&quot;:&quot;Su&quot;,&quot;start&quot;:&quot;2026-11-29 12:15:00&quot;,&quot;end&quot;:&quot;2026-11-29 14:15:00&quot;,&quot;time_start&quot;:&quot;12:15:00&quot;,&quot;time_end&quot;:&quot;14:15:00&quot;,&quot;opponent&quot;:&quot;EV Zug I&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
       </raw>
     </event>
     <event>
