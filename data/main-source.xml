@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-27T21:42:30.973Z" start_date="2025-05-04" end_date="2027-05-04" event_count="1105">
+<calendar source_url="https://app.myice.hockey/clubschedulepublic.php?cid=88&amp;lid=1" api_url="https://app.myice.hockey/inc/processclubplanningpublic.php" source_type="public_club_schedule_api" club_id="88" language_id="1" exported_at="2026-11-28T15:45:43.699Z" start_date="2025-05-04" end_date="2027-05-04" event_count="1106">
   <events>
     <event>
       <id>747253</id>
@@ -53544,6 +53544,72 @@ Betreuung: Pascal Ammann </field>
 
       <raw>
         <raw_json>{&quot;id_event&quot;:&quot;173536&quot;,&quot;id_group&quot;:&quot;10325&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16&quot;,&quot;type&quot;:&quot;Saison&quot;,&quot;event&quot;:&quot;Spiel&quot;,&quot;type_event&quot;:&quot;GH&quot;,&quot;place&quot;:&quot;Eishalle Sursee, 6210 Sursee LU&quot;,&quot;date&quot;:&quot;2026-12-16&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-12-16 18:00:00&quot;,&quot;end&quot;:&quot;2026-12-16 20:00:00&quot;,&quot;time_start&quot;:&quot;18:00:00&quot;,&quot;time_end&quot;:&quot;20:00:00&quot;,&quot;opponent&quot;:&quot;HC NWU Black&quot;,&quot;type_type&quot;:&quot;G3&quot;,&quot;color&quot;:&quot;#f8ac59&quot;}</raw_json>
+      </raw>
+    </event>
+    <event>
+      <id>879855</id>
+      <uid>mih-88-06536146be4d409ff09fb5c1@ehc-sursee.local</uid>
+
+      <type_event>P</type_event>
+      <event>Training</event>
+      <title>Training</title>
+
+      <agegroup>U14-U16</agegroup>
+      <agegroup_id>143</agegroup_id>
+
+      <team></team>
+      <team_id></team_id>
+
+      <practice_group>U14</practice_group>
+      <practice_group_id>14191</practice_group_id>
+
+      <category>U14</category>
+      <category_id>14191</category_id>
+
+      <mapping_status>mapped</mapping_status>
+
+      <type>Theorie</type>
+      <type_id>P5</type_id>
+
+      <opponent></opponent>
+
+      <date>2026-12-16</date>
+      <weekday>We</weekday>
+      <time_start>18:30</time_start>
+      <time_end>19:00</time_end>
+      <datetime_start>2026-12-16T18:30:00+02:00</datetime_start>
+      <datetime_end>2026-12-16T19:00:00+02:00</datetime_end>
+
+      <place>Eishalle Sursee - Kraftraum</place>
+      <location_id>2293</location_id>
+
+      <notes></notes>
+      <description></description>
+
+      <url></url>
+
+      <source_fields>
+      <field name="id_event">879855</field>
+      <field name="id_group">14191</field>
+      <field name="notes"> </field>
+      <field name="agegroup">U14-U16 (U14)</field>
+      <field name="type">Theorie</field>
+      <field name="event">Training</field>
+      <field name="type_event">P</field>
+      <field name="place">Eishalle Sursee - Kraftraum</field>
+      <field name="date">2026-12-16</field>
+      <field name="weekday">We</field>
+      <field name="start">2026-12-16 18:30:00</field>
+      <field name="end">2026-12-16 19:00:00</field>
+      <field name="time_start">18:30:00</field>
+      <field name="time_end">19:00:00</field>
+      <field name="type_type">P5</field>
+      <field name="color">#23c6c8</field>
+      <field name="opponent"></field>
+      </source_fields>
+
+      <raw>
+        <raw_json>{&quot;id_event&quot;:&quot;879855&quot;,&quot;id_group&quot;:&quot;14191&quot;,&quot;notes&quot;:&quot; &quot;,&quot;agegroup&quot;:&quot;U14-U16 (U14)&quot;,&quot;type&quot;:&quot;Theorie&quot;,&quot;event&quot;:&quot;Training&quot;,&quot;type_event&quot;:&quot;P&quot;,&quot;place&quot;:&quot;Eishalle Sursee - Kraftraum&quot;,&quot;date&quot;:&quot;2026-12-16&quot;,&quot;weekday&quot;:&quot;We&quot;,&quot;start&quot;:&quot;2026-12-16 18:30:00&quot;,&quot;end&quot;:&quot;2026-12-16 19:00:00&quot;,&quot;time_start&quot;:&quot;18:30:00&quot;,&quot;time_end&quot;:&quot;19:00:00&quot;,&quot;type_type&quot;:&quot;P5&quot;,&quot;color&quot;:&quot;#23c6c8&quot;,&quot;opponent&quot;:&quot;&quot;}</raw_json>
       </raw>
     </event>
     <event>
